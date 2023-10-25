@@ -26,3 +26,10 @@ DOMAIN,labs1.google.com
 # Claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
+
+# Poe
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
+
+# ai...
+DOMAIN-SUFFIX,forefront.ai
