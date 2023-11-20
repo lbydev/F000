@@ -9,6 +9,9 @@ DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
 DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-KEYWORD,openai
 
 # BING
 DOMAIN-SUFFIX,bing.com
@@ -22,10 +25,16 @@ DOMAIN-SUFFIX,bingagencyawards.com
 DOMAIN,bard.google.com
 DOMAIN,labs.google.com
 DOMAIN,labs1.google.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,in.appcenter.ms
+DOMAIN-SUFFIX,ogs.google.com
+DOMAIN-SUFFIX,www.google.com
 
 # Claude
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-KEYWORD,claude
 
 # Poe
 DOMAIN-SUFFIX,poe.com
