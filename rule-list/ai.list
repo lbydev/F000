@@ -22,6 +22,10 @@ DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,bingagencyawards.com
 
 # Gooogle Bard
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,in.appcenter.ms
+DOMAIN-SUFFIX,ogs.google.com
 DOMAIN,bard.google.com
 DOMAIN,labs.google.com
 DOMAIN,labs1.google.com
