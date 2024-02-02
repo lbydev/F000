@@ -242,3 +242,13 @@
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 ad.mi.com
 127.0.0.1 clock.ad.xiaomi.com
+# Qcloud
+127.0.0.1 report.vip.qq.com
+127.0.0.1 report.huatuo.qq.com
+127.0.0.1 report.qcloud.com
+# QQ
+127.0.0.1 otheve.beacon.qq.com
+# Tencent Bugly
+127.0.0.1 aexception.bugly.qq.com
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 ios.bugly.qq.com
