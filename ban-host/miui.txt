@@ -242,6 +242,11 @@
 127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 ad.mi.com
 127.0.0.1 clock.ad.xiaomi.com
+127.0.0.1 metok.sys.miui.com
+127.0.0.1 control.aps.amap.com
+127.0.0.1 api.tw06.xlmc.sec.miui.com
+# 系统应用检查更新 e.g 下载管理
+127.0.0.1 api.developer.xiaomi.com
 # Qcloud
 127.0.0.1 report.vip.qq.com
 127.0.0.1 report.huatuo.qq.com
@@ -252,3 +257,25 @@
 127.0.0.1 aexception.bugly.qq.com
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 ios.bugly.qq.com
+
+127.0.0.1 beacon-api.aliyuncs.com
+127.0.0.1 fineboost-loghub.ap-southeast-1.log.aliyuncs.com
+
+127.0.0.1 lbsgw.m.jd.com
+
+# 高德地图
+127.0.0.1 aloc-modeldata.amap.com
+127.0.0.1 aloc-gnss-eph.amap.com
+127.0.0.1 awaken.amap.com
+127.0.0.1 arch.amap.com
+127.0.0.1 mapdownload.autonavi.com
+127.0.0.1 c3.amap.com
+127.0.0.1 m5.amap.com
+127.0.0.1 m5-zb.amap.com
+127.0.0.1 m5-x.amap.com
+127.0.0.1 sync.amap.com
+127.0.0.1 ts.amap.com
+127.0.0.1 render-oss-cdn.amap.com
+
+#dingtalk
+127.0.0.1 acs.m.taobao.com
