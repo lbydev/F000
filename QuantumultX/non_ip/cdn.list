@@ -1,0 +1,6 @@
+HOST,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,cdn
+HOST-KEYWORD,dsn.algolia.net,cdn
+HOST-KEYWORD,web-assets.zendesk,cdn
+HOST-KEYWORD,vod-adaptive.akamaized.net,cdn
+HOST-KEYWORD,-res.cloudinary.com,cdn
+HOST-KEYWORD,-files.gitbook.io,cdn

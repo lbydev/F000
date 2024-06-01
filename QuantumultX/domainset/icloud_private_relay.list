@@ -1,0 +1,9 @@
+HOST,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,icloud_private_relay
+HOST,mask-t.apple-dns.net,icloud_private_relay
+HOST,mask-api.fe.apple-dns.net,icloud_private_relay
+HOST,mask.apple-dns.net,icloud_private_relay
+HOST,canary.mask.apple-dns.net,icloud_private_relay
+HOST,mask-api.icloud.com,icloud_private_relay
+HOST,mask-h2.icloud.com,icloud_private_relay
+HOST,mask-canary.icloud.com,icloud_private_relay
+HOST,mask.icloud.com,icloud_private_relay

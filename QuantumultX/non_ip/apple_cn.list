@@ -1,0 +1,9 @@
+HOST,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,apple_cn
+HOST,gs-loc-cn.apple.com,apple_cn
+HOST,api.smoot.apple.cn,apple_cn
+HOST-SUFFIX,gspe19-cn-ssl.ls.apple.com,apple_cn
+HOST-SUFFIX,icloud.com.cn,apple_cn
+HOST-SUFFIX,apple.com.cn,apple_cn
+HOST-SUFFIX,cn-ssl.ls.apple.com,apple_cn
+HOST-SUFFIX,cn.ls.apple.com,apple_cn
+HOST-SUFFIX,cn.apple.com,apple_cn
