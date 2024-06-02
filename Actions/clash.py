@@ -90,6 +90,7 @@ urls = [
     "https://ruleset.skk.moe/Clash/non_ip/lan.txt",
     "https://ruleset.skk.moe/Clash/non_ip/microsoft_cdn.txt",
     "https://ruleset.skk.moe/Clash/non_ip/microsoft.txt",
+    "https://ruleset.skk.moe/Clash/non_ip/apple_services.txt",
     "https://ruleset.skk.moe/Clash/non_ip/stream.txt",
     "https://ruleset.skk.moe/Clash/non_ip/stream_us.txt",
     "https://ruleset.skk.moe/Clash/non_ip/telegram.txt",
