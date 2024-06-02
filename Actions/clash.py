@@ -103,6 +103,7 @@ urls = [
     "https://ruleset.skk.moe/Clash/ip/stream_us.txt",
     "https://ruleset.skk.moe/Clash/ip/telegram_asn.txt",
     "https://ruleset.skk.moe/Clash/ip/telegram.txt",
+    "https://ruleset.skk.moe/Clash/ip/reject.txt",
 ]
 
 for url in urls:
