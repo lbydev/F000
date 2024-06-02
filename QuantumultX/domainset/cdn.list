@@ -1272,6 +1272,8 @@ HOST-SUFFIX,pastebin.com,cdn
 HOST-SUFFIX,gateway.pinata.cloud,cdn
 HOST-SUFFIX,pixelcdn.net,cdn
 HOST,pkg-size.dev,cdn
+HOST-SUFFIX,placehold.co,cdn
+HOST-SUFFIX,placehold.jp,cdn
 HOST,placeimg.com,cdn
 HOST,cdn-assets.porntube.com,cdn
 HOST,cdn-thumbs.porntube.com,cdn
@@ -1750,6 +1752,7 @@ HOST,img.picacomic.com,cdn
 HOST,storage-b.picacomic.com,cdn
 HOST-SUFFIX,picsum.photos,cdn
 HOST-SUFFIX,assets.pinterest.com,cdn
+HOST-SUFFIX,place-hold.it,cdn
 HOST,js.qualified.com,cdn
 HOST-SUFFIX,siteintercept.qualtrics.com,cdn
 HOST,error.rakuten.co.jp,cdn
@@ -1864,6 +1867,7 @@ HOST,hub-assets.displaycal.net,cdn
 HOST-SUFFIX,doppiocdn.live,cdn
 HOST,icons.duckduckgo.com,cdn
 HOST,external-content.duckduckgo.com,cdn
+HOST-SUFFIX,dummyimage.com,cdn
 HOST-SUFFIX,ebaystatic.com,cdn
 HOST,cdn2.editmysite.com,cdn
 HOST,images.emojiterra.com,cdn
@@ -1931,6 +1935,7 @@ HOST,optimizely.com,cdn
 HOST,m-cdn.phonearena.com,cdn
 HOST,s-cdn.phonearena.com,cdn
 HOST,cdn.pickystory.com,cdn
+HOST-SUFFIX,placewaifu.com,cdn
 HOST,cdn7.pornmaster.fun,cdn
 HOST,apps.profitihub.com,cdn
 HOST-SUFFIX,pstorage.space,cdn
