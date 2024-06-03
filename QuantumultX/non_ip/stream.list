@@ -222,12 +222,10 @@ HOST-SUFFIX,dazndn.com,stream
 HOST-SUFFIX,dazn.com,stream
 HOST-SUFFIX,dazn-api.com,stream
 HOST-SUFFIX,dokusho-ojikan.jp,stream
-HOST-SUFFIX,hjholdings.jp,stream
 HOST-SUFFIX,hulustream.com,stream
 HOST-SUFFIX,huluim.com,stream
 HOST-SUFFIX,hulu.us,stream
 HOST-SUFFIX,hulu.tv,stream
-HOST-SUFFIX,hulu.jp,stream
 HOST-SUFFIX,hulu.com,stream
 HOST-SUFFIX,himalaya.com,stream
 HOST-SUFFIX,hboasia.com,stream
@@ -238,7 +236,6 @@ HOST-SUFFIX,hbogoasia.hk,stream
 HOST-SUFFIX,hbogoasia.com,stream
 HOST-SUFFIX,hbogo.com,stream
 HOST-SUFFIX,hbo.com,stream
-HOST-SUFFIX,happyon.jp,stream
 HOST-SUFFIX,hayabusa.media,stream
 HOST-SUFFIX,hayabusa.io,stream
 HOST-SUFFIX,hayabusa.dev,stream
