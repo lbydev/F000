@@ -175,7 +175,6 @@ HOST-SUFFIX,foxplus.com,stream
 HOST-SUFFIX,foxdcg.com,stream
 HOST-SUFFIX,fox.com,stream
 HOST-SUFFIX,fls-na.amazon.com,stream
-HOST-SUFFIX,pscdn.co,stream
 HOST-SUFFIX,pornhubpremium.com,stream
 HOST-SUFFIX,pornhub.com,stream
 HOST-SUFFIX,phprcdn.com,stream
@@ -183,6 +182,8 @@ HOST-SUFFIX,peacocktv.com,stream
 HOST-SUFFIX,pbs.org,stream
 HOST-SUFFIX,pandora.com,stream
 HOST-SUFFIX,paramountplus.com,stream
+HOST-SUFFIX,pscdn.co,stream
+HOST-SUFFIX,psg.cdn.hgc.com.hk,stream
 HOST-SUFFIX,prime-video.com,stream
 HOST-SUFFIX,primevideo.tv,stream
 HOST-SUFFIX,primevideo.org,stream
