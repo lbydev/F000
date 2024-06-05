@@ -98,6 +98,7 @@ HOST,down.filen-3.net,download
 HOST,down.filen-4.net,download
 HOST,down.filen-5.net,download
 HOST,dl.flathub.org,download
+HOST,mirror.ghproxy.com,download
 HOST,download.mozilla.org,download
 HOST,download.nektony.com,download
 HOST,boot.netboot.xyz,download
@@ -127,6 +128,8 @@ HOST,download.gigabyte.com,download
 HOST,download.iboysoft.com,download
 HOST,download.mikrotik.com,download
 HOST-SUFFIX,download.mokeedev.com,download
+HOST,ciscobinary.openh264.org,download
+HOST,download.opensuse.org,download
 HOST,cdn-images.orbstack.dev,download
 HOST,api-updates.orbstack.dev,download
 HOST,cdn-updates.orbstack.dev,download
@@ -218,6 +221,5 @@ HOST,ftp.androidfilehost.com,download
 HOST,ava6.androidfilehost.com,download
 HOST,get.pixelexperience.org,download
 HOST,download.pixelexperience.org,download
-HOST,ciscobinary.openh264,download
 HOST-SUFFIX,copr.fedorainfracloud.org,download
 HOST-SUFFIX,cloudflaremirrors.com,download
