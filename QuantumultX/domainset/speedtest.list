@@ -92,6 +92,7 @@ HOST,tu.ticco.ae,speedtest
 HOST,speedtest10.vqbn.com,speedtest
 HOST,speedtest.w-net.us,speedtest
 HOST,speedtest-intl.xl.co.id,speedtest
+HOST,mycuspeed.169ol.com,speedtest
 HOST,speedtest.39d.co.uk,speedtest
 HOST,speedtest1.ah163.com,speedtest
 HOST,speedtest.apnic.net,speedtest
@@ -170,6 +171,7 @@ HOST,warp.cronon.net,speedtest
 HOST,speedtest.hk210.hkg.cn.ctcsci.com,speedtest
 HOST,speedtest.jp230.hnd.jp.ctcsci.com,speedtest
 HOST,speedtest.sg220.sgp.sg.ctcsci.com,speedtest
+HOST,speedtest.us310.lax.us.ctcsci.com,speedtest
 HOST-SUFFIX,speedtest.dchost.com,speedtest
 HOST,speed2.dg-sys.net,speedtest
 HOST,speedtest01.dns-net.de,speedtest
@@ -525,6 +527,7 @@ HOST,speedtest.cdmsfirst.com,speedtest
 HOST,mensura.cdn-apple.com,speedtest
 HOST-SUFFIX,speedtest.clouvider.net,speedtest
 HOST-SUFFIX,speedtest.comnet.com.tr,speedtest
+HOST,sp1.contilnet.net,speedtest
 HOST,speedtest1.mia.fl.us.convergia.net,speedtest
 HOST,askeycsit.dyndns-ip.com,speedtest
 HOST,speedtest.qld.edgeix.net.au,speedtest
@@ -987,6 +990,7 @@ HOST,st2.octopustelecom.co.uk,speedtest
 HOST,de.prismanetworks.cloud,speedtest
 HOST,speedtest.seveninternet.com.br,speedtest
 HOST,velocimetro.speednetworks.com.br,speedtest
+HOST,teste.speedtestwnet.com.br,speedtest
 HOST,speed-server3.summit-broadband.com,speedtest
 HOST,suntechspeedtest.com,speedtest
 HOST,teste.suprainternet.com.br,speedtest

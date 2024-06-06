@@ -852,6 +852,7 @@ HOST,cdn6.aptoide.com,cdn
 HOST,cdn-mobile.aptoide.com,cdn
 HOST-SUFFIX,archive.org,cdn
 HOST,static.assetlab.io,cdn
+HOST,consentdeliveryfd.azurefd.net,cdn
 HOST-SUFFIX,bdzybf7.com,cdn
 HOST,a5.behance.net,cdn
 HOST,mir-s3-cdn-cf.behance.net,cdn
@@ -1981,7 +1982,6 @@ HOST-SUFFIX,zohostatic.com,cdn
 HOST,showcase.abovemarket.com,cdn
 HOST,easylist-downloads.adblockplus.org,cdn
 HOST-SUFFIX,addons.business,cdn
-HOST,ocsp.r2m02.amazontrust.com,cdn
 HOST,cdn.announcekit.app,cdn
 HOST,img.announcekit.app,cdn
 HOST,img.applealmond.com,cdn
@@ -2313,6 +2313,7 @@ HOST,image.theblockbeats.info,cdn
 HOST,vscode-sync.trafficmanager.net,cdn
 HOST,vscode-sync-insiders.trafficmanager.net,cdn
 HOST,www.typescriptlang.org,cdn
+HOST,playgroundcdn.typescriptlang.org,cdn
 HOST,talk.washingtonpost.com,cdn
 HOST-SUFFIX,yourimageshare.com,cdn
 HOST-SUFFIX,azurestaticapps.net,cdn
