@@ -8,7 +8,7 @@ def process_file(url, filename):
         processed_lines = []
         for line in lines:
             original_line = line.strip()
-            if original_line and not original_line.startswith('#'):
+            if original_line and not original_line.startswith('#') and not original_line.startswith('PROCESS-NAME,'):
                 # Handling IP range lines or mapping using dictionary
                 if is_ip_range(original_line) and not starts_with_ip_prefix(original_line):
                     new_line = handle_ip_range(original_line)
