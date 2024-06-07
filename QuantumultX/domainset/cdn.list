@@ -50,6 +50,7 @@ HOST,images.spr.so,cdn
 HOST-SUFFIX,ttl.sh,cdn
 HOST,static.ui.com,cdn
 HOST,images.svc.ui.com,cdn
+HOST,img.community.ui.com,cdn
 HOST,secure-uploads.ui.com,cdn
 HOST,account-cdn.svc.ui.com,cdn
 HOST,net-fe-static-assets.network-controller.svc.ui.com,cdn
@@ -244,9 +245,6 @@ HOST,cdn-edge.karte.io,cdn
 HOST,info.knak.com,cdn
 HOST,cdn.kobo.com,cdn
 HOST,static.kobo.com,cdn
-HOST,s1.kwai.net,cdn
-HOST,aws-static.kwai.net,cdn
-HOST,cdn-static.kwai.net,cdn
 HOST-SUFFIX,loli.net,cdn
 HOST,cdn.loom.com,cdn
 HOST,s3.masto.ai,cdn

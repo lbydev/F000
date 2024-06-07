@@ -62,6 +62,7 @@ HOST,speedtest3.dacor.de,speedtest
 HOST,speedtest.dcs1.biz,speedtest
 HOST,pegasqa.ddns.net,speedtest
 HOST-SUFFIX,ookla-speedtests.e2ro.com,speedtest
+HOST,speedtest01.ehtel.ca,speedtest
 HOST,speedtest-dc08.enzu.com,speedtest
 HOST-SUFFIX,fast.com,speedtest
 HOST,speedtest.nik.fiber.nl,speedtest
@@ -246,6 +247,7 @@ HOST,stmilton.rogers.com,speedtest
 HOST,sttoronto.rogers.com,speedtest
 HOST,stbrampton.rogers.com,speedtest
 HOST,sthamilton.rogers.com,speedtest
+HOST,stkingcity.rogers.com,speedtest
 HOST,stoakville.rogers.com,speedtest
 HOST,ststthomas.rogers.com,speedtest
 HOST,stwaterloo.rogers.com,speedtest
@@ -286,6 +288,7 @@ HOST,stleamingtonwireless.rogers.com,speedtest
 HOST,stlethbridgewireless.rogers.com,speedtest
 HOST,stthunderbaywireless.rogers.com,speedtest
 HOST,stmississaugawireless.rogers.com,speedtest
+HOST,storangevillewireless.rogers.com,speedtest
 HOST,ststcatharineswireless.rogers.com,speedtest
 HOST,stsaultstemariewireless.rogers.com,speedtest
 HOST,stwellandpelhamwireless.rogers.com,speedtest
@@ -411,6 +414,7 @@ HOST,de-ffm1-ookla-01.wemacom.net,speedtest
 HOST,speedtest.westcall.ru,speedtest
 HOST,speedtest.wifi.net.tr,speedtest
 HOST-SUFFIX,wifiman.com,speedtest
+HOST,383-2speedtest.wightman.ca,speedtest
 HOST,speed1.wirsnet.com,speedtest
 HOST,de-speedtest.woks.com.tr,speedtest
 HOST,speedtest.wolfpaw.net,speedtest
@@ -558,8 +562,10 @@ HOST,speedtest-sg.napinfo.co.id,speedtest
 HOST,stguelph.netcrawler.ca,speedtest
 HOST,stlondon.netcrawler.ca,speedtest
 HOST,speedtest.netcrawler.ca,speedtest
+HOST,stvaughan.netcrawler.ca,speedtest
 HOST,stbrampton.netcrawler.ca,speedtest
 HOST,sthamilton.netcrawler.ca,speedtest
+HOST,stkingcity.netcrawler.ca,speedtest
 HOST,stmontreal.netcrawler.ca,speedtest
 HOST,stwaterloo.netcrawler.ca,speedtest
 HOST,stetobicoke.netcrawler.ca,speedtest
@@ -730,8 +736,10 @@ HOST-SUFFIX,speedtest.centurylink.net,speedtest
 HOST,speedtest.hk.chinamobile.com,speedtest
 HOST,speedtestbb.hk.chinamobile.com,speedtest
 HOST,ldn.speedtest.cmcnetworks.net,speedtest
+HOST,speedtestookla.datahost.net.tr,speedtest
 HOST,pauseq4vost1.datamossa.cloud,speedtest
 HOST,speedtest.dongfong.com.tw,speedtest
+HOST,speedtest.fra.ewgmedianet.com,speedtest
 HOST,spd.fibranet.srv.br,speedtest
 HOST,speedtest-nxtb2.fsg-hosting.com,speedtest
 HOST,speedtest-nxtp1.fsg-hosting.com,speedtest
@@ -785,6 +793,7 @@ HOST,speedtest-darwin-nt.optusnet.com.au,speedtest
 HOST,speedtest-marion-sa.optusnet.com.au,speedtest
 HOST,speedtest-townsville-qld.optusnet.com.au,speedtest
 HOST,speedtest-limestonecoast-sa.optusnet.com.au,speedtest
+HOST,speedtest.orixinet.com.br,speedtest
 HOST,speedtest.packetworks.net,speedtest
 HOST,speedtest.portalnt.com.br,speedtest
 HOST,ooklaspeedtest-cdb.quebeccloud.com,speedtest
@@ -807,6 +816,8 @@ HOST-SUFFIX,speedtest.vodafone.com.au,speedtest
 HOST,speedtest3.vodafone.com.tr,speedtest
 HOST,speedtest2.voicehost.co.uk,speedtest
 HOST,speedtest.webdiscount.net,speedtest
+HOST,speedtestmacapa.webflash.net.br,speedtest
+HOST,speedtest.webturbo.net.br,speedtest
 HOST,speedtest.wifitelekom.com,speedtest
 HOST,speedtest.actelecom.com.br,speedtest
 HOST,speedtest-lax.advinservers.com,speedtest

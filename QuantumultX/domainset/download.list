@@ -159,6 +159,7 @@ HOST,download4.epicgames.com,download
 HOST,fastly-download.epicgames.com,download
 HOST-SUFFIX,debian.map.fastlydns.net,download
 HOST,gog-cdn-lumen.secure2.footprint.net,download
+HOST-SUFFIX,releases.hashicorp.com,download
 HOST,cdn.hyperbeam.com,download
 HOST,download.jetbrains.com,download
 HOST,download-cdn.jetbrains.com,download
