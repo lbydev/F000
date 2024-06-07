@@ -747,5 +747,3 @@ HOST-SUFFIX,115cdn.com,domestic
 HOST-SUFFIX,115.com,domestic
 HOST-SUFFIX,10086.cn,domestic
 HOST-SUFFIX,10010.com,domestic
-HOST,PROCESS-NAME,WeCom,domestic
-HOST,PROCESS-NAME,WeChat,domestic
