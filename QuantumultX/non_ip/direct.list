@@ -124,39 +124,3 @@ HOST-KEYWORD,pkulaw,direct
 HOST-KEYWORD,westlawchina,direct
 HOST-KEYWORD,wanfangdata,direct
 HOST-KEYWORD,cnki.net,direct
-HOST,PROCESS-NAME,Logi Options,direct
-HOST,PROCESS-NAME,Logi Options Daemon,direct
-HOST,PROCESS-NAME,SunloginClient_Helper,direct
-HOST,PROCESS-NAME,SunloginClient_Desktop,direct
-HOST,PROCESS-NAME,UUBooster,direct
-HOST,PROCESS-NAME,Motrix.app,direct
-HOST,PROCESS-NAME,WebTorrent,direct
-HOST,PROCESS-NAME,WebTorrent Helper,direct
-HOST,PROCESS-NAME,DownloadService,direct
-HOST,PROCESS-NAME,qBittorrent,direct
-HOST,PROCESS-NAME,qbittorrent-nox,direct
-HOST,PROCESS-NAME,qbittorrent*,direct
-HOST,PROCESS-NAME,uTorrent,direct
-HOST,PROCESS-NAME,BaiduNetdisk_mac,direct
-HOST,PROCESS-NAME,BitComet,direct
-HOST,PROCESS-NAME,Transmission,direct
-HOST,PROCESS-NAME,Thunder,direct
-HOST,PROCESS-NAME,ThunderVIP,direct
-HOST,PROCESS-NAME,NetTransport,direct
-HOST,PROCESS-NAME,Folx,direct
-HOST,PROCESS-NAME,fdm,direct
-HOST,PROCESS-NAME,amuled,direct
-HOST,PROCESS-NAME,aria2c,direct
-HOST,PROCESS-NAME,parsecd,direct
-HOST,PROCESS-NAME,privoxy,direct
-HOST,PROCESS-NAME,tailscaled,direct
-HOST,PROCESS-NAME,transmission-qt,direct
-HOST,PROCESS-NAME,transmission-daemon,direct
-HOST,PROCESS-NAME,trojan,direct
-HOST,PROCESS-NAME,trojan-go,direct
-HOST,PROCESS-NAME,ClashX,direct
-HOST,PROCESS-NAME,cloudflared,direct
-HOST,PROCESS-NAME,clash,direct
-HOST,PROCESS-NAME,ss-local,direct
-HOST,PROCESS-NAME,xray,direct
-HOST,PROCESS-NAME,v2ray,direct
