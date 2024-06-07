@@ -23,9 +23,7 @@ def process_file(url, filename):
         return None
 
 def is_ip_range(line):
-    ipv4_pattern = r"(\bIP-CIDR,)?(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}/\d{1,2})"
-    ipv6_pattern = r"(\bIP-CIDR6,)?([0-9a-fA-F:]+/\d{1,3})"
-    return re.match(f"{ipv4_pattern}|{ipv6_pattern}", line)
+    return '/' in line and line.split('/')[1].isdigit()
 
 def starts_with_ip_prefix(line):
     return line.startswith("IP-CIDR,") or line.startswith("IP-CIDR6,")
