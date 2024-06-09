@@ -2919,7 +2919,7 @@ IP-CIDR,203.212.0.0/20,china_ip
 IP-CIDR,203.212.80.0/23,china_ip
 IP-CIDR,203.215.232.0/23,china_ip
 IP-CIDR,203.215.236.0/24,china_ip
-IP-CIDR,210.2.0.0/24,china_ip
+IP-CIDR,210.2.0.0/23,china_ip
 IP-CIDR,210.2.4.0/24,china_ip
 IP-CIDR,210.5.18.0/24,china_ip
 IP-CIDR,210.5.128.0/19,china_ip
@@ -2960,7 +2960,8 @@ IP-CIDR,210.51.30.0/23,china_ip
 IP-CIDR,210.51.32.0/24,china_ip
 IP-CIDR,210.51.34.0/23,china_ip
 IP-CIDR,210.51.36.0/22,china_ip
-IP-CIDR,210.51.40.0/22,china_ip
+IP-CIDR,210.51.40.0/23,china_ip
+IP-CIDR,210.51.42.0/24,china_ip
 IP-CIDR,210.51.44.0/24,china_ip
 IP-CIDR,210.51.46.0/23,china_ip
 IP-CIDR,210.51.48.0/20,china_ip
