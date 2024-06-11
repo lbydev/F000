@@ -1,5 +1,4 @@
 HOST,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,reject
-IP-CIDR,62.204.41.234/32,reject
 IP-CIDR,61.191.206.4/32,reject
 IP-CIDR,61.183.1.186/32,reject
 IP-CIDR,61.174.50.214/32,reject

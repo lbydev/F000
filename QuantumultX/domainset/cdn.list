@@ -1802,6 +1802,7 @@ HOST,fonts1.unidays.world,cdn
 HOST,cdn.up-timely.com,cdn
 HOST,crl.usertrust.com,cdn
 HOST,crt.usertrust.com,cdn
+HOST,ocsp.usertrust.com,cdn
 HOST,widget.uservoice.com,cdn
 HOST-SUFFIX,video-cdn.net,cdn
 HOST,waitlisted.co,cdn
@@ -1879,6 +1880,8 @@ HOST,static.freeimages.com,cdn
 HOST,dam.freshworks.com,cdn
 HOST,widget.freshworks.com,cdn
 HOST,euc-widget.freshworks.com,cdn
+HOST,ocsp.globalsign.com,cdn
+HOST,ocsp2.globalsign.com,cdn
 HOST,ajax.googleapis.com,cdn
 HOST,chart.googleapis.com,cdn
 HOST,fonts.googleapis.com,cdn
