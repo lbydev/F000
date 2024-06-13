@@ -122,6 +122,7 @@ HOST,ookla.idnet.net,speedtest
 HOST,speedtest.innsys.ca,speedtest
 HOST,speedtest1.innsys.ca,speedtest
 HOST,velocidade.ip.eti.br,speedtest
+HOST,speedtest-fra-11.kemmit.de,speedtest
 HOST,perf.keyyo.net,speedtest
 HOST,speedtest.b2.mhn.cloud,speedtest
 HOST,speedtest.mel.mhn.cloud,speedtest
@@ -688,6 +689,7 @@ HOST-SUFFIX,speedtest.leaptel.com.au,speedtest
 HOST-SUFFIX,backend.librespeed.org,speedtest
 HOST,speedtest.localhosts.ltd,speedtest
 HOST,speedtest.meerfarbig.net,speedtest
+HOST,sig-speedtest.moratelindo.io,speedtest
 HOST,veloteste.mrjomar.com.br,speedtest
 HOST,speedtest.netcalibre.net,speedtest
 HOST,f1.netfast.com.br,speedtest
@@ -835,6 +837,7 @@ HOST,speedtest.embrasnet.com.br,speedtest
 HOST,speedtest.empireaccess.com,speedtest
 HOST,velocimetro.esolution.srv.br,speedtest
 HOST,velocidad.fiberlink.com.pa,speedtest
+HOST,speedtest.fiberlink.com.pe,speedtest
 HOST,speedtest.fiberlink.net.ua,speedtest
 HOST,ookla.fibranort.tec.br,speedtest
 HOST,speedtest1.flashwifi.com.br,speedtest
