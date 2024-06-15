@@ -35,6 +35,8 @@ def handle_ip_range(line):
 def handle_ip_noresolve(line, base_filename):
     if ",no-resolve" in line:
         ip_part, _ = line.split(",no-resolve", 1)
+        # Apply mapping after removing no-resolve
+        ip_part = map_line(ip_part, base_filename + ".txt")  # Assuming the suffix is ".txt"
         return f"{ip_part},{base_filename}"
     return f"{line}"
 
