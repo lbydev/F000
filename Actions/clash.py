@@ -40,8 +40,9 @@ def handle_ip_noresolve(line, base_filename):
 
 def map_line(line, filename):
     line_without_suffix = line.split(',')[0]
+    line_without_suffix_with_comma = line_without_suffix + ','
     for key in MAP_DICT:
-        if line_without_suffix.startswith(key + ','):
+        if line_without_suffix_with_comma.startswith(key + ','):
             line_mapped = line.replace(key, MAP_DICT[key])
             return f"{line_mapped},{os.path.splitext(filename)[0]}"
     if line_without_suffix.startswith('+.'):
