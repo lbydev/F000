@@ -1,2 +1,2 @@
-HOST,DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,cdn
-HOST,IP-CIDR,185.199.108.0/22,cdn
+HOST,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,cdn
+IP-CIDR,185.199.108.0/22,cdn
