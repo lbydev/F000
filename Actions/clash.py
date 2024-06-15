@@ -42,7 +42,8 @@ def map_line(line, filename):
     line_without_suffix = line.split(',')[0]
     for key in MAP_DICT:
         if line_without_suffix.startswith(key):
-            return line.replace(key, MAP_DICT[key]) + f",{os.path.splitext(filename)[0]}"
+            line_mapped = line.replace(key, MAP_DICT[key])
+            return f"{line_mapped},{os.path.splitext(filename)[0]}"
     if line_without_suffix.startswith('+.'):
         return line.replace('+.', 'HOST-SUFFIX,') + f",{os.path.splitext(filename)[0]}"
     return f"HOST,{line}" + f",{os.path.splitext(filename)[0]}"
