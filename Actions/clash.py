@@ -35,15 +35,13 @@ def handle_ip_range(line):
 def handle_ip_noresolve(line, base_filename):
     if ",no-resolve" in line:
         ip_part, _ = line.split(",no-resolve", 1)
-        # Apply mapping after removing no-resolve
-        ip_part = map_line(ip_part, base_filename + ".txt")  # Assuming the suffix is ".txt"
         return f"{ip_part},{base_filename}"
     return f"{line}"
 
 def map_line(line, filename):
     line_without_suffix = line.split(',')[0]
     for key in MAP_DICT:
-        if line_without_suffix.startswith(key):
+        if line_without_suffix.startswith(key + ','):
             line_mapped = line.replace(key, MAP_DICT[key])
             return f"{line_mapped},{os.path.splitext(filename)[0]}"
     if line_without_suffix.startswith('+.'):
