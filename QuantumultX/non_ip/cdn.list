@@ -1,6 +1,6 @@
-HOST,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,cdn
-HOST-KEYWORD,-files.gitbook.io,cdn
-HOST-KEYWORD,vod-adaptive.akamaized.net,cdn
-HOST-KEYWORD,web-assets.zendesk,cdn
-HOST-KEYWORD,-res.cloudinary.com,cdn
-HOST-KEYWORD,dsn.algolia.net,cdn
+HOST,DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,cdn
+HOST,DOMAIN-KEYWORD,-files.gitbook.io,cdn
+HOST,DOMAIN-KEYWORD,vod-adaptive.akamaized.net,cdn
+HOST,DOMAIN-KEYWORD,web-assets.zendesk,cdn
+HOST,DOMAIN-KEYWORD,-res.cloudinary.com,cdn
+HOST,DOMAIN-KEYWORD,dsn.algolia.net,cdn
