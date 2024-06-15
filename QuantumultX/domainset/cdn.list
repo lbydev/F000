@@ -121,6 +121,7 @@ HOST,oss.moe.cat,cdn
 HOST,assets.msn.com,cdn
 HOST-SUFFIX,cfcdn.mux.com,cdn
 HOST,ca.nfs.pub,cdn
+HOST,resource.video.nimg.jp,cdn
 HOST,media.npr.org,cdn
 HOST,bundles.npr.org,cdn
 HOST,static-assets.npr.org,cdn
