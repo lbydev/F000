@@ -50,6 +50,7 @@ HOST,images.spr.so,cdn
 HOST-SUFFIX,ttl.sh,cdn
 HOST,static.ui.com,cdn
 HOST,images.svc.ui.com,cdn
+HOST,cdn.pkg.svc.ui.com,cdn
 HOST,img.community.ui.com,cdn
 HOST,secure-uploads.ui.com,cdn
 HOST,account-cdn.svc.ui.com,cdn

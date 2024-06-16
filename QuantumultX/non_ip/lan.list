@@ -1,5 +1,7 @@
 HOST,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,lan
-HOST-SUFFIX,local,lan
+HOST-SUFFIX,lan,lan
+HOST-SUFFIX,localhost,lan
+HOST-SUFFIX,localdomain,lan
 HOST-SUFFIX,home.arpa,lan
 HOST-SUFFIX,10.in-addr.arpa,lan
 HOST-SUFFIX,16.172.in-addr.arpa,lan
