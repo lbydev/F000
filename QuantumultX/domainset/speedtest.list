@@ -95,6 +95,7 @@ HOST,speedtest.w-net.us,speedtest
 HOST,speedtest-intl.xl.co.id,speedtest
 HOST,mycuspeed.169ol.com,speedtest
 HOST,speedtest.39d.co.uk,speedtest
+HOST,ookla.aghost.uk,speedtest
 HOST,speedtest1.ah163.com,speedtest
 HOST,speedtest.apnic.net,speedtest
 HOST,speedperf.axione.fr,speedtest
@@ -235,6 +236,7 @@ HOST,kirklarelispeedtest.posive.net,speedtest
 HOST,speedtest-ca.pq.hosting,speedtest
 HOST,speedtest-de.pq.hosting,speedtest
 HOST,speedtest-ru.pq.hosting,speedtest
+HOST,speedtest-tr.pq.hosting,speedtest
 HOST,la-speedtest.qonzer.net,speedtest
 HOST,ny-speedtest.qonzer.net,speedtest
 HOST,pr-speedtest.qonzer.net,speedtest
@@ -340,6 +342,7 @@ HOST,speedtest.cubedns.com,speedtest
 HOST,speedtest.dcsi.net.au,speedtest
 HOST,speedtest.ffm.dynamic.icu,speedtest
 HOST,speedtest-west.eastlink.ca,speedtest
+HOST,spt-ist.edgeuno.com,speedtest
 HOST,spt-mia.edgeuno.com,speedtest
 HOST,speedtest2.esrv.center,speedtest
 HOST,sg-speedtest.fast.net.id,speedtest
@@ -500,6 +503,7 @@ HOST,speedtest.polycomm.net,speedtest
 HOST,postapps.com,speedtest
 HOST,speedtest.rrhosting.eu,speedtest
 HOST,st1.scaleway.com,speedtest
+HOST,fra1speedtest01.skylogic.com,speedtest
 HOST,par1speedtest01.skylogic.com,speedtest
 HOST,speedtest.skynetcom.ru,speedtest
 HOST,kami.smartone.com,speedtest
@@ -527,6 +531,7 @@ HOST,trtspeedtest.altimatel.com,speedtest
 HOST,vanspeedtest.altimatel.com,speedtest
 HOST,sp1.asthriona.com,speedtest
 HOST,speedtest.beanfield.com,speedtest
+HOST,speedtest-tor.beanfield.com,speedtest
 HOST,sp1.burstfire.net,speedtest
 HOST,dallas1.cabospeed.com,speedtest
 HOST,teste.cdanet.com.br,speedtest
@@ -985,6 +990,7 @@ HOST,velocimetro.infinitemais.com.br,speedtest
 HOST-SUFFIX,measurement-lab.org,speedtest
 HOST,speedtest.naturalwireless.com,speedtest
 HOST,speedtest2.pacificinternet.com,speedtest
+HOST,speedtest.satanhosting.com.tr,speedtest
 HOST,mia01.screenshot.download,speedtest
 HOST,nyc01.screenshot.download,speedtest
 HOST-SUFFIX,speedtestcustom.com,speedtest

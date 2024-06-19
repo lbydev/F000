@@ -81,5 +81,8 @@ HOST-SUFFIX,windows.net,microsoft
 HOST-SUFFIX,windowsazure.com,microsoft
 HOST-SUFFIX,windowsupdate.com,microsoft
 HOST-SUFFIX,wunderlist.com,microsoft
+HOST-SUFFIX,xbox.com,microsoft
+HOST-SUFFIX,xboxlive.com,microsoft
+HOST-SUFFIX,xboxservices.com,microsoft
 HOST-SUFFIX,yammer.com,microsoft
 HOST-SUFFIX,yammerusercontent.com,microsoft
