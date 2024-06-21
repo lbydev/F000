@@ -321,6 +321,7 @@ HOST,speedtest.5x5tele.com,speedtest
 HOST,velocimetro-spt.akto.com.br,speedtest
 HOST,speedtest.alastyr.com,speedtest
 HOST,speedtest.anksoft.net,speedtest
+HOST,speedtest_antalpha_sc7_hk.antalpha.io,speedtest
 HOST-SUFFIX,speedtest.aptg.com.tw,speedtest
 HOST,spt-nyc.as13786.net,speedtest
 HOST,speedtest1-sttlwawb.as20055.net,speedtest
@@ -414,6 +415,7 @@ HOST,speedtest-lon06.vorboss.net,speedtest
 HOST,speedtest.vt-build.ru,speedtest
 HOST,speedtestac.vtal.net.br,speedtest
 HOST,speedtestam.vtal.net.br,speedtest
+HOST,speedtestap.vtal.net.br,speedtest
 HOST,speedtestrr.vtal.net.br,speedtest
 HOST,de-bln2-ookla-01.wemacom.net,speedtest
 HOST,de-ffm1-ookla-01.wemacom.net,speedtest
@@ -529,6 +531,7 @@ HOST,speedtest01.srv.hcvlny.alticeusa.net,speedtest
 HOST,speedtest03.srv.whplny.alticeusa.net,speedtest
 HOST,trtspeedtest.altimatel.com,speedtest
 HOST,vanspeedtest.altimatel.com,speedtest
+HOST,ookla.asanet.tec.br,speedtest
 HOST,sp1.asthriona.com,speedtest
 HOST,speedtest.beanfield.com,speedtest
 HOST,speedtest-tor.beanfield.com,speedtest
