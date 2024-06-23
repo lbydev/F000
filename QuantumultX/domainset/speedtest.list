@@ -225,6 +225,7 @@ HOST,muglaspeedtest.posive.net,speedtest
 HOST,edirnespeedtest.posive.net,speedtest
 HOST,manisaspeedtest.posive.net,speedtest
 HOST,bilecikspeedtest.posive.net,speedtest
+HOST,cankirispeedtest.posive.net,speedtest
 HOST,kocaelispeedtest.posive.net,speedtest
 HOST,kutahyaspeedtest.posive.net,speedtest
 HOST,sakaryaspeedtest.posive.net,speedtest
@@ -643,6 +644,7 @@ HOST,hizaydin.durunet.com.tr,speedtest
 HOST,hizbursa.durunet.com.tr,speedtest
 HOST,hizduzce.durunet.com.tr,speedtest
 HOST,hizizmir.durunet.com.tr,speedtest
+HOST,hizsamsun.durunet.com.tr,speedtest
 HOST,hizkutahya.durunet.com.tr,speedtest
 HOST,hizsakarya.durunet.com.tr,speedtest
 HOST,hizbalikesir.durunet.com.tr,speedtest
@@ -827,11 +829,13 @@ HOST,izmir.verinomidns.com,speedtest
 HOST,istanbul.verinomidns.com,speedtest
 HOST-SUFFIX,speedtest.vodafone.com.au,speedtest
 HOST,speedtest3.vodafone.com.tr,speedtest
+HOST,speedtest8.vodafone.com.tr,speedtest
 HOST,speedtest2.voicehost.co.uk,speedtest
 HOST,speedtest.webdiscount.net,speedtest
 HOST,speedtestmacapa.webflash.net.br,speedtest
 HOST,speedtest.webturbo.net.br,speedtest
 HOST,speedtest.wifitelekom.com,speedtest
+HOST,speedtest.yesilnet.com.tr,speedtest
 HOST,speedtest.actelecom.com.br,speedtest
 HOST,speedtest-lax.advinservers.com,speedtest
 HOST,speed.amazonett.com.br,speedtest
@@ -976,6 +980,7 @@ HOST,esk1speedtest.turktelekom.com.tr,speedtest
 HOST,gay1speedtest.turktelekom.com.tr,speedtest
 HOST,geb1speedtest.turktelekom.com.tr,speedtest
 HOST,gun1speedtest.turktelekom.com.tr,speedtest
+HOST,sam1speedtest.turktelekom.com.tr,speedtest
 HOST,umr1speedtest.turktelekom.com.tr,speedtest
 HOST,speedtest.unlimitedfiber.com,speedtest
 HOST,speedtest.upwirefibra.com.br,speedtest
@@ -999,6 +1004,7 @@ HOST,nyc01.screenshot.download,speedtest
 HOST-SUFFIX,speedtestcustom.com,speedtest
 HOST,st-atakoy-1.turksatkablo.com.tr,speedtest
 HOST,st-manisa-1.turksatkablo.com.tr,speedtest
+HOST,st-samsun-1.turksatkablo.com.tr,speedtest
 HOST,st-yalova-1.turksatkablo.com.tr,speedtest
 HOST,st-balikesir-1.turksatkablo.com.tr,speedtest
 HOST,st-eskisehir-1.turksatkablo.com.tr,speedtest
