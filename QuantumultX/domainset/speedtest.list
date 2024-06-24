@@ -251,6 +251,7 @@ HOST,stguelph.rogers.com,speedtest
 HOST,stlondon.rogers.com,speedtest
 HOST,stmilton.rogers.com,speedtest
 HOST,sttoronto.rogers.com,speedtest
+HOST,stvaughan.rogers.com,speedtest
 HOST,stbrampton.rogers.com,speedtest
 HOST,sthamilton.rogers.com,speedtest
 HOST,stkingcity.rogers.com,speedtest
@@ -412,6 +413,7 @@ HOST,aus-nperf.verizon.net,speedtest
 HOST,sgn-nperf.verizon.net,speedtest
 HOST,tstarkh1.vibo.net.tw,speedtest
 HOST,stmsk.volga-ix.ru,speedtest
+HOST,speedtest.srv-uk01.edge.voltcorp.uk,speedtest
 HOST,speedtest-lon06.vorboss.net,speedtest
 HOST,speedtest.vt-build.ru,speedtest
 HOST,speedtestac.vtal.net.br,speedtest
