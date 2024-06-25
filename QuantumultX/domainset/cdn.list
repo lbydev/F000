@@ -1023,6 +1023,7 @@ HOST-SUFFIX,sqspcdn.com,cdn
 HOST,static.srcspot.com,cdn
 HOST,cdn.sstatic.net,cdn
 HOST,assets.st-note.com,cdn
+HOST-SUFFIX,stripst.com,cdn
 HOST,wpmedia.tealium.com,cdn
 HOST-SUFFIX,ipfs.telos.miami,cdn
 HOST,cdn.termius.com,cdn
@@ -1133,6 +1134,7 @@ HOST,cdn.datacamp.com,cdn
 HOST,david-dm.org,cdn
 HOST,avatars.dicebear.com,cdn
 HOST,ocsp.digicert.com,cdn
+HOST,cacerts.digicert.com,cdn
 HOST,cdn-node.diskpart.com,cdn
 HOST,cdn.dnsimple.com,cdn
 HOST,cdn.dribbble.com,cdn
@@ -1654,6 +1656,7 @@ HOST-SUFFIX,ipfs.smartholdem.io,cdn
 HOST,static.solarwinds.com,cdn
 HOST,w.soundcloud.com,cdn
 HOST-SUFFIX,sourceforge.io,cdn
+HOST,img.sparknotes.com,cdn
 HOST,s3.stackabuse.com,cdn
 HOST,tiles.stadiamaps.com,cdn
 HOST-SUFFIX,static.domains,cdn
