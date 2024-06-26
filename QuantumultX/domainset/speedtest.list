@@ -348,6 +348,7 @@ HOST,speedtest.ffm.dynamic.icu,speedtest
 HOST,speedtest-west.eastlink.ca,speedtest
 HOST,spt-ist.edgeuno.com,speedtest
 HOST,spt-mia.edgeuno.com,speedtest
+HOST,spt-dal1.edgeuno.com,speedtest
 HOST,speedtest2.esrv.center,speedtest
 HOST,sg-speedtest.fast.net.id,speedtest
 HOST,speedtest.fios.net.br,speedtest
@@ -536,6 +537,7 @@ HOST,speedtest03.srv.whplny.alticeusa.net,speedtest
 HOST,trtspeedtest.altimatel.com,speedtest
 HOST,vanspeedtest.altimatel.com,speedtest
 HOST,ookla.asanet.tec.br,speedtest
+HOST,ookla-ita.asanet.tec.br,speedtest
 HOST,sp1.asthriona.com,speedtest
 HOST,speedtest.beanfield.com,speedtest
 HOST,speedtest-tor.beanfield.com,speedtest
