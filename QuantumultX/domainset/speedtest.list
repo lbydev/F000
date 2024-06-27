@@ -357,6 +357,7 @@ HOST,iperf.gakijken.nl,speedtest
 HOST,speedtest.herza.cloud,speedtest
 HOST-SUFFIX,speedtest.highnet.com,speedtest
 HOST,speedtest.host.com.tw,speedtest
+HOST,ams-speedtest.isp.htb.systems,speedtest
 HOST,jk-test1.jaist.ac.jp,speedtest
 HOST,sp1.jump.net.uk,speedtest
 HOST,speedtest.kuzeydc.com,speedtest
@@ -751,6 +752,7 @@ HOST,speedtest.xcdtelecom.com,speedtest
 HOST,speedtest.yless4u.com.au,speedtest
 HOST,speedtest.airfiber.com.tr,speedtest
 HOST,speedtest.airlink.network,speedtest
+HOST,ourtestisbest.brolve.net:8080,speedtest
 HOST,speedtest.cclnetworks.com,speedtest
 HOST-SUFFIX,speedtest.centurylink.net,speedtest
 HOST,speedtest.hk.chinamobile.com,speedtest

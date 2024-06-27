@@ -111,6 +111,7 @@ HOST-SUFFIX,jd.hk,domestic
 HOST-SUFFIX,jdpay.com,domestic
 HOST-SUFFIX,jdcloud.com,domestic
 HOST-SUFFIX,jdcache.com,domestic
+HOST-SUFFIX,jcloudcache.com,domestic
 HOST-SUFFIX,jdcdn.com,domestic
 HOST-SUFFIX,iciba.com,domestic
 HOST-SUFFIX,ksosoft.com,domestic
@@ -478,6 +479,7 @@ HOST-SUFFIX,tianyancha.com,domestic
 HOST-SUFFIX,tripcdn.cn,domestic
 HOST-SUFFIX,tvmao.com,domestic
 HOST-SUFFIX,tvzhe.com,domestic
+HOST-SUFFIX,upyun.com,domestic
 HOST-SUFFIX,vip.com,domestic
 HOST-SUFFIX,weather.com.cn,domestic
 HOST-SUFFIX,weathercn.com,domestic
