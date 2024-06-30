@@ -226,7 +226,6 @@ HOST,previews.fleek.co,cdn
 HOST,storageapi.fleek.co,cdn
 HOST,storageapi2.fleek.co,cdn
 HOST-SUFFIX,fsdn.com,cdn
-HOST,a.fsdn.com,cdn
 HOST,statics.goorm.io,cdn
 HOST,gopkg.in,cdn
 HOST-SUFFIX,ipfs.greyh.at,cdn
@@ -439,7 +438,6 @@ HOST,wandi-6402.kxcdn.com,cdn
 HOST,searchanise-ef84.kxcdn.com,cdn
 HOST,wikiwandv2-19431.kxcdn.com,cdn
 HOST-SUFFIX,lencr.org,cdn
-HOST,r3.o.lencr.org,cdn
 HOST,media.licdn.com,cdn
 HOST,static.licdn.com,cdn
 HOST,static-exp1.licdn.com,cdn
@@ -683,7 +681,6 @@ HOST,cdn-static-1.medium.com,cdn
 HOST,static.meiguo.com,cdn
 HOST-SUFFIX,mercdn.net,cdn
 HOST-SUFFIX,mfcimg.com,cdn
-HOST,assets.mfcimg.com,cdn
 HOST,cdn.micro.blog,cdn
 HOST,avatars.micro.blog,cdn
 HOST,cdn.missav.com,cdn
@@ -848,7 +845,6 @@ HOST,img.apponic.com,cdn
 HOST,cdn6.aptoide.com,cdn
 HOST,cdn-mobile.aptoide.com,cdn
 HOST-SUFFIX,archive.org,cdn
-HOST,web-static.archive.org,cdn
 HOST,static.assetlab.io,cdn
 HOST,consentdeliveryfd.azurefd.net,cdn
 HOST-SUFFIX,bdzybf7.com,cdn
@@ -999,7 +995,6 @@ HOST-SUFFIX,permaweb.io,cdn
 HOST,cdn.pixabay.com,cdn
 HOST,www.pngmart.com,cdn
 HOST-SUFFIX,polyfill.io,cdn
-HOST,pornimg.xyz,cdn
 HOST-SUFFIX,pornimg.xyz,cdn
 HOST-SUFFIX,pravatar.cc,cdn
 HOST-SUFFIX,pstatic.net,cdn
@@ -1135,7 +1130,6 @@ HOST,crt.comodoca.com,cdn
 HOST,cds.connatix.com,cdn
 HOST,img.connatix.com,cdn
 HOST-SUFFIX,crossbell.io,cdn
-HOST-SUFFIX,ipfs.crossbell.io,cdn
 HOST,cdn.datacamp.com,cdn
 HOST,david-dm.org,cdn
 HOST,avatars.dicebear.com,cdn
@@ -1268,7 +1262,6 @@ HOST,embed.savvycal.com,cdn
 HOST,cdn.mcauto-images-production.sendgrid.net,cdn
 HOST,cdn.signalfx.com,cdn
 HOST-SUFFIX,sitescdn.net,cdn
-HOST,assets.sitescdn.net,cdn
 HOST,resources-live.sketch.cloud,cdn
 HOST,static1.smartbear.co,cdn
 HOST-SUFFIX,smassets.net,cdn
@@ -1456,7 +1449,6 @@ HOST-SUFFIX,picsum.photos,cdn
 HOST-SUFFIX,assets.pinterest.com,cdn
 HOST-SUFFIX,place-hold.it,cdn
 HOST,js.qualified.com,cdn
-HOST,siteintercept.qualtrics.com,cdn
 HOST-SUFFIX,siteintercept.qualtrics.com,cdn
 HOST,error.rakuten.co.jp,cdn
 HOST,cdn.rex.contents.rakuten.co.jp,cdn
@@ -1485,7 +1477,6 @@ HOST-SUFFIX,statically.io,cdn
 HOST-SUFFIX,staticaly.com,cdn
 HOST-SUFFIX,statuspage.io,cdn
 HOST,link.storjshare.io,cdn
-HOST,a.storyblok.com,cdn
 HOST-SUFFIX,a.storyblok.com,cdn
 HOST-SUFFIX,stripecdn.com,cdn
 HOST,cdn-service.jp.sumologic.com,cdn
@@ -1710,7 +1701,6 @@ HOST,cdnjs.betterstack.com,cdn
 HOST-SUFFIX,bleepstatic.com,cdn
 HOST,cdn.calibermind.com,cdn
 HOST-SUFFIX,cdn-website.com,cdn
-HOST,static.cdn-website.com,cdn
 HOST,media.cleanshot.cloud,cdn
 HOST,ddcdn.comtucdncom.com,cdn
 HOST,js.createsend1.com,cdn
@@ -2031,7 +2021,6 @@ HOST-SUFFIX,js.hubspotfeedback.com,cdn
 HOST-SUFFIX,invisionapp-cdn.com,cdn
 HOST,static-r.kamihimeproject.net,cdn
 HOST-SUFFIX,makeuseofimages.com,cdn
-HOST,static1.makeuseofimages.com,cdn
 HOST-SUFFIX,motherlessmedia.com,cdn
 HOST,irp-cdn.multiscreensite.com,cdn
 HOST,openseauserdata.com,cdn
@@ -2047,7 +2036,6 @@ HOST,assets.braintreegateway.com,cdn
 HOST,pkg.cloudflareclient.com,cdn
 HOST-SUFFIX,cloudflarestream.com,cdn
 HOST-SUFFIX,hscollectedforms.net,cdn
-HOST,js.hscollectedforms.net,cdn
 HOST,assets4.mist-train-girls.com,cdn
 HOST,oss-binaries.phusionpassenger.com,cdn
 HOST,static2.sharepointonline.com,cdn
