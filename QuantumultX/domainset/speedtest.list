@@ -252,6 +252,7 @@ HOST,speedtest-wa.waveip.org,speedtest
 HOST,wiwan66.seattle.westnet.ca,speedtest
 HOST-SUFFIX,wifiman.me,speedtest
 HOST,laxla0001speedtestserver01.wiline.com,speedtest
+HOST,sfosj0096speedtestserver01.wiline.com,speedtest
 HOST,speedam.wsp.net.br,speedtest
 HOST,spdtst.xenyth.net,speedtest
 HOST,dpop.yondoo.com,speedtest
@@ -267,7 +268,6 @@ HOST,speedtest1-sttlwawb.as20055.net,speedtest
 HOST,speedtest-ookla-par.as62000.net,speedtest
 HOST,speedtest1.axes.com.br,speedtest
 HOST,speedtest.blacksun.ca,speedtest
-HOST,speedtest.bmcc.com.cn,speedtest
 HOST,spt1.bsnlive.net,speedtest
 HOST,speedtest-1.compute.dc1.cilix.cloud,speedtest
 HOST,speedtest.pr.citywest.ca,speedtest

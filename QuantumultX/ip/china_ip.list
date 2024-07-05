@@ -64,6 +64,7 @@ IP-CIDR,27.106.204.0/22,china_ip
 IP-CIDR,27.109.124.0/22,china_ip
 IP-CIDR,27.112.0.0/21,china_ip
 IP-CIDR,27.112.80.0/23,china_ip
+IP-CIDR,27.112.82.0/24,china_ip
 IP-CIDR,27.112.84.0/22,china_ip
 IP-CIDR,27.115.0.0/17,china_ip
 IP-CIDR,27.128.0.0/15,china_ip
@@ -2360,7 +2361,6 @@ IP-CIDR,160.19.76.0/23,china_ip
 IP-CIDR,160.19.208.0/21,china_ip
 IP-CIDR,160.20.18.0/23,china_ip
 IP-CIDR,160.83.110.0/24,china_ip
-IP-CIDR,160.202.60.0/22,china_ip
 IP-CIDR,160.202.212.0/22,china_ip
 IP-CIDR,161.163.0.0/21,china_ip
 IP-CIDR,161.163.28.0/23,china_ip
