@@ -459,6 +459,7 @@ HOST,vanspeedtest.altimatel.com,speedtest
 HOST,ookla.asanet.tec.br,speedtest
 HOST,ookla-ita.asanet.tec.br,speedtest
 HOST,sp1.asthriona.com,speedtest
+HOST,speedtest.singapore.atharva.co.id,speedtest
 HOST,speedtest-tor.beanfield.com,speedtest
 HOST,sp1.burstfire.net,speedtest
 HOST,dallas1.cabospeed.com,speedtest
@@ -619,7 +620,6 @@ HOST,speedtest.skywaywest.net,speedtest
 HOST,speedtest.solutechzk.com,speedtest
 HOST,speedtest01.syd1.spintel.net.au,speedtest
 HOST,speed1.spitfireuk.net,speedtest
-HOST,speedtest.sugiartana.net,speedtest
 HOST,speedtest.sunucum.net.tr,speedtest
 HOST,speedtest.sunucun.com.tr,speedtest
 HOST,speedtest.swishfibre.com,speedtest
@@ -890,7 +890,6 @@ HOST,suntechspeedtest.com,speedtest
 HOST,teste.suprainternet.com.br,speedtest
 HOST,teste.tstelecomltda.com.br,speedtest
 HOST,speedtest.visiontelecom.com.br,speedtest
-HOST,sgspeed.chinaunicomglobal.com,speedtest
 HOST,velocidade.conectstelecom.com.br,speedtest
 HOST,teste.ddlsuprimentos.com.br,speedtest
 HOST,speedtest.mirror.digitalpacific.com.au,speedtest
