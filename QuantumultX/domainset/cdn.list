@@ -331,6 +331,7 @@ HOST-SUFFIX,img1.acsta.net,cdn
 HOST-SUFFIX,img2.acsta.net,cdn
 HOST-SUFFIX,img3.acsta.net,cdn
 HOST,wwwimages2.adobe.com,cdn
+HOST,npm.antfu.dev,cdn
 HOST,pba.apple.com,cdn
 HOST,ocsp2.apple.com,cdn
 HOST,events-live.apple.com,cdn
