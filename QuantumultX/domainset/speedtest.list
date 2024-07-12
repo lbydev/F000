@@ -376,6 +376,7 @@ HOST,speedtest.capti.com.au,speedtest
 HOST,mtcspeedtest.catskill.net,speedtest
 HOST,speedtest.clarkson.edu,speedtest
 HOST,spd33.claro.com.br,speedtest
+HOST,spd49.claro.com.br,speedtest
 HOST,hiztesti.codit.com.tr,speedtest
 HOST,hiztesti-ist.codit.com.tr,speedtest
 HOST-SUFFIX,ookla.ddnsgeek.com,speedtest
@@ -513,6 +514,7 @@ HOST,hoshiyomi.ratatoskr.org,speedtest
 HOST,speedtest1.net.rochester.edu,speedtest
 HOST-SUFFIX,speedtest.sbcglobal.net,speedtest
 HOST,speedtest.scotnet.co.uk,speedtest
+HOST,speed.sdmnet.com.br,speedtest
 HOST,speedtest.seaside.ns.ca,speedtest
 HOST,ookla.la.ca.sharktech.net,speedtest
 HOST,speedtest.ams.sharktech.net,speedtest
@@ -611,6 +613,7 @@ HOST,speednld.phoenixnap.com,speedtest
 HOST,speedsin.phoenixnap.com,speedtest
 HOST,speedtest.pilotfiber.com,speedtest
 HOST,lg.mia.plasmarack.com,speedtest
+HOST,sp01.rbfibra.net.br,speedtest
 HOST,speedtest.redactus.co.uk,speedtest
 HOST,speed.rnp-net.com.br,speedtest
 HOST,speedtest.sewan-group.de,speedtest
@@ -644,6 +647,7 @@ HOST,speedtestookla.datahost.net.tr,speedtest
 HOST,pauseq4vost1.datamossa.cloud,speedtest
 HOST,speedtest.dongfong.com.tw,speedtest
 HOST,speedtest.fra.ewgmedianet.com,speedtest
+HOST,spd.fibranet.srv.br,speedtest
 HOST,speedtest-nxtb2.fsg-hosting.com,speedtest
 HOST,speedtest-nxts1.fsg-hosting.com,speedtest
 HOST,speedtest-eqxae1.fsg-hosting.com,speedtest
@@ -712,6 +716,7 @@ HOST,speedtest3.vodafone.com.tr,speedtest
 HOST,speedtest2.voicehost.co.uk,speedtest
 HOST,speedtest.webdiscount.net,speedtest
 HOST,speedtest.wifitelekom.com,speedtest
+HOST,speed.xpandtec.com.br,speedtest
 HOST,speedtest.yesilnet.com.tr,speedtest
 HOST,speedtest-lax.advinservers.com,speedtest
 HOST,speed.amazonett.com.br,speedtest
@@ -725,6 +730,8 @@ HOST,sp1.campanaworks.com,speedtest
 HOST,speedtest.cyberline.com.br,speedtest
 HOST,speedtest.cyberlink.net.br,speedtest
 HOST,speedtestuk1.cybersmart.co.za,speedtest
+HOST,dsteste.dstelecom.net.br,speedtest
+HOST,speedtest.embrasnet.com.br,speedtest
 HOST,speedtest.empireaccess.com,speedtest
 HOST,velocimetro.esolution.srv.br,speedtest
 HOST,velocidad.fiberlink.com.pa,speedtest
@@ -733,6 +740,7 @@ HOST,speedtest.fiberlink.net.ua,speedtest
 HOST,speedtest1.flashwifi.com.br,speedtest
 HOST,speedtest.global-layer.com,speedtest
 HOST,speedtest.singapore.globalxtreme.net,speedtest
+HOST,velocimetro.govistabr.com.br,speedtest
 HOST,speedtestldn.grainconnect.com,speedtest
 HOST,stdal.highlinefast.com,speedtest
 HOST-SUFFIX,hizinitestet.com,speedtest
@@ -890,6 +898,7 @@ HOST,st2.barquisimeto.intercomservicios.com,speedtest
 HOST,speedtest.japanettelecom.com.br,speedtest
 HOST,st.jnettelecom-am.com.br,speedtest
 HOST,speedtest2.lightningfibre.net.uk,speedtest
+HOST,teste.newsolutionnet.com.br,speedtest
 HOST,speedteste.newsolutionnet.com.br,speedtest
 HOST,speedtest.absolutevalidation.com,speedtest
 HOST,speedtest.sea.accretive-networks.net,speedtest
