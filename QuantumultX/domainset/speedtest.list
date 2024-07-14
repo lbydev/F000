@@ -310,6 +310,7 @@ HOST,ookla2.mbspeed.net,speedtest
 HOST,speedtest.mhcable.com,speedtest
 HOST,speedtest.mitsupp.com,speedtest
 HOST,speedtest-c.netgear.com,speedtest
+HOST,network.netlara.com,speedtest
 HOST,speedtest.nexicom.net,speedtest
 HOST,speedtest.noone.co.uk,speedtest
 HOST,speedtest.octaplus.uk,speedtest
@@ -565,6 +566,7 @@ HOST,lg-lon.fdcservers.net,speedtest
 HOST,lg-mia.fdcservers.net,speedtest
 HOST,lg-nyc.fdcservers.net,speedtest
 HOST,lg-sea.fdcservers.net,speedtest
+HOST,lg-sin.fdcservers.net,speedtest
 HOST,lg-syd.fdcservers.net,speedtest
 HOST,lg-tok.fdcservers.net,speedtest
 HOST,lg-tor.fdcservers.net,speedtest
@@ -640,6 +642,7 @@ HOST,speedtest.xcdtelecom.com,speedtest
 HOST,speedtest.yless4u.com.au,speedtest
 HOST,speedtest.airfiber.com.tr,speedtest
 HOST,speedtest.airlink.network,speedtest
+HOST,speedtest.bursabil.com.tr,speedtest
 HOST-SUFFIX,speedtest.centurylink.net,speedtest
 HOST,speedtest.hk.chinamobile.com,speedtest
 HOST,speedtestbb.hk.chinamobile.com,speedtest
