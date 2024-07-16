@@ -10,6 +10,7 @@ HOST,s3.acg.mn,cdn
 HOST,lain.bgm.tv,cdn
 HOST,registry.api.cnn.io,cdn
 HOST,ipfs.d.tube,cdn
+HOST,media.dev.to,cdn
 HOST,static.dw.com,cdn
 HOST,pl.ea.com,cdn
 HOST,cdn.mcr.ea.com,cdn
@@ -1022,7 +1023,7 @@ HOST,sdk.snapkit.com,cdn
 HOST,static.snaptube.in,cdn
 HOST-SUFFIX,sqspcdn.com,cdn
 HOST,static.srcspot.com,cdn
-HOST,cdn.sstatic.net,cdn
+HOST-SUFFIX,sstatic.net,cdn
 HOST,assets.st-note.com,cdn
 HOST-SUFFIX,stripst.com,cdn
 HOST,wpmedia.tealium.com,cdn
