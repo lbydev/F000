@@ -996,7 +996,6 @@ HOST,img.perfops.net,cdn
 HOST-SUFFIX,permaweb.io,cdn
 HOST,cdn.pixabay.com,cdn
 HOST,www.pngmart.com,cdn
-HOST-SUFFIX,polyfill.io,cdn
 HOST-SUFFIX,pornimg.xyz,cdn
 HOST-SUFFIX,pravatar.cc,cdn
 HOST-SUFFIX,pstatic.net,cdn
@@ -2003,6 +2002,7 @@ HOST,images.opencollective.com,cdn
 HOST,next-images.opencollective.com,cdn
 HOST-SUFFIX,gateway.originprotocol.com,cdn
 HOST,web-assets.otogi-frontier.com,cdn
+HOST-SUFFIX,polyfill-fastly.io,cdn
 HOST,api.pwnedpasswords.com,cdn
 HOST-SUFFIX,safebrowsing.apple,cdn
 HOST,image.theblockbeats.info,cdn
