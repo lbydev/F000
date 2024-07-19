@@ -209,10 +209,13 @@ HOST,stguelph.rogers.com,speedtest
 HOST,stlondon.rogers.com,speedtest
 HOST,stmilton.rogers.com,speedtest
 HOST,sttoronto.rogers.com,speedtest
+HOST,stvaughan.rogers.com,speedtest
 HOST,stbrampton.rogers.com,speedtest
 HOST,sthamilton.rogers.com,speedtest
+HOST,stkingcity.rogers.com,speedtest
 HOST,stoakville.rogers.com,speedtest
 HOST,ststthomas.rogers.com,speedtest
+HOST,stwaterloo.rogers.com,speedtest
 HOST,stbrantford.rogers.com,speedtest
 HOST,stetobicoke.rogers.com,speedtest
 HOST,stkitchener.rogers.com,speedtest
@@ -221,6 +224,7 @@ HOST,stpickering.rogers.com,speedtest
 HOST,ststratford.rogers.com,speedtest
 HOST,stwoodstock.rogers.com,speedtest
 HOST,stmississauga.rogers.com,speedtest
+HOST,storangeville.rogers.com,speedtest
 HOST,stscarborough.rogers.com,speedtest
 HOST,stguelphwireless.rogers.com,speedtest
 HOST,stlondonwireless.rogers.com,speedtest
@@ -239,7 +243,9 @@ HOST,stwoodstockwireless.rogers.com,speedtest
 HOST,stgeorgetownwireless.rogers.com,speedtest
 HOST,stleamingtonwireless.rogers.com,speedtest
 HOST,stmississaugawireless.rogers.com,speedtest
+HOST,storangevillewireless.rogers.com,speedtest
 HOST,ststcatharineswireless.rogers.com,speedtest
+HOST,stsaultstemariewireless.rogers.com,speedtest
 HOST,stwellandpelhamwireless.rogers.com,speedtest
 HOST,dalspeedtest.rtatel.com,speedtest
 HOST,speedtest-server-lax.starry.com,speedtest
