@@ -453,6 +453,7 @@ HOST,assets.monei.com,cdn
 HOST,static.monei.net,cdn
 HOST,staticassets.music.com,cdn
 HOST-SUFFIX,nest.land,cdn
+HOST,image-forwarder.notaku.so,cdn
 HOST-SUFFIX,npmfs.com,cdn
 HOST,skimdb.npmjs.com,cdn
 HOST,static.npmjs.com,cdn
@@ -515,6 +516,7 @@ HOST,assets.upload.io,cdn
 HOST,fonts.upset.dev,cdn
 HOST-SUFFIX,uvcdn.com,cdn
 HOST-SUFFIX,v-cdn.net,cdn
+HOST,openapi.vercel.sh,cdn
 HOST,gitpkg-fork.vercel.sh,cdn
 HOST,api-frameworks.vercel.sh,cdn
 HOST,vetted.ai,cdn
@@ -979,10 +981,6 @@ HOST-SUFFIX,netlify.app,cdn
 HOST-SUFFIX,ngfiles.com,cdn
 HOST,i.nhentai.net,cdn
 HOST,t.nhentai.net,cdn
-HOST,t2.nhentai.net,cdn
-HOST,t3.nhentai.net,cdn
-HOST,t5.nhentai.net,cdn
-HOST,t7.nhentai.net,cdn
 HOST,static.nhentai.net,cdn
 HOST-SUFFIX,nordcdn.com,cdn
 HOST-SUFFIX,oktacdn.com,cdn
