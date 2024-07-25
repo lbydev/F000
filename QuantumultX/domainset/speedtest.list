@@ -479,6 +479,7 @@ HOST,speedtest.qld.edgeix.net.au,speedtest
 HOST-SUFFIX,speedtest.exetel.com.au,speedtest
 HOST,st-1.fibrenest.net,speedtest
 HOST,speedtest.fixnet.com.tr,speedtest
+HOST,afyonspeedtest.fixnet.com.tr,speedtest
 HOST,bursaspeedtest.fixnet.com.tr,speedtest
 HOST,izmirspeedtest.fixnet.com.tr,speedtest
 HOST,istanbulspeedtest.fixnet.com.tr,speedtest
@@ -849,6 +850,7 @@ HOST,ber.wsqm.telekom-dienste.de,speedtest
 HOST,ffm.wsqm.telekom-dienste.de,speedtest
 HOST,tkconnectrr.com.br,speedtest
 HOST,bur1speedtest.turktelekom.com.tr,speedtest
+HOST,esk1speedtest.turktelekom.com.tr,speedtest
 HOST,gay1speedtest.turktelekom.com.tr,speedtest
 HOST,geb1speedtest.turktelekom.com.tr,speedtest
 HOST,gun1speedtest.turktelekom.com.tr,speedtest

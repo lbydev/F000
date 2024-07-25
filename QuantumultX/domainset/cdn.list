@@ -1714,6 +1714,7 @@ HOST,cdn.dotaoutpost.com,cdn
 HOST,live.fanmingming.com,cdn
 HOST,static.fasthosts.co.uk,cdn
 HOST,ohttp-relay1.fastly-edge.com,cdn
+HOST,google-ohttp-relay-safebrowsing.fastly-edge.com,cdn
 HOST-SUFFIX,firebaseapp.com,cdn
 HOST-SUFFIX,fontawesome.com,cdn
 HOST,static.foxbusiness.com,cdn
