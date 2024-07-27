@@ -22,6 +22,7 @@ HOST,speed.data.cr,speedtest
 HOST,speedtest.ddps.jp,speedtest
 HOST-SUFFIX,ookla-speedtest.fsr.com,speedtest
 HOST-SUFFIX,speedtest.i3d.net,speedtest
+HOST,st2a.les.net,speedtest
 HOST,speedtest.link.bm,speedtest
 HOST,speed.uk.lon.m247.ro,speedtest
 HOST,ookla.moji.fr,speedtest
@@ -58,6 +59,7 @@ HOST,speedtest12.hkbn.net,speedtest
 HOST,speedtest1c.hkix.net,speedtest
 HOST,st1.htva.net,speedtest
 HOST,speedtest.inoc.net,speedtest
+HOST,speedtest.itel.com,speedtest
 HOST,akrd-speedtest.loni.org,speedtest
 HOST,40gspeedtest.mnsi.net,speedtest
 HOST,clg-105-sptest.ncri.com,speedtest
@@ -154,6 +156,7 @@ HOST,speedtest.us310.lax.us.ctcsci.com,speedtest
 HOST-SUFFIX,speedtest.dchost.com,speedtest
 HOST,speed2.dg-sys.net,speedtest
 HOST,speedtest01.dns-net.de,speedtest
+HOST,speedtest.eidnet.org,speedtest
 HOST,ffm-01-ovpn.vpn.eseven.net,speedtest
 HOST-SUFFIX,speedtest.faelix.net,speedtest
 HOST,speed2.flawcra.cc,speedtest
@@ -230,18 +233,29 @@ HOST,stguelphwireless.rogers.com,speedtest
 HOST,stlondonwireless.rogers.com,speedtest
 HOST,stmiltonwireless.rogers.com,speedtest
 HOST,stsarniawireless.rogers.com,speedtest
+HOST,stsurreywireless.rogers.com,speedtest
+HOST,stcalgarywireless.rogers.com,speedtest
 HOST,stchathamwireless.rogers.com,speedtest
+HOST,stkelownawireless.rogers.com,speedtest
+HOST,stnanaimowireless.rogers.com,speedtest
+HOST,streddeerwireless.rogers.com,speedtest
 HOST,sttorontowireless.rogers.com,speedtest
 HOST,stwindsorwireless.rogers.com,speedtest
+HOST,stedmontonwireless.rogers.com,speedtest
 HOST,sthamiltonwireless.rogers.com,speedtest
 HOST,ststthomaswireless.rogers.com,speedtest
+HOST,stvictoriawireless.rogers.com,speedtest
+HOST,stwinnipegwireless.rogers.com,speedtest
 HOST,stbrantfordwireless.rogers.com,speedtest
 HOST,stkitchenerwireless.rogers.com,speedtest
 HOST,stnorthyorkwireless.rogers.com,speedtest
 HOST,ststratfordwireless.rogers.com,speedtest
+HOST,stvancouverwireless.rogers.com,speedtest
 HOST,stwoodstockwireless.rogers.com,speedtest
 HOST,stgeorgetownwireless.rogers.com,speedtest
 HOST,stleamingtonwireless.rogers.com,speedtest
+HOST,stlethbridgewireless.rogers.com,speedtest
+HOST,stthunderbaywireless.rogers.com,speedtest
 HOST,stmississaugawireless.rogers.com,speedtest
 HOST,storangevillewireless.rogers.com,speedtest
 HOST,ststcatharineswireless.rogers.com,speedtest
@@ -315,6 +329,7 @@ HOST,ookla.mbspeed.net,speedtest
 HOST,ookla2.mbspeed.net,speedtest
 HOST,speedtest.mhcable.com,speedtest
 HOST,speedtest.mitsupp.com,speedtest
+HOST,speedtest.myaccess.ca,speedtest
 HOST,speedtest-c.netgear.com,speedtest
 HOST,network.netlara.com,speedtest
 HOST,speedtest.nexicom.net,speedtest
@@ -366,6 +381,7 @@ HOST,speedtest.westcall.ru,speedtest
 HOST,speedtest.wifi.net.tr,speedtest
 HOST-SUFFIX,wifiman.com,speedtest
 HOST,de-speedtest.woks.com.tr,speedtest
+HOST,speedtest.wolfpaw.net,speedtest
 HOST,speedtest01.wowrack.com,speedtest
 HOST,speedtest.lax01.xfernet.net,speedtest
 HOST,velocidade-mns.4wnet.net.br,speedtest
@@ -527,6 +543,11 @@ HOST,speed.sdmnet.com.br,speedtest
 HOST,speedtest.seaside.ns.ca,speedtest
 HOST,ookla.la.ca.sharktech.net,speedtest
 HOST,speedtest.ams.sharktech.net,speedtest
+HOST,speedtest.cg.shawcable.net,speedtest
+HOST,speedtest.ed.shawcable.net,speedtest
+HOST,speedtest.gv.shawcable.net,speedtest
+HOST,speedtest.vc.shawcable.net,speedtest
+HOST,speedtest.wp.shawcable.net,speedtest
 HOST-SUFFIX,speedtest.net,speedtest
 HOST,qld-speedtest.spirit.com.au,speedtest
 HOST,vic-speedtest.spirit.com.au,speedtest
@@ -737,6 +758,7 @@ HOST,miaspeedtest.blackburn-pr.com,speedtest
 HOST,speedtest.bouwhuis.network,speedtest
 HOST,speedtest.brightstar.cloud,speedtest
 HOST,speednet.brsserver.com.br,speedtest
+HOST,speednet-atn.brsserver.com.br,speedtest
 HOST,sp1.campanaworks.com,speedtest
 HOST,speedtest.cyberline.com.br,speedtest
 HOST,speedtest.cyberlink.net.br,speedtest
@@ -864,6 +886,7 @@ HOST,speedtest03.bluestreamfiber.net,speedtest
 HOST,ookla-london.briantbroadband.com,speedtest
 HOST,velocimetro.fibernetwork.com.br,speedtest
 HOST,east-speedtest.frontiernetworks.ca,speedtest
+HOST,west-speedtest.frontiernetworks.ca,speedtest
 HOST,velocimetro.infinitemais.com.br,speedtest
 HOST-SUFFIX,measurement-lab.org,speedtest
 HOST,speedtest.naturalwireless.com,speedtest
@@ -939,6 +962,7 @@ HOST-SUFFIX,linknetspeedtest.net.br,speedtest
 HOST,speedtest.mirror.serversaustralia.com.au,speedtest
 HOST,speedtest.globalfiberbrasil.com.br,speedtest
 HOST,teste.mundialnettelecom.com.br,speedtest
+HOST,speedtest.centralnetprovedor.net.br,speedtest
 HOST,test.infoconnecttelecom.com.br,speedtest
 HOST,ookla.jgainterlinktelecom.com.br,speedtest
 HOST,serviciospablomella3.com.do,speedtest
