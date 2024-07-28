@@ -1344,6 +1344,7 @@ HOST-SUFFIX,edgestorewebcdn.azureedge.net,cdn
 HOST,edgeassetservice.azureedge.net,cdn
 HOST,edge-mobile-static.azureedge.net,cdn
 HOST,edge-consumer-static.azureedge.net,cdn
+HOST,cdn.babylonjs.com,cdn
 HOST,secure.beer7live.com,cdn
 HOST,img.bigcloud.cyou,cdn
 HOST,js-cdn.blockchair.io,cdn
@@ -1622,6 +1623,7 @@ HOST,design.mayoclinic.org,cdn
 HOST,assets.mozilla.social,cdn
 HOST-SUFFIX,mypinata.cloud,cdn
 HOST-SUFFIX,myshopapps.com,cdn
+HOST,static.mytonwallet.io,cdn
 HOST-SUFFIX,nelreports.net,cdn
 HOST,cdn.nerdschalk.com,cdn
 HOST-SUFFIX,netdna-ssl.com,cdn
@@ -1950,6 +1952,7 @@ HOST,sig.grumpybumpers.com,cdn
 HOST-SUFFIX,highwinds-cdn.com,cdn
 HOST-SUFFIX,imagedelivery.net,cdn
 HOST,static.independent.co.uk,cdn
+HOST,cdn.joincommunity.xyz,cdn
 HOST,img3.lltaohuaxiang.com,cdn
 HOST,asset.mansionglobal.com,cdn
 HOST-SUFFIX,mvnrepository.com,cdn
