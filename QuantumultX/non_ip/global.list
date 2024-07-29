@@ -14,6 +14,7 @@ HOST-SUFFIX,chrome.com,global
 HOST-SUFFIX,chromeexperiments.com,global
 HOST-SUFFIX,chromestatus.com,global
 HOST-SUFFIX,chromium.org,global
+HOST-SUFFIX,circle.ms,global
 HOST-SUFFIX,cloudfunctions.net,global
 HOST-SUFFIX,creativelab5.com,global
 HOST-SUFFIX,debug.com,global
@@ -488,6 +489,7 @@ HOST-SUFFIX,south-plus.org,global
 HOST-SUFFIX,south-plus.net,global
 HOST-SUFFIX,spankbang.com,global
 HOST-SUFFIX,spankbang.party,global
+HOST-SUFFIX,split.io,global
 HOST-SUFFIX,stackblitz.com,global
 HOST-SUFFIX,stackexchange.com,global
 HOST-SUFFIX,stackoverflow.com,global
@@ -516,6 +518,7 @@ HOST-SUFFIX,tumblr.com,global
 HOST-SUFFIX,turbobit.net,global
 HOST-SUFFIX,twitch.tv,global
 HOST-SUFFIX,ubuntu.com,global
+HOST-SUFFIX,unifi.ui.com,global
 HOST-SUFFIX,uptodown.com,global
 HOST-SUFFIX,v2ex.com,global
 HOST-SUFFIX,v2fly.org,global

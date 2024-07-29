@@ -28,6 +28,7 @@ HOST,cdn.img.ly,cdn
 HOST,bot.ivy.ai,cdn
 HOST,webpack.js.org,cdn
 HOST,npmgraph.js.org,cdn
+HOST,ipe-plugins.js.org,cdn
 HOST,npm.jsr.io,cdn
 HOST-SUFFIX,gravity.jup.io,cdn
 HOST,static-cache.k2s.cc,cdn
@@ -50,8 +51,10 @@ HOST-SUFFIX,cdn.s7s.ai,cdn
 HOST,images.spr.so,cdn
 HOST-SUFFIX,ttl.sh,cdn
 HOST,static.ui.com,cdn
+HOST,cdn.ecomm.ui.com,cdn
 HOST,images.svc.ui.com,cdn
 HOST,cdn.pkg.svc.ui.com,cdn
+HOST,assets.ecomm.ui.com,cdn
 HOST,img.community.ui.com,cdn
 HOST,secure-uploads.ui.com,cdn
 HOST,account-cdn.svc.ui.com,cdn
@@ -341,6 +344,7 @@ HOST,s3.arkjp.net,cdn
 HOST,static.arxiv.org,cdn
 HOST,cdn.auth0.com,cdn
 HOST,static-clst.avgle.com,cdn
+HOST-SUFFIX,in.applicationinsights.azure.com,cdn
 HOST,amp.azure.net,cdn
 HOST,linuxiac.b-cdn.net,cdn
 HOST,panel-production-libs.b-cdn.net,cdn
@@ -1471,6 +1475,7 @@ HOST,static.spankbang.com,cdn
 HOST-SUFFIX,stackblitz.io,cdn
 HOST,content-prod-live.cert.starbucks.com,cdn
 HOST-SUFFIX,proxy.startpage.com,cdn
+HOST-SUFFIX,proxy2.startpage.com,cdn
 HOST-SUFFIX,eu-proxy.startpage.com,cdn
 HOST-SUFFIX,eu-browse.startpage.com,cdn
 HOST-SUFFIX,statically.io,cdn
