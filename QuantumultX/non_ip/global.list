@@ -266,6 +266,8 @@ HOST-SUFFIX,aptoide.com,global
 HOST-SUFFIX,arc.net,global
 HOST-SUFFIX,archiveofourown.org,global
 HOST-SUFFIX,ask.com,global
+HOST-SUFFIX,atlassian.com,global
+HOST-SUFFIX,atlassian.net,global
 HOST-SUFFIX,avg.com,global
 HOST-SUFFIX,avgle.com,global
 HOST-SUFFIX,bandcamp.com,global
@@ -383,6 +385,7 @@ HOST-SUFFIX,iwara.tv,global
 HOST-SUFFIX,ixxx.com,global
 HOST-SUFFIX,jable.tv,global
 HOST-SUFFIX,java.com,global
+HOST-SUFFIX,jirachecklist.com,global
 HOST-SUFFIX,jkforum.net,global
 HOST-SUFFIX,jsdelivr.com,global
 HOST-SUFFIX,jsdelivr.net,global

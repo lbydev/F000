@@ -1,6 +1,7 @@
 HOST,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,download
 HOST-SUFFIX,cdn.ea.com,download
 HOST,releases.arc.net,download
+HOST,formulae.brew.sh,download
 HOST,mirror.cat.net,download
 HOST,mirrors.cat.net,download
 HOST,ftp.gnu.org,download

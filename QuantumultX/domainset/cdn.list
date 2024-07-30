@@ -28,6 +28,7 @@ HOST,cdn.img.ly,cdn
 HOST,bot.ivy.ai,cdn
 HOST,webpack.js.org,cdn
 HOST,npmgraph.js.org,cdn
+HOST,storybook.js.org,cdn
 HOST,ipe-plugins.js.org,cdn
 HOST,npm.jsr.io,cdn
 HOST-SUFFIX,gravity.jup.io,cdn
@@ -85,7 +86,6 @@ HOST,seal-newyork.bbb.org,cdn
 HOST,cdn.bfe.dev,cdn
 HOST,static.bit.dev,cdn
 HOST-SUFFIX,bmp.ovh,cdn
-HOST,formulae.brew.sh,cdn
 HOST,assets.bwbx.io,cdn
 HOST,ajax.cat.net,cdn
 HOST,cdnjs.cat.net,cdn
@@ -498,6 +498,7 @@ HOST,assets.safing.io,cdn
 HOST,cdn.sanity.io,cdn
 HOST-SUFFIX,sb-cd.com,cdn
 HOST,cdn.sellix.io,cdn
+HOST-SUFFIX,ingest.sentry.io,cdn
 HOST,cf.shopee.tw,cdn
 HOST,files.slack.com,cdn
 HOST,cdn.smooch.io,cdn
@@ -977,6 +978,7 @@ HOST,stubdownloader.services.mozilla.com,cdn
 HOST-SUFFIX,cdn.mozilla.net,cdn
 HOST-SUFFIX,itsre-sumo.mozilla.net,cdn
 HOST,archive.mozilla.org,cdn
+HOST,versioncheck-bg.addons.mozilla.org,cdn
 HOST,cdn.myfonts.net,cdn
 HOST-SUFFIX,ipfs.namebase.io,cdn
 HOST,iframe.nbcnews.com,cdn
@@ -1080,6 +1082,7 @@ HOST-SUFFIX,yelpcdn.com,cdn
 HOST,cdne-pics.youjizz.com,cdn
 HOST,img.youtube.com,cdn
 HOST,web-assets.zendesk.com,cdn
+HOST-SUFFIX,ziglang.org,cdn
 HOST-SUFFIX,zohocdn.com,cdn
 HOST-SUFFIX,4everland.io,cdn
 HOST,static.addtoany.com,cdn
@@ -1542,6 +1545,7 @@ HOST,cdnjs.cloudflare.com,cdn
 HOST,static.dash.cloudflare.com,cdn
 HOST,cf-assets.www.cloudflare.com,cdn
 HOST,favicons.teams.cloudflare.com,cdn
+HOST-SUFFIX,privacy-gateway.cloudflare.com,cdn
 HOST-SUFFIX,cloudfront.net,cdn
 HOST,res.cloudinary.com,cdn
 HOST,fiverr-res.cloudinary.com,cdn
@@ -1842,6 +1846,7 @@ HOST-SUFFIX,usercontent.dev,cdn
 HOST-SUFFIX,usercontent.one,cdn
 HOST,app.viral-loops.com,cdn
 HOST-SUFFIX,local.webcontainer.io,cdn
+HOST-SUFFIX,webpkgcache.com,cdn
 HOST,files.writefreely.org,cdn
 HOST,img2.xiangbinjun.com,cdn
 HOST-SUFFIX,xvideos-cdn.com,cdn
