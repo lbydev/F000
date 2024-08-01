@@ -1,5 +1,6 @@
 HOST,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,cdn
 HOST,s3.c.im,cdn
+HOST,img.m.mw,cdn
 HOST,s3.m.0x.mk,cdn
 HOST,i.mt.lv,cdn
 HOST,cdn.sc.gl,cdn
@@ -1320,7 +1321,6 @@ HOST,ws-assets.zoominfo.com,cdn
 HOST,c.1password.com,cdn
 HOST,i.1password.com,cdn
 HOST-SUFFIX,ipfs.4everland.xyz,cdn
-HOST,cache.agilebits.com,cdn
 HOST,static.agilebits.com,cdn
 HOST,app-updates.agilebits.com,cdn
 HOST,mycommerce.akamaized.net,cdn
@@ -1337,6 +1337,7 @@ HOST,s-cdn.anthropic.com,cdn
 HOST-SUFFIX,appmifile.com,cdn
 HOST-SUFFIX,aspnetcdn.com,cdn
 HOST,wac-cdn.atlassian.com,cdn
+HOST,media-cdn.atlassian.com,cdn
 HOST,wac-cdn-2.atlassian.com,cdn
 HOST-SUFFIX,avdocker3.com,cdn
 HOST-SUFFIX,awsstatic.com,cdn
@@ -1893,6 +1894,8 @@ HOST,proxy.joinmastodon.org,cdn
 HOST-SUFFIX,kinja-static.com,cdn
 HOST,files.mastodon.ktachibana.party,cdn
 HOST-SUFFIX,kuaikan-cdn4.com,cdn
+HOST,cdn-c.leavemealone.com,cdn
+HOST,icons.leavemealone.com,cdn
 HOST,assets.lemonsqueezy.com,cdn
 HOST-SUFFIX,packd.liuxingbaoyu.xyz,cdn
 HOST,player.louisvuitton.com,cdn
@@ -1913,6 +1916,7 @@ HOST,cdn.robinpro.gallery,cdn
 HOST-SUFFIX,scribdassets.com,cdn
 HOST,image.shutterstock.com,cdn
 HOST-SUFFIX,ipfs.soul-network.com,cdn
+HOST-SUFFIX,static.microsoft,cdn
 HOST-SUFFIX,staticflickr.com,cdn
 HOST-SUFFIX,streamhentai.org,cdn
 HOST,cdn.sunofbeaches.com,cdn

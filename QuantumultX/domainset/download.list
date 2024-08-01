@@ -180,6 +180,7 @@ HOST,xvcf2.xboxlive.com,download
 HOST,packagespc.xboxlive.com,download
 HOST-SUFFIX,1fichier.info,download
 HOST,downloads.1password.com,download
+HOST,cache.agilebits.com,download
 HOST,steampipe.akamaized.net,download
 HOST,steampipe-kr.akamaized.net,download
 HOST,steampipe-partner.akamaized.net,download

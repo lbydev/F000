@@ -677,6 +677,7 @@ HOST,speedtestbb.hk.chinamobile.com,speedtest
 HOST-SUFFIX,speedtest.cmcnetworks.net,speedtest
 HOST,speedtestookla.datahost.net.tr,speedtest
 HOST,pauseq4vost1.datamossa.cloud,speedtest
+HOST,speedtest.datarove.com.tr,speedtest
 HOST,speedtest.dongfong.com.tw,speedtest
 HOST,speedtest.fra.ewgmedianet.com,speedtest
 HOST,spd.fibranet.srv.br,speedtest
@@ -876,6 +877,7 @@ HOST,esk1speedtest.turktelekom.com.tr,speedtest
 HOST,gay1speedtest.turktelekom.com.tr,speedtest
 HOST,geb1speedtest.turktelekom.com.tr,speedtest
 HOST,gun1speedtest.turktelekom.com.tr,speedtest
+HOST,sam1speedtest.turktelekom.com.tr,speedtest
 HOST,umr1speedtest.turktelekom.com.tr,speedtest
 HOST,speedtest.unlimitedfiber.com,speedtest
 HOST,speedtest.upwirefibra.com.br,speedtest
