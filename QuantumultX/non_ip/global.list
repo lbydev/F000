@@ -258,6 +258,7 @@ HOST-SUFFIX,akamai.net,global
 HOST-SUFFIX,akamaihd.net,global
 HOST-SUFFIX,amazon.com,global
 HOST-SUFFIX,amazon.co.jp,global
+HOST-SUFFIX,amazonaws.com,global
 HOST-SUFFIX,apibay.org,global
 HOST-SUFFIX,apk-dl.com,global
 HOST-SUFFIX,apkmirror.com,global
@@ -389,6 +390,7 @@ HOST-SUFFIX,jirachecklist.com,global
 HOST-SUFFIX,jkforum.net,global
 HOST-SUFFIX,jsdelivr.com,global
 HOST-SUFFIX,jsdelivr.net,global
+HOST-SUFFIX,jumpdesktop.com,global
 HOST-SUFFIX,kagi.com,global
 HOST-SUFFIX,kakao.com,global
 HOST-SUFFIX,kik.com,global
@@ -504,6 +506,7 @@ HOST-SUFFIX,surfshark.com,global
 HOST-SUFFIX,t66y.com,global
 HOST-SUFFIX,tenor.com,global
 HOST-SUFFIX,textnow.me,global
+HOST-SUFFIX,termius.com,global
 HOST-SUFFIX,tgstat.ru,global
 HOST-SUFFIX,theinitium.com,global
 HOST-SUFFIX,themoviedb.org,global

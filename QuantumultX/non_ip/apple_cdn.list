@@ -7,6 +7,7 @@ HOST-SUFFIX,a5.mzstatic.com,apple_cdn
 HOST-SUFFIX,adcdownload.apple.com.akadns.net,apple_cdn
 HOST-SUFFIX,adcdownload.apple.com,apple_cdn
 HOST-SUFFIX,amp-api.media.apple.com,apple_cdn
+HOST-SUFFIX,amp-api-updates.apps.apple.com,apple_cdn
 HOST-SUFFIX,api-p-ap-c.smoot.apple.com,apple_cdn
 HOST-SUFFIX,api-p-ap-d.smoot.apple.com,apple_cdn
 HOST-SUFFIX,api-p-ap-e.smoot.apple.com,apple_cdn
@@ -16,6 +17,7 @@ HOST-SUFFIX,appldnld.g.aaplimg.com,apple_cdn
 HOST-SUFFIX,appleid.cdn-apple.com,apple_cdn
 HOST-SUFFIX,apps.apple.com,apple_cdn
 HOST-SUFFIX,apps.mzstatic.com,apple_cdn
+HOST-SUFFIX,bag-cdn.itunes-apple.com.akadns.net,apple_cdn
 HOST-SUFFIX,cdn-cn1.apple-mapkit.com,apple_cdn
 HOST-SUFFIX,cdn-cn2.apple-mapkit.com,apple_cdn
 HOST-SUFFIX,cdn-cn3.apple-mapkit.com,apple_cdn
@@ -62,6 +64,7 @@ HOST-SUFFIX,gsp4-cn.ls.apple.com,apple_cdn
 HOST-SUFFIX,gsp5-cn.ls.apple.com,apple_cdn
 HOST-SUFFIX,gsp85-cn-ssl.ls.apple.com,apple_cdn
 HOST-SUFFIX,gspe19-2-cn-ssl.ls.apple.com,apple_cdn
+HOST-SUFFIX,gspe19-2-cn-ssl.ls-apple.com.akadns.net,apple_cdn
 HOST-SUFFIX,gspe19-cn-ssl.ls.apple.com,apple_cdn
 HOST-SUFFIX,gspe19-cn.ls-apple.com.akadns.net,apple_cdn
 HOST-SUFFIX,gspe19-cn.ls.apple.com,apple_cdn
@@ -100,6 +103,7 @@ HOST-SUFFIX,is4-ssl.mzstatic.com,apple_cdn
 HOST-SUFFIX,is4.mzstatic.com,apple_cdn
 HOST-SUFFIX,is5-ssl.mzstatic.com,apple_cdn
 HOST-SUFFIX,is5.mzstatic.com,apple_cdn
+HOST-SUFFIX,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net,apple_cdn
 HOST-SUFFIX,itunes-apple.com.akadns.net,apple_cdn
 HOST-SUFFIX,itunes.apple.com,apple_cdn
 HOST-SUFFIX,itunesconnect.apple.com,apple_cdn

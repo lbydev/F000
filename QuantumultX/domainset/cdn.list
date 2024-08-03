@@ -104,8 +104,8 @@ HOST,cdn3.dan.com,cdn
 HOST,docs.rs,cdn
 HOST,media.e4le.me,cdn
 HOST-SUFFIX,esm.run,cdn
-HOST-SUFFIX,file.io,cdn
 HOST,badge.fury.io,cdn
+HOST,assets.garr.it,cdn
 HOST-SUFFIX,ghcr.io,cdn
 HOST-SUFFIX,himg.nl,cdn
 HOST,objects.hit.moe,cdn
@@ -170,7 +170,6 @@ HOST,images.spot.im,cdn
 HOST,static-cdn.spot.im,cdn
 HOST,embed.tawk.to,cdn
 HOST,embed.ted.com,cdn
-HOST-SUFFIX,temp.sh,cdn
 HOST,s3.toot.io,cdn
 HOST,cdn.tuk.dev,cdn
 HOST-SUFFIX,cdn.ubi.com,cdn
@@ -216,6 +215,7 @@ HOST,assets.canny.io,cdn
 HOST,assets2.canny.io,cdn
 HOST,production-cmp.isgprivacy.cbsi.com,cdn
 HOST-SUFFIX,media.ci-en.jp,cdn
+HOST,sf-coze-web-cdn.coze.com,cdn
 HOST-SUFFIX,cthd.icu,cdn
 HOST,imgur.dcard.tw,cdn
 HOST,megapx-assets.dcard.tw,cdn
@@ -570,7 +570,6 @@ HOST,start-page.buffer.com,cdn
 HOST,cdn.builder.io,cdn
 HOST-SUFFIX,bundle.run,cdn
 HOST,pic.cangku.moe,cdn
-HOST-SUFFIX,catbox.moe,cdn
 HOST,video.cdnbye.com,cdn
 HOST,signal.cdnbye.com,cdn
 HOST,tracker.cdnbye.com,cdn
@@ -757,7 +756,6 @@ HOST,assets.repair.org,cdn
 HOST,sp.replit.com,cdn
 HOST-SUFFIX,cdn.replit.com,cdn
 HOST-SUFFIX,cms.replit.com,cdn
-HOST,share.riseup.net,cdn
 HOST,wimg.rule34.xxx,cdn
 HOST,embed.runkit.com,cdn
 HOST-SUFFIX,sc-cdn.com,cdn
@@ -904,7 +902,6 @@ HOST,cdn2.ettoday.net,cdn
 HOST,static.ettoday.net,cdn
 HOST-SUFFIX,exp-tas.com,cdn
 HOST-SUFFIX,f-droid.org,cdn
-HOST-SUFFIX,filebin.net,cdn
 HOST,detectportal.firefox.com,cdn
 HOST,a.fireside.fm,cdn
 HOST,assets.fireside.fm,cdn
@@ -1285,7 +1282,6 @@ HOST,cdn4.sysgears.com,cdn
 HOST,ci.testling.com,cdn
 HOST-SUFFIX,tildacdn.com,cdn
 HOST,cdn.tinypass.com,cdn
-HOST-SUFFIX,tmpfiles.org,cdn
 HOST,static.tokenview.io,cdn
 HOST,cdn.transcend.io,cdn
 HOST,static.tronscan.org,cdn
@@ -2020,6 +2016,7 @@ HOST-SUFFIX,gateway.originprotocol.com,cdn
 HOST,web-assets.otogi-frontier.com,cdn
 HOST-SUFFIX,polyfill-fastly.io,cdn
 HOST,api.pwnedpasswords.com,cdn
+HOST-SUFFIX,replicate.delivery,cdn
 HOST-SUFFIX,safebrowsing.apple,cdn
 HOST,image.theblockbeats.info,cdn
 HOST,vscode-sync.trafficmanager.net,cdn

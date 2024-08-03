@@ -4,6 +4,7 @@ HOST,releases.arc.net,download
 HOST,formulae.brew.sh,download
 HOST,mirror.cat.net,download
 HOST,mirrors.cat.net,download
+HOST-SUFFIX,file.io,download
 HOST,ftp.gnu.org,download
 HOST,gog-cdn-fastly.gog.com,download
 HOST,gog-cdn-fastly-cp77.gog.com,download
@@ -14,6 +15,7 @@ HOST,binary-factory.kde.org,download
 HOST,file24-d.kuku.lu,download
 HOST-SUFFIX,mega.io,download
 HOST-SUFFIX,mega.nz,download
+HOST-SUFFIX,temp.sh,download
 HOST-SUFFIX,cdn.ubi.com,download
 HOST,mirror.xtom.au,download
 HOST,mirrors.xtom.au,download
@@ -65,6 +67,7 @@ HOST,dl2.xmind.net,download
 HOST,dl3.xmind.net,download
 HOST,downloads.xrite.com,download
 HOST,download.beeper.com,download
+HOST-SUFFIX,catbox.moe,download
 HOST-SUFFIX,deb.debian.org,download
 HOST-SUFFIX,ftp.debian.org,download
 HOST-SUFFIX,archive.debian.org,download
@@ -75,6 +78,7 @@ HOST,download.dlsite.com,download
 HOST,desktop.docker.com,download
 HOST,download.docker.com,download
 HOST-SUFFIX,mirrors.dotsrc.org,download
+HOST,codeload.github.com,download
 HOST,dl.google.com,download
 HOST,dl.l.google.com,download
 HOST,cache.pack.google.com,download
@@ -93,6 +97,7 @@ HOST,steam.ru.qtlglb.com,download
 HOST,steam.eca.qtlglb.com,download
 HOST,steam.apac.qtlglb.com,download
 HOST,steam.naeu.qtlglb.com,download
+HOST,share.riseup.net,download
 HOST,store.setapp.com,download
 HOST,download.sketch.com,download
 HOST-SUFFIX,archive.ubuntu.com,download
@@ -100,6 +105,7 @@ HOST,security.ubuntu.com,download
 HOST,download.anydesk.com,download
 HOST,edge.steam-dns.top.comcast.net,download
 HOST,dl.devmate.com,download
+HOST-SUFFIX,filebin.net,download
 HOST,down.filen-1.net,download
 HOST,down.filen-2.net,download
 HOST,down.filen-3.net,download
@@ -174,7 +180,9 @@ HOST,api-updates.orbstack.dev,download
 HOST,cdn-updates.orbstack.dev,download
 HOST,repo.powerdns.com,download
 HOST,dl.snipaste.com,download
+HOST,stats.snipaste.com,download
 HOST,download.snipaste.com,download
+HOST-SUFFIX,tmpfiles.org,download
 HOST,xvcf1.xboxlive.com,download
 HOST,xvcf2.xboxlive.com,download
 HOST,packagespc.xboxlive.com,download
@@ -541,4 +549,6 @@ HOST,get.pixelexperience.org,download
 HOST,download.pixelexperience.org,download
 HOST-SUFFIX,copr.fedorainfracloud.org,download
 HOST-SUFFIX,cloudflaremirrors.com,download
+HOST,objects.githubusercontent.com,download
+HOST,pkg-containers.githubusercontent.com,download
 HOST-SUFFIX,digitaloceanspaces.com,download
