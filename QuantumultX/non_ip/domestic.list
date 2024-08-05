@@ -531,6 +531,7 @@ HOST-SUFFIX,alipay.com.cn,domestic
 HOST-SUFFIX,alipayobjects.com,domestic
 HOST-SUFFIX,alibaba-inc.com,domestic
 HOST-SUFFIX,alibabausercontent.com,domestic
+HOST-SUFFIX,alibabadns.com,domestic
 HOST-SUFFIX,alicloudccp.com,domestic
 HOST-SUFFIX,alipan.com,domestic
 HOST-SUFFIX,aliyundrive.com,domestic
@@ -633,6 +634,8 @@ HOST-SUFFIX,qlivecdn.com,domestic
 HOST-SUFFIX,tcdnlive.com,domestic
 HOST-SUFFIX,dnsv1.com,domestic
 HOST-SUFFIX,upos-sz-mirrorali.bilivideo.com,domestic
+HOST-SUFFIX,upos-sz-estgoss.bilivideo.com,domestic
+HOST-SUFFIX,upos-sz-mirrorbd.bilivideo.com,domestic
 HOST-SUFFIX,upos-sz-mirrorbos.bilivideo.com,domestic
 HOST-SUFFIX,upos-sz-mirrorcoso1.bilivideo.com,domestic
 HOST-SUFFIX,acg.tv,domestic
@@ -644,7 +647,6 @@ HOST-SUFFIX,bilibili.tv,domestic
 HOST-SUFFIX,bilivideo.com,domestic
 HOST-SUFFIX,bilivideo.cn,domestic
 HOST-SUFFIX,bilivideo.net,domestic
-HOST-SUFFIX,hdslb.com,domestic
 HOST-SUFFIX,biliimg.com,domestic
 HOST-SUFFIX,biliapi.com,domestic
 HOST-SUFFIX,biliapi.net,domestic
@@ -659,11 +661,13 @@ HOST-SUFFIX,bilicdn1.com,domestic
 HOST-SUFFIX,mi.com,domestic
 HOST-SUFFIX,duokan.com,domestic
 HOST-SUFFIX,mi-img.com,domestic
+HOST-SUFFIX,mi-fds.com,domestic
 HOST-SUFFIX,mifile.cn,domestic
 HOST-SUFFIX,miui.com,domestic
 HOST-SUFFIX,xiaomi.com,domestic
 HOST-SUFFIX,xiaomi.cn,domestic
 HOST-SUFFIX,xiaomi.net,domestic
+HOST-SUFFIX,xiaomiev.com,domestic
 HOST-SUFFIX,xiaomiyoupin.com,domestic
 HOST-SUFFIX,saxyit.com,domestic
 HOST-SUFFIX,bytecdn.cn,domestic

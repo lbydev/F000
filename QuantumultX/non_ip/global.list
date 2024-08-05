@@ -235,6 +235,8 @@ HOST-SUFFIX,scp-wiki.net,global
 HOST-SUFFIX,scpdb.org,global
 HOST-SUFFIX,scpwiki.com,global
 HOST-SUFFIX,firefox.com,global
+HOST-SUFFIX,unifi.ui.com,global
+HOST,techspecs.ui.com,global
 HOST-SUFFIX,singlelogin.se,global
 HOST-SUFFIX,singlelogin.re,global
 HOST-SUFFIX,z-library.se,global
@@ -340,6 +342,7 @@ HOST-SUFFIX,dynu.net,global
 HOST-SUFFIX,dw.com,global
 HOST-SUFFIX,e-hentai.org,global
 HOST-SUFFIX,edgecastcdn.net,global
+HOST-SUFFIX,eroterest.net,global
 HOST-SUFFIX,exhentai.org,global
 HOST-SUFFIX,etsy.com,global
 HOST-SUFFIX,euronews.com,global
@@ -375,6 +378,7 @@ HOST-SUFFIX,hostloc.com,global
 HOST-SUFFIX,huggingface.co,global
 HOST-SUFFIX,huobi.com,global
 HOST-SUFFIX,ibb.co,global
+HOST-SUFFIX,imdb.com,global
 HOST-SUFFIX,imgur.com,global
 HOST-SUFFIX,intel.com,global
 HOST-SUFFIX,initiummall.com,global
@@ -524,7 +528,6 @@ HOST-SUFFIX,tumblr.com,global
 HOST-SUFFIX,turbobit.net,global
 HOST-SUFFIX,twitch.tv,global
 HOST-SUFFIX,ubuntu.com,global
-HOST-SUFFIX,unifi.ui.com,global
 HOST-SUFFIX,uptodown.com,global
 HOST-SUFFIX,v2ex.com,global
 HOST-SUFFIX,v2fly.org,global

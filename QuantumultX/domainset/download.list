@@ -120,6 +120,7 @@ HOST,download.mozilla.org,download
 HOST,download.nektony.com,download
 HOST,boot.netboot.xyz,download
 HOST,dl.nssurge.com,download
+HOST,releases.obsidian.md,download
 HOST,downloads.openwrt.org,download
 HOST,enterprise.proxmox.com,download
 HOST-SUFFIX,iso.reactos.org,download
@@ -510,6 +511,7 @@ HOST,update.googleapis.com,download
 HOST,releases.grapheneos.org,download
 HOST-SUFFIX,nitro.download,download
 HOST,pixeldrain.com,download
+HOST,update.sleazyfork.org,download
 HOST,os-cdn.virtfusion.net,download
 HOST,install.virtfusion.net,download
 HOST,packages.virtfusion.net,download

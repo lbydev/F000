@@ -22,6 +22,7 @@ HOST-SUFFIX,dweb.eu.org,cdn
 HOST-SUFFIX,permaweb.eu.org,cdn
 HOST,genesis-cdn.ff.com,cdn
 HOST-SUFFIX,gcr.io,cdn
+HOST,cdn.registerdisney.go.com,cdn
 HOST-SUFFIX,gw3.io,cdn
 HOST,i.ibb.co,cdn
 HOST,image.ibb.co,cdn
@@ -54,6 +55,7 @@ HOST,images.spr.so,cdn
 HOST-SUFFIX,ttl.sh,cdn
 HOST,static.ui.com,cdn
 HOST,cdn.ecomm.ui.com,cdn
+HOST,fonts.svc.ui.com,cdn
 HOST,images.svc.ui.com,cdn
 HOST,cdn.pkg.svc.ui.com,cdn
 HOST,assets.ecomm.ui.com,cdn
@@ -102,6 +104,7 @@ HOST,cdn1.dan.com,cdn
 HOST,cdn2.dan.com,cdn
 HOST,cdn3.dan.com,cdn
 HOST,docs.rs,cdn
+HOST,image.dooo.ng,cdn
 HOST,media.e4le.me,cdn
 HOST-SUFFIX,esm.run,cdn
 HOST,badge.fury.io,cdn
@@ -965,6 +968,7 @@ HOST-SUFFIX,ipfs.litnet.work,cdn
 HOST,parts.blog.livedoor.jp,cdn
 HOST,img.ltyears.com,cdn
 HOST,assets.mailgun.com,cdn
+HOST,img-cos.mandaoo.com,cdn
 HOST,cdn.mathjax.org,cdn
 HOST,static.maxmind.com,cdn
 HOST,download.maxmind.com,cdn
@@ -1299,7 +1303,6 @@ HOST,images.unsplash.com,cdn
 HOST,js.userflow.com,cdn
 HOST,crl.verisign.com,cdn
 HOST-SUFFIX,vimeocdn.com,cdn
-HOST,api.wakatime.com,cdn
 HOST,cdn.wccftech.com,cdn
 HOST,api.web3.storage,cdn
 HOST,images.web3.storage,cdn
@@ -1382,6 +1385,7 @@ HOST,cdn2.epicgames.com,cdn
 HOST,media-cdn.epicgames.com,cdn
 HOST,static-assets-prod.epicgames.com,cdn
 HOST,epic-social-social-modules-prod.ol.epicgames.com,cdn
+HOST,static.eroterest.net,cdn
 HOST,cache-05.filehippo.net,cdn
 HOST-SUFFIX,fiverrcdn.com,cdn
 HOST-SUFFIX,flagpedia.net,cdn
@@ -1626,6 +1630,7 @@ HOST,assets.mastercard.com,cdn
 HOST,cdn.matterhorn.app,cdn
 HOST,assets.mayoclinic.org,cdn
 HOST,design.mayoclinic.org,cdn
+HOST-SUFFIX,media-imdb.com,cdn
 HOST,assets.mozilla.social,cdn
 HOST-SUFFIX,mypinata.cloud,cdn
 HOST-SUFFIX,myshopapps.com,cdn
@@ -1767,6 +1772,7 @@ HOST-SUFFIX,ipfsgateway.makersplace.com,cdn
 HOST,files.mastodon.online,cdn
 HOST,files.mastodon.social,cdn
 HOST,static-cdn.mastodon.social,cdn
+HOST,i.mydramalist.com,cdn
 HOST,cdn.myportfolio.com,cdn
 HOST,pro2-ui-assets-s3-fy.myportfolio.com,cdn
 HOST,cdn.neverbounce.com,cdn
