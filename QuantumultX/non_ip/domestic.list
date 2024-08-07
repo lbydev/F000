@@ -401,6 +401,9 @@ HOST-SUFFIX,ksyun.com,domestic
 HOST-SUFFIX,kugou.com,domestic
 HOST-SUFFIX,kuwo.cn,domestic
 HOST-SUFFIX,lagou.com,domestic
+HOST-SUFFIX,lancdn.com,domestic
+HOST-SUFFIX,landiannews.com,domestic
+HOST-SUFFIX,landian.vip,domestic
 HOST-SUFFIX,leetcode.cn,domestic
 HOST-SUFFIX,leetcode-cn.com,domestic
 HOST-SUFFIX,leiniao.com,domestic
@@ -647,6 +650,7 @@ HOST-SUFFIX,bilibili.tv,domestic
 HOST-SUFFIX,bilivideo.com,domestic
 HOST-SUFFIX,bilivideo.cn,domestic
 HOST-SUFFIX,bilivideo.net,domestic
+HOST-SUFFIX,hdslb.com,domestic
 HOST-SUFFIX,biliimg.com,domestic
 HOST-SUFFIX,biliapi.com,domestic
 HOST-SUFFIX,biliapi.net,domestic

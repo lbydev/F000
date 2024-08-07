@@ -82,6 +82,7 @@ HOST-SUFFIX,youtu.be,global
 HOST-SUFFIX,youtube.com,global
 HOST-SUFFIX,yt.be,global
 HOST-SUFFIX,ytimg.com,global
+HOST-SUFFIX,telephony.goog,global
 HOST-KEYWORD,google,global
 HOST-KEYWORD,blogspot,global
 HOST-SUFFIX,dns.google,global
@@ -235,8 +236,7 @@ HOST-SUFFIX,scp-wiki.net,global
 HOST-SUFFIX,scpdb.org,global
 HOST-SUFFIX,scpwiki.com,global
 HOST-SUFFIX,firefox.com,global
-HOST-SUFFIX,unifi.ui.com,global
-HOST,techspecs.ui.com,global
+HOST-SUFFIX,ui.com,global
 HOST-SUFFIX,singlelogin.se,global
 HOST-SUFFIX,singlelogin.re,global
 HOST-SUFFIX,z-library.se,global
@@ -271,6 +271,7 @@ HOST-SUFFIX,archiveofourown.org,global
 HOST-SUFFIX,ask.com,global
 HOST-SUFFIX,atlassian.com,global
 HOST-SUFFIX,atlassian.net,global
+HOST-SUFFIX,auth0.com,global
 HOST-SUFFIX,avg.com,global
 HOST-SUFFIX,avgle.com,global
 HOST-SUFFIX,bandcamp.com,global
@@ -361,6 +362,7 @@ HOST-SUFFIX,gettyimages.com,global
 HOST-SUFFIX,gitlab.com,global
 HOST-SUFFIX,ghostery.com,global
 HOST-SUFFIX,godaddy.com,global
+HOST-SUFFIX,go.dev,global
 HOST-SUFFIX,gofundme.com,global
 HOST-SUFFIX,goodreads.com,global
 HOST-SUFFIX,grammarly.com,global

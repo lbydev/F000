@@ -114,6 +114,7 @@ HOST-SUFFIX,himg.nl,cdn
 HOST,objects.hit.moe,cdn
 HOST,sm.ign.com,cdn
 HOST-SUFFIX,iili.io,cdn
+HOST,pic.imge.cc,cdn
 HOST-SUFFIX,gateway.ipfs.io,cdn
 HOST-SUFFIX,ipfs.yt,cdn
 HOST-SUFFIX,ipns.co,cdn
@@ -219,6 +220,7 @@ HOST,assets2.canny.io,cdn
 HOST,production-cmp.isgprivacy.cbsi.com,cdn
 HOST-SUFFIX,media.ci-en.jp,cdn
 HOST,sf-coze-web-cdn.coze.com,cdn
+HOST,load.csell.co,cdn
 HOST-SUFFIX,cthd.icu,cdn
 HOST,imgur.dcard.tw,cdn
 HOST,megapx-assets.dcard.tw,cdn
@@ -701,6 +703,7 @@ HOST,static.missav.com,cdn
 HOST,thumbnail.missav.com,cdn
 HOST,launchercontent.mojang.com,cdn
 HOST,static-main.moovit.com,cdn
+HOST,img.mresou.com,cdn
 HOST,az700632.vo.msecnd.net,cdn
 HOST,prod.msocdn.com,cdn
 HOST,appassets.mvtdev.com,cdn
@@ -861,6 +864,8 @@ HOST,consentdeliveryfd.azurefd.net,cdn
 HOST-SUFFIX,bdzybf7.com,cdn
 HOST,a5.behance.net,cdn
 HOST,mir-s3-cdn-cf.behance.net,cdn
+HOST-SUFFIX,bftuvip.com,cdn
+HOST-SUFFIX,bfzypic.com,cdn
 HOST,api.bintray.com,cdn
 HOST,static.news.bitcoin.com,cdn
 HOST,organizer.bizzabo.com,cdn
@@ -870,6 +875,7 @@ HOST-SUFFIX,botsrv2.com,cdn
 HOST,cdn.bsky.social,cdn
 HOST-SUFFIX,bstatic.com,cdn
 HOST,static.bytepan.com,cdn
+HOST,img.catwvod.xyz,cdn
 HOST-SUFFIX,cdn-one.com,cdn
 HOST-SUFFIX,cdn1122.com,cdn
 HOST-SUFFIX,cdn2020.com,cdn
@@ -944,10 +950,12 @@ HOST,avatars.hubspot.net,cdn
 HOST,busuanzi.ibruce.info,cdn
 HOST-SUFFIX,ignimgs.com,cdn
 HOST-SUFFIX,imageban.ru,cdn
+HOST-SUFFIX,imagehub.cc,cdn
 HOST-SUFFIX,ik.imagekit.io,cdn
 HOST,i.imgflip.com,cdn
 HOST-SUFFIX,imglink.win,cdn
 HOST-SUFFIX,imgsmail.ru,cdn
+HOST-SUFFIX,imgyzzy.com,cdn
 HOST,widget.intercom.io,cdn
 HOST,assets.ipstack.com,cdn
 HOST,static.javcdn.info,cdn
@@ -967,6 +975,8 @@ HOST-SUFFIX,kym-cdn.com,cdn
 HOST-SUFFIX,ipfs.litnet.work,cdn
 HOST,parts.blog.livedoor.jp,cdn
 HOST,img.ltyears.com,cdn
+HOST-SUFFIX,lzzyimg.com,cdn
+HOST-SUFFIX,lzzypic.com,cdn
 HOST,assets.mailgun.com,cdn
 HOST,img-cos.mandaoo.com,cdn
 HOST,cdn.mathjax.org,cdn
@@ -1026,6 +1036,7 @@ HOST-SUFFIX,ipfs.sloppyta.co,cdn
 HOST-SUFFIX,smilecdn.co,cdn
 HOST,sdk.snapkit.com,cdn
 HOST,static.snaptube.in,cdn
+HOST-SUFFIX,snzypic.com,cdn
 HOST-SUFFIX,sqspcdn.com,cdn
 HOST,static.srcspot.com,cdn
 HOST-SUFFIX,sstatic.net,cdn
@@ -1085,6 +1096,7 @@ HOST,cdne-pics.youjizz.com,cdn
 HOST,img.youtube.com,cdn
 HOST,web-assets.zendesk.com,cdn
 HOST-SUFFIX,ziglang.org,cdn
+HOST,pic.ziyuan.wang,cdn
 HOST-SUFFIX,zohocdn.com,cdn
 HOST-SUFFIX,4everland.io,cdn
 HOST,static.addtoany.com,cdn
@@ -1201,6 +1213,7 @@ HOST,img.kbhgames.com,cdn
 HOST,cdn.langshop.app,cdn
 HOST,assets.leetcode.com,cdn
 HOST,static-lccn.leetcode.com,cdn
+HOST,pic.libilibi.top,cdn
 HOST,image.lichess1.org,cdn
 HOST-SUFFIX,line-cdn.net,cdn
 HOST,services.linkfire.com,cdn
@@ -1276,6 +1289,7 @@ HOST-SUFFIX,smassets.net,cdn
 HOST,static.snapchat.com,cdn
 HOST,static.socratic.org,cdn
 HOST,useruploads.socratic.org,cdn
+HOST-SUFFIX,stapecdn.com,cdn
 HOST,assets.stickpng.com,cdn
 HOST-SUFFIX,stripcdn.com,cdn
 HOST,cdn.substack.com,cdn
@@ -1380,6 +1394,7 @@ HOST-SUFFIX,doppiocdn.com,cdn
 HOST-SUFFIX,doppiocdn.net,cdn
 HOST-SUFFIX,doppiocdn.org,cdn
 HOST-SUFFIX,embedgram.com,cdn
+HOST-SUFFIX,emotivecdn.io,cdn
 HOST,cdn1.epicgames.com,cdn
 HOST,cdn2.epicgames.com,cdn
 HOST,media-cdn.epicgames.com,cdn
@@ -1424,6 +1439,7 @@ HOST,static.incapsula.com,cdn
 HOST,static.infomaniak.ch,cdn
 HOST,cdn.ipregistry.co,cdn
 HOST,cdn.jetphotos.com,cdn
+HOST-SUFFIX,jisuimage.com,cdn
 HOST-SUFFIX,kinja-img.com,cdn
 HOST-SUFFIX,klarnacdn.net,cdn
 HOST-SUFFIX,line-scdn.net,cdn
@@ -1441,6 +1457,8 @@ HOST-SUFFIX,software-download.microsoft.com,cdn
 HOST,public.mocortech.com,cdn
 HOST,static.mocortech.com,cdn
 HOST,images.moovitapp.com,cdn
+HOST,bundler.nice-team.net,cdn
+HOST,cdn-bundler.nice-team.net,cdn
 HOST-SUFFIX,oaistatic.com,cdn
 HOST-SUFFIX,oculuscdn.com,cdn
 HOST-SUFFIX,res.office365.com,cdn
@@ -1510,6 +1528,7 @@ HOST,crt.usertrust.com,cdn
 HOST,ocsp.usertrust.com,cdn
 HOST,widget.uservoice.com,cdn
 HOST-SUFFIX,video-cdn.net,cdn
+HOST,assets.videowise.com,cdn
 HOST,waitlisted.co,cdn
 HOST-SUFFIX,s3.wasabisys.com,cdn
 HOST,s3.eu-central-2.wasabisys.com,cdn
@@ -1518,6 +1537,7 @@ HOST-SUFFIX,wixstatic.com,cdn
 HOST-SUFFIX,files.wordpress.com,cdn
 HOST,downloads.wordpress.org,cdn
 HOST-SUFFIX,xdaimages.com,cdn
+HOST,cdn.yinghuazy.xyz,cdn
 HOST,web-assets.zendesk.co.jp,cdn
 HOST,assets.zerohedge.com,cdn
 HOST-SUFFIX,zohostatic.eu,cdn
@@ -1625,6 +1645,7 @@ HOST,pkg-cdn.jetbrains.team,cdn
 HOST,packages.jetbrains.team,cdn
 HOST,content.jwplatform.com,cdn
 HOST-SUFFIX,ipfs.kinematiks.com,cdn
+HOST-SUFFIX,liangzipic.com,cdn
 HOST,seccdn.libravatar.org,cdn
 HOST,assets.mastercard.com,cdn
 HOST,cdn.matterhorn.app,cdn
@@ -1683,6 +1704,7 @@ HOST-SUFFIX,typography.com,cdn
 HOST-SUFFIX,ungrounded.net,cdn
 HOST,cdn.userreport.com,cdn
 HOST-SUFFIX,vanillicon.com,cdn
+HOST,cdn.verifypass.com,cdn
 HOST,versionbadg.es,cdn
 HOST-SUFFIX,vscode-cdn.net,cdn
 HOST-SUFFIX,zi-scripts.com,cdn
@@ -1811,6 +1833,8 @@ HOST,assets.squarespace.com,cdn
 HOST,s3media.squarespace.com,cdn
 HOST,static1.squarespace.com,cdn
 HOST,static3.squarespace.com,cdn
+HOST,cdn.starapps.studio,cdn
+HOST,bcdn.starapps.studio,cdn
 HOST-SUFFIX,c.staticblitz.com,cdn
 HOST-SUFFIX,t.staticblitz.com,cdn
 HOST-SUFFIX,w.staticblitz.com,cdn
@@ -1839,6 +1863,7 @@ HOST-SUFFIX,thirdwebcdn.com,cdn
 HOST,static.tradingview.com,cdn
 HOST,s3-symbol-logo.tradingview.com,cdn
 HOST,widgets.tree-nation.com,cdn
+HOST,cdn.trustedsite.com,cdn
 HOST-SUFFIX,uber-assets.com,cdn
 HOST,static.underhentai.net,cdn
 HOST-SUFFIX,uploadhouse.com,cdn
@@ -1892,6 +1917,7 @@ HOST,cdn1.identitymind.com,cdn
 HOST-SUFFIX,images-iherb.com,cdn
 HOST,spcdn.incartupsell.com,cdn
 HOST,media.infosec.exchange,cdn
+HOST-SUFFIX,jinyingimage.com,cdn
 HOST,proxy.joinmastodon.org,cdn
 HOST-SUFFIX,kinja-static.com,cdn
 HOST,files.mastodon.ktachibana.party,cdn
