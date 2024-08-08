@@ -23,3 +23,4 @@ HOST,alkalimakersuite-pa.clients6.google.com,ai
 HOST-SUFFIX,generativeai.google,ai
 HOST-SUFFIX,poe.com,ai
 HOST-SUFFIX,meta.ai,ai
+HOST,gateway.ai.cloudflare.com,ai
