@@ -91,7 +91,7 @@ HOST,redstone-launcher.mojang.com,download
 HOST,dl.motrix.app,download
 HOST,az764295.vo.msecnd.net,download
 HOST-SUFFIX,download.nvidia.com,download
-HOST,download.dm.origin.com,download
+HOST-SUFFIX,download.dm.origin.com,download
 HOST,builds.parsec.app,download
 HOST,steam.ru.qtlglb.com,download
 HOST,steam.eca.qtlglb.com,download
@@ -188,6 +188,7 @@ HOST,xvcf1.xboxlive.com,download
 HOST,xvcf2.xboxlive.com,download
 HOST,packagespc.xboxlive.com,download
 HOST-SUFFIX,1fichier.info,download
+HOST,c.1password.com,download
 HOST,downloads.1password.com,download
 HOST,cache.agilebits.com,download
 HOST,steampipe.akamaized.net,download
@@ -496,6 +497,7 @@ HOST,amupdatedl4.microsoft.com,download
 HOST,amupdatedl5.microsoft.com,download
 HOST-SUFFIX,delivery.mp.microsoft.com,download
 HOST-SUFFIX,download.prss.microsoft.com,download
+HOST-SUFFIX,software-download.microsoft.com,download
 HOST,download.visualstudio.microsoft.com,download
 HOST,mirror.navercorp.com,download
 HOST,desktop.parallels.com,download

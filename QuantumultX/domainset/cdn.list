@@ -727,7 +727,6 @@ HOST,res-geo.cdn.office.net,cdn
 HOST,static.oklink.com,cdn
 HOST,static.opensea.io,cdn
 HOST,static.oracle.com,cdn
-HOST,secure.download.dm.origin.com,cdn
 HOST-SUFFIX,ipfs.overpi.com,cdn
 HOST,media.owcnow.com,cdn
 HOST,cdn.paddle.com,cdn
@@ -1453,7 +1452,6 @@ HOST,ajax.microsoft.com,cdn
 HOST,wcpstatic.microsoft.com,cdn
 HOST,images.ecomm.microsoft.com,cdn
 HOST,store-images.microsoft.com,cdn
-HOST-SUFFIX,software-download.microsoft.com,cdn
 HOST,public.mocortech.com,cdn
 HOST,static.mocortech.com,cdn
 HOST,images.moovitapp.com,cdn
