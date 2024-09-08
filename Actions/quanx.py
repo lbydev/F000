@@ -13,6 +13,7 @@ def process_file(url: str, rule_set_name: str) -> Optional[List[str]]:
             'DOMAIN-KEYWORD': 'HOST-KEYWORD',
             'IP-CIDR': 'IP-CIDR',
             'IP-CIDR6': 'IP-CIDR6',
+            'IP-ASN': 'IP-ASN',
             'SRC-IP-CIDR': 'SRC-IP-CIDR',
             'GEOIP': 'GEOIP',
             'DST-PORT': 'DST-PORT',
