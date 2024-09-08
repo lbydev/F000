@@ -1,0 +1,15 @@
+HOST,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe,telegram_non_ip
+HOST-SUFFIX,telesco.pe,telegram_non_ip
+HOST-SUFFIX,telegram.space,telegram_non_ip
+HOST-SUFFIX,telegram.dog,telegram_non_ip
+HOST-SUFFIX,cdn-telegram.org,telegram_non_ip
+HOST-SUFFIX,graph.org,telegram_non_ip
+HOST-SUFFIX,telegram.org,telegram_non_ip
+HOST-SUFFIX,telega.one,telegram_non_ip
+HOST-SUFFIX,legra.ph,telegram_non_ip
+HOST-SUFFIX,telegra.ph,telegram_non_ip
+HOST-SUFFIX,tdesktop.com,telegram_non_ip
+HOST-SUFFIX,tg.dev,telegram_non_ip
+HOST-SUFFIX,telegram.me,telegram_non_ip
+HOST-SUFFIX,tx.me,telegram_non_ip
+HOST-SUFFIX,t.me,telegram_non_ip
