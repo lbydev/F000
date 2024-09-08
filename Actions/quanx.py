@@ -56,6 +56,8 @@ def main():
     urls = {
         "ai": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/non_ip/ai.txt",
                    "./QuantumultX/non_ip/ai.list"),
+        "telegram": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/non_ip/telegram.txt",
+                   "./QuantumultX/non_ip/telegram.list"),
         "telegram_asn": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/ip/telegram_asn.txt",
                 "./QuantumultX/ip/telegram_asn.list"),
         "telegram": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/ip/telegram.txt",
