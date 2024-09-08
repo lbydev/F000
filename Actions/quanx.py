@@ -12,7 +12,7 @@ def process_file(url: str, rule_set_name: str) -> Optional[List[str]]:
             'DOMAIN': 'HOST',
             'DOMAIN-KEYWORD': 'HOST-KEYWORD',
             'IP-CIDR': 'IP-CIDR',
-            'IP-CIDR6': 'IP-CIDR6',
+            'IP-CIDR6': 'IP6-CIDR',
             'IP-ASN': 'IP-ASN',
             'SRC-IP-CIDR': 'SRC-IP-CIDR',
             'GEOIP': 'GEOIP',
@@ -35,8 +35,8 @@ def process_file(url: str, rule_set_name: str) -> Optional[List[str]]:
                         # 如果最后一部分是 'no-resolve'，删除它
                         if parts[-1] == 'no-resolve':
                             parts = parts[:-1]
-                        # 对于 IP-CIDR 和 IP-CIDR6，不添加 rule_set_name
-                        processed_line = f"{new_rule_type},{parts[1]}"
+                        # 对于 IP-CIDR 和 IP-CIDR6
+                        processed_line = f"{new_rule_type},{parts[1]},{rule_set_name}"
                     else:
                         processed_line = f"{new_rule_type},{parts[1]},{rule_set_name}"
                     processed_lines.append(processed_line)
