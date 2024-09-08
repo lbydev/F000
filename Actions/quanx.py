@@ -31,9 +31,14 @@ def process_file(url: str, rule_set_name: str) -> Optional[List[str]]:
                 rule_type = parts[0]
                 if rule_type in rule_type_map:
                     new_rule_type = rule_type_map[rule_type]
-                    if new_rule_type in ['IP-CIDR', 'IP-CIDR6'] and parts[-1] == 'no-resolve':
-                        parts = parts[:-1]
-                    processed_line = f"{new_rule_type},{parts[1]},{rule_set_name}"
+                    if new_rule_type in ['IP-CIDR', 'IP-CIDR6']:
+                        # 如果最后一部分是 'no-resolve'，删除它
+                        if parts[-1] == 'no-resolve':
+                            parts = parts[:-1]
+                        # 对于 IP-CIDR 和 IP-CIDR6，不添加 rule_set_name
+                        processed_line = f"{new_rule_type},{parts[1]}"
+                    else:
+                        processed_line = f"{new_rule_type},{parts[1]},{rule_set_name}"
                     processed_lines.append(processed_line)
             else:
                 if line.startswith('+.'):
