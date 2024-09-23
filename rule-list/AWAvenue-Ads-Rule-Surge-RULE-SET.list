@@ -7,6 +7,7 @@ DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
 DOMAIN,8le8le.com
 DOMAIN,a0.app.xiaomi.com
 DOMAIN,aaid.umeng.com
+DOMAIN,abtest-ch.snssdk.com
 DOMAIN,ad-cache.dopool.com
 DOMAIN,ad-cdn.qingting.fm
 DOMAIN,ad-scope.com
@@ -105,9 +106,11 @@ DOMAIN,advertising.yandex.ru
 DOMAIN,advice-ads.s3.amazonaws.com
 DOMAIN,adview.cn
 DOMAIN,adx-ad.smart-tv.cn
+DOMAIN,adx-bj.anythinktech.com
 DOMAIN,adx-cn.anythinktech.com
 DOMAIN,adx-drcn.op.dbankcloud.cn
 DOMAIN,adx-open-service.youku.com
+DOMAIN,adx-os.anythinktech.com
 DOMAIN,adx.ads.heytapmobi.com
 DOMAIN,adx.ads.oppomobile.com
 DOMAIN,adxlog-adnet.vivo.com.cn
@@ -167,6 +170,7 @@ DOMAIN,audid-api.taobao.com
 DOMAIN,audid.umeng.com
 DOMAIN,azr.footprintdns.com
 DOMAIN,b1-data.ads.heytapmobi.com
+DOMAIN,bdad.123pan.cn
 DOMAIN,bdapi-ads.realmemobile.com
 DOMAIN,bdapi-in-ads.realmemobile.com
 DOMAIN,bdapi.ads.oppomobile.com
@@ -175,6 +179,7 @@ DOMAIN,beacon.qq.com
 DOMAIN,beaconcdn.qq.com
 DOMAIN,beacons.gvt2.com
 DOMAIN,beizi.biz
+DOMAIN,bes-mtj.baidu.com
 DOMAIN,bgg.baidu.com
 DOMAIN,bianxian.com
 DOMAIN,bingads.microsoft.com
@@ -191,6 +196,7 @@ DOMAIN,c.kuaiduizuoye.com
 DOMAIN,c.sayhi.360.cn
 DOMAIN,c2.gdt.qq.com
 DOMAIN,catalog.fjwhcbsh.com
+DOMAIN,cbjs.baidu.com
 DOMAIN,ccs.umeng.com
 DOMAIN,cctv.adsunion.com
 DOMAIN,cdn-ad.wtzw.com
@@ -213,6 +219,7 @@ DOMAIN,conn-service-cn-05.allawntech.com
 DOMAIN,conn-service-in-03.allawnos.com
 DOMAIN,conn-service-in-04.allawnos.com
 DOMAIN,conn-service-in-05.allawnos.com
+DOMAIN,cpro.baidustatic.com
 DOMAIN,crashlytics.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,csjplatform.com
@@ -325,6 +332,7 @@ DOMAIN,ks.pull.yximgs.com
 DOMAIN,launcher.smart-tv.cn
 DOMAIN,launcherimg.smart-tv.cn
 DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com
+DOMAIN,lf6-ad-union-sdk.pglstatp-toutiao.com
 DOMAIN,litchiads.com
 DOMAIN,liveats-vod.video.ptqy.gitv.tv
 DOMAIN,livemonitor.huan.tv
@@ -444,6 +452,7 @@ DOMAIN,pixon.ads-pixiv.net
 DOMAIN,plbslog.umeng.com
 DOMAIN,pms.mb.qq.com
 DOMAIN,policy.video.ptqy.gitv.tv
+DOMAIN,pos.baidu.com
 DOMAIN,proxy.advp.apple.com
 DOMAIN,public.gdtimg.com
 DOMAIN,q.i.gdt.qq.com
@@ -576,6 +585,7 @@ DOMAIN,ulogs.umeng.com
 DOMAIN,ulogs.umengcloud.com
 DOMAIN,umengacs.m.taobao.com
 DOMAIN,umengjmacs.m.taobao.com
+DOMAIN,umini.shujupie.com
 DOMAIN,umsns.com
 DOMAIN,union.baidu.cn
 DOMAIN,union.baidu.com
@@ -587,7 +597,9 @@ DOMAIN,v.adx.hubcloud.com.cn
 DOMAIN,v1-ad.video.yximgs.com
 DOMAIN,v2-ad.video.yximgs.com
 DOMAIN,v2.gdt.qq.com
+DOMAIN,v2mi.gdt.qq.com
 DOMAIN,v3-ad.video.yximgs.com
+DOMAIN,v3.gdt.qq.com
 DOMAIN,video-ad.sm.cn
 DOMAIN,video-dsp.pddpic.com
 DOMAIN,video.dispatch.tc.qq.com
@@ -629,7 +641,6 @@ DOMAIN,webstat.qiumibao.com
 DOMAIN,widgets.outbrain.com
 DOMAIN,widgets.pinterest.com
 DOMAIN,win.gdt.qq.com
-DOMAIN,wn.pos.baidu.com
 DOMAIN,wn.x.jd.com
 DOMAIN,ws-keyboard.shouji.sogou.com
 DOMAIN,ws.sj.qq.com
