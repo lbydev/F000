@@ -1,0 +1,13 @@
+{
+    "description": "Option + L to execute Control + Command + Q (Lock Screen)",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "l",
+                "modifiers": { "mandatory": ["option"] }
+            },
+            "to": [{ "shell_command": "osascript -e 'tell application \"System Events\" to keystroke \"q\" using {control down, command down}'" }],
+            "type": "basic"
+        }
+    ]
+}
