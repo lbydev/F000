@@ -683,7 +683,7 @@ DOMAIN,ykad-gateway.youku.com
 DOMAIN,youku-acs.m.taobao.com
 DOMAIN,youxi.kugou.com
 DOMAIN,zeus.ad.xiaomi.com
-DOMAIN-KEYWORD,.*\..*\.shouji\.sogou\.com
+DOMAIN-KEYWORD,.*\.*\.shouji\.sogou\.com
 DOMAIN-KEYWORD,.*\.[a-zA-Z0-9.-]skwai\.com
 DOMAIN-KEYWORD,.*\.a\.market\.xiaomi\.com
 DOMAIN-KEYWORD,.*\.data\.hicloud\.com
