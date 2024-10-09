@@ -158,7 +158,8 @@
         "others",
         "all-auto",
         "direct-out"
-      ]
+      ],
+      "default": "HongKong"
     },
     {
       "tag": "apple",
