@@ -11,7 +11,7 @@
         "address": "https://1.0.0.1/dns-query",
         "address_resolver": "dns_resolver",
         "strategy": "ipv4_only",
-        "detour": "OutSide"
+        "detour": "Select"
       },
       {
         "tag": "dns_direct",
@@ -162,7 +162,8 @@
         "others",
         "all-auto",
         "direct-out"
-      ]
+      ],
+      "default": "all-auto"
     },
     {
       "type": "selector",
