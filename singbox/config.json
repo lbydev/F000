@@ -132,8 +132,7 @@
       "type": "selector",
       "outbounds": [
         "Select"
-      ],
-      "default": "direct-out"
+      ]
     },
     {
       "tag": "telegram",
@@ -163,8 +162,7 @@
       "type": "selector",
       "outbounds": [
         "Select"
-      ],
-      "default": "direct-out"
+      ]
     },
     {
       "tag": "neteasemusic",
