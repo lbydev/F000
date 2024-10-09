@@ -1,0 +1,13 @@
+{
+    "description": "Control + Esc to execute Control + Command + Q (Lock Screen)",
+    "manipulators": [
+        {
+            "from": {
+                "key_code": "escape",
+                "modifiers": { "mandatory": ["control"] }
+            },
+            "to": [{ "shell_command": "osascript -e 'tell application \"System Events\" to keystroke \"q\" using {control down, command down}'" }],
+            "type": "basic"
+        }
+    ]
+}
