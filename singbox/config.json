@@ -1,4 +1,4 @@
-8{
+{
   "log": {
     "disabled": false,
     "level": "warn",
@@ -127,7 +127,7 @@
     },
     {
       "type": "selector",
-      "tag": "Select1",
+      "tag": "Select",
       "outbounds": [
         "OutSide",
         "HongKong",
@@ -137,7 +137,7 @@
         "Singapore",
         "America",
         "UnitedKingdom",
-        "AllServer",
+        "all",
         "others",
         "all-auto",
         "direct-out"
@@ -154,7 +154,7 @@
         "Singapore",
         "America",
         "UnitedKingdom",
-        "AllServer",
+        "all",
         "others",
         "all-auto",
         "direct-out"
@@ -164,14 +164,14 @@
       "tag": "apple",
       "type": "selector",
       "outbounds": [
-        "Select1"
+        "Select"
       ]
     },
     {
       "tag": "telegram",
       "type": "selector",
       "outbounds": [
-        "Select1"
+        "Select"
       ]
     },
     {
@@ -187,14 +187,14 @@
       "tag": "microsoft",
       "type": "selector",
       "outbounds": [
-        "Select1"
+        "Select"
       ]
     },
     {
       "tag": "google",
       "type": "selector",
       "outbounds": [
-        "Select1"
+        "Select"
       ]
     },
     {
@@ -202,7 +202,7 @@
       "type": "selector",
       "outbounds": [
         "OutSide",
-        "direct-out",
+        "direct-out"
       ],
       "default": "direct-out"
     },
@@ -210,14 +210,14 @@
       "tag": "stream",
       "type": "selector",
       "outbounds": [
-        "Select1"
+        "Select"
       ]
     },
     {
       "tag": "openai",
       "type": "selector",
       "outbounds": [
-        "AllServer"
+        "all"
       ]
     },
     {
@@ -225,7 +225,7 @@
       "type": "selector",
       "outbounds": [
         "OutSide",
-        "direct-out",
+        "direct-out"
       ],
       "default": "direct-out"
     },
@@ -375,16 +375,6 @@
       ]
     },
     {
-      "tag": "AllServer",
-      "type": "selector",
-      "outbounds": [
-        "{all}"
-      ],
-      "filter": [
-        {"action":"exclude","keywords":["网站|地址|剩余|过期|时间|有效|网址|禁止|邮箱|发布|客服|订阅|节点"]}
-      ]
-    },
-    {
       "tag": "all-auto",
       "type": "urltest",
       "outbounds": [
@@ -466,7 +456,7 @@
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
       "tolerance": 50
-    },    
+    }   
   ],
   "route": {
     "rules": [
