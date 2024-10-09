@@ -1,4 +1,4 @@
-{
+8{
   "log": {
     "disabled": false,
     "level": "warn",
@@ -66,17 +66,50 @@
     {
       "type": "mixed",
       "tag": "mixed-in",
-      "listen": "::",
-      "listen_port": 1080,
+      "listen": "127.0.0.1",
+      "listen_port": 2080,
       "sniff": true,
-      "domain_strategy": "prefer_ipv4"
+      "sniff_override_destination": false,
+      "domain_strategy": "ipv4_only"
     },
     {
-      "type": "tproxy",
-      "tag": "tproxy-in",
-      "listen": "::",
-      "listen_port": 1536,
-      "sniff": true
+      "type": "direct",
+      "tag": "dns-in",
+      "listen": "127.0.0.1",
+      "listen_port": 6450,
+      "override_address": "8.8.8.8",
+      "override_port": 53
+    },
+    {
+      "type": "tun",
+      "tag": "tun-in",
+      "mtu": 9000,
+      "inet4_address": "172.19.0.1/30",
+      "inet6_address": "fdfe:dcba:9876::1/126",
+      "auto_route": true,
+      "strict_route": true,
+      "inet4_route_address": [
+        "0.0.0.0/1",
+        "128.0.0.0/1",
+        "198.18.0.0/15"
+      ],
+      "inet6_route_address": [
+        "::/1",
+        "8000::/1",
+        "fc00::/18"
+      ],
+      "endpoint_independent_nat": true,
+      "stack": "gvisor",
+      "platform": {
+        "http_proxy": {
+          "enabled": true,
+          "server": "127.0.0.1",
+          "server_port": 2080
+        }
+      },
+      "sniff": true,
+      "sniff_override_destination": false,
+      "domain_strategy": "ipv4_only"
     }
   ],
   "outbounds": [
