@@ -224,7 +224,7 @@
         "kr",
         "uk",
         "others",
-        "all-auto"
+        "all-auto",
         "direct-out"
       ],
       "default": "all-auto"
@@ -241,7 +241,7 @@
         "kr",
         "uk",
         "others",
-        "all-auto"
+        "all-auto",
         "direct-out"
       ],
       "default": "all-auto"
@@ -285,7 +285,7 @@
         "kr",
         "uk",
         "others",
-        "all-auto"
+        "all-auto",
         "direct-out"
       ],
       "default": "all-auto"
