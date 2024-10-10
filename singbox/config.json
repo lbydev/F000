@@ -530,12 +530,6 @@
       },
       {
         "rule_set": [
-          "geosite-google"
-        ],
-        "outbound": "google"
-      },
-      {
-        "rule_set": [
           "geosite-googlefcm"
         ],
         "outbound": "fcm"
@@ -794,13 +788,6 @@
         "url": "https://github.com/yyhhyyyyyy/sing-box-ruleset/raw/main/non_ip/microsoft.srs",
         "download_detour": "OutSide"
       },
-      {
-        "tag": "geosite-google",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/sing/geo-lite/geosite/google.srs",
-        "download_detour": "OutSide"
-      }, 
       {
         "tag": "neteasemusic_non_ip",
         "type": "remote",
