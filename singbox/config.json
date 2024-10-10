@@ -802,13 +802,6 @@
         "download_detour": "OutSide"
       }, 
       {
-        "tag": "geoip-google",
-        "type": "remote",
-        "format": "binary",
-        "url": "https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/sing/geo-lite/geoip/google.srs",
-        "download_detour": "OutSide"
-      },      
-      {
         "tag": "neteasemusic_non_ip",
         "type": "remote",
         "format": "binary",
