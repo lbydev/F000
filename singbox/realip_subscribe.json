@@ -325,7 +325,7 @@
     },
     {
       "tag": "hk",
-      "type": "selector",
+      "type": "urltest",
       "outbounds": [
         "{all}"
       ],
@@ -336,7 +336,7 @@
     },
     {
       "tag": "tw",
-      "type": "selector",
+      "type": "urltest",
       "outbounds": [
         "{all}"
       ],
@@ -347,7 +347,7 @@
     },
     {
       "tag": "jp",
-      "type": "selector",
+      "type": "urltest",
       "outbounds": [
         "{all}"
       ],
@@ -358,7 +358,7 @@
     },
     {
       "tag": "sg",
-      "type": "selector",
+      "type": "urltest",
       "outbounds": [
         "{all}"
       ],
@@ -369,7 +369,7 @@
     },
     {
       "tag": "us",
-      "type": "selector",
+      "type": "urltest",
       "outbounds": [
         "{all}"
       ],
@@ -380,7 +380,7 @@
     },
     {
       "tag": "uk",
-      "type": "selector",
+      "type": "urltest",
       "outbounds": [
         "{all}"
       ],
@@ -391,7 +391,7 @@
     },
     {
       "tag": "kr",
-      "type": "selector",
+      "type": "urltest",
       "outbounds": [
         "{all}"
       ],
