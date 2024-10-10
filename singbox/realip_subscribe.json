@@ -824,14 +824,14 @@
         "type": "remote",
         "format": "binary",
         "url": "https://github.com/MetaCubeX/meta-rules-dat/raw/sing/geo/geosite/google.srs",
-        "download_detour": "OutSide"
+        "download_detour": "proxy"
       },
       {
         "tag": "geoip-google",
         "type": "remote",
         "format": "binary",
         "url": "https://github.com/MetaCubeX/meta-rules-dat/raw/sing/geo/geoip/google.srs",
-        "download_detour": "OutSide"
+        "download_detour": "proxy"
       },
       {
         "tag": "geosite-googlefcm",
