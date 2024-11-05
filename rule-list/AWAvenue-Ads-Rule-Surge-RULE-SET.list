@@ -10,6 +10,9 @@ DOMAIN,aaid.umeng.com
 DOMAIN,abtest-ch.snssdk.com
 DOMAIN,ad-cache.dopool.com
 DOMAIN,ad-cdn.qingting.fm
+DOMAIN,ad-cmp.hismarttv.com
+DOMAIN,ad-download.hismarttv.com
+DOMAIN,ad-imp.hismarttv.com
 DOMAIN,ad-scope.com
 DOMAIN,ad-scope.com.cn
 DOMAIN,ad-sdk.huxiu.com
@@ -34,6 +37,7 @@ DOMAIN,adapi.izuiyou.com
 DOMAIN,adapi.yynetwk.com
 DOMAIN,adashbc.ut.taobao.com
 DOMAIN,adcdn.tencentmusic.com
+DOMAIN,adclick.g.doubleclick.net
 DOMAIN,adclick.tencentmusic.com
 DOMAIN,adcolony.com
 DOMAIN,adexpo.tencentmusic.com
@@ -242,7 +246,6 @@ DOMAIN,dlogs.bwton.com
 DOMAIN,dm.toutiao.com
 DOMAIN,domain.aishengji.com
 DOMAIN,doubleclick-cn.net
-DOMAIN,doubleclick.net
 DOMAIN,download.changhong.upgrade2.huan.tv
 DOMAIN,downloadxml.changhong.upgrade2.huan.tv
 DOMAIN,drcn-weather.cloud.huawei.com
