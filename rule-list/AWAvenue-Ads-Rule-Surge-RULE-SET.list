@@ -1,3 +1,4 @@
+IP-CIDR,116.205.193.167/32
 IP-CIDR,123.56.23.22/32
 IP-CIDR,182.254.116.116/32
 IP-CIDR,203.205.137.89/32
@@ -215,6 +216,7 @@ DOMAIN,ccs.umeng.com
 DOMAIN,cctv.adsunion.com
 DOMAIN,cdn-ad.wtzw.com
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com
+DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com
 DOMAIN,cdn.ad.xiaomi.com
 DOMAIN,cdn.ynuf.aliapp.org
 DOMAIN,cfg.imtt.qq.com
@@ -602,11 +604,13 @@ DOMAIN,union.baidu.cn
 DOMAIN,union.baidu.com
 DOMAIN,update.avlyun.sec.miui.com
 DOMAIN,update.lejiao.tv
+DOMAIN,upgrade-update.hismarttv.com
 DOMAIN,us.l.qq.com
 DOMAIN,v.adintl.cn
 DOMAIN,v.adx.hubcloud.com.cn
 DOMAIN,v1-ad.video.yximgs.com
 DOMAIN,v2-ad.video.yximgs.com
+DOMAIN,v2-api-channel-launcher.hismarttv.com
 DOMAIN,v2.gdt.qq.com
 DOMAIN,v2mi.gdt.qq.com
 DOMAIN,v3-ad.video.yximgs.com
@@ -616,6 +620,7 @@ DOMAIN,video-dsp.pddpic.com
 DOMAIN,video.dispatch.tc.qq.com
 DOMAIN,virusinfo-cloudscan-cn.heytapmobi.com
 DOMAIN,vlive.qqvideo.tc.qq.com
+DOMAIN,volc.bj.ad.track.66mobi.com
 DOMAIN,vungle.com
 DOMAIN,w.l.qq.com
 DOMAIN,w1.askwai.com
