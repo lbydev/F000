@@ -11,11 +11,11 @@ HOST-SUFFIX,ai.com,ai
 HOST-SUFFIX,poe.com,ai
 HOST-SUFFIX,chat.com,ai
 HOST-SUFFIX,groq.com,ai
+HOST-SUFFIX,sora.com,ai
 HOST-SUFFIX,chatgpt.com,ai
 HOST-SUFFIX,deepmind.com,ai
 HOST-SUFFIX,anthropic.com,ai
 HOST-SUFFIX,oaistatic.com,ai
-HOST-SUFFIX,oaiusercontent.com,ai
 HOST-SUFFIX,deepmind.google,ai
 HOST-SUFFIX,notebooklm.google,ai
 HOST-SUFFIX,generativeai.google,ai
