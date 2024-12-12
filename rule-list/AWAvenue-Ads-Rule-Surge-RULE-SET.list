@@ -45,6 +45,7 @@ DOMAIN,adcdn.tencentmusic.com
 DOMAIN,adclick.g.doubleclick.net
 DOMAIN,adclick.tencentmusic.com
 DOMAIN,adcolony.com
+DOMAIN,addata.jd.com
 DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adfilter.imtt.qq.com
 DOMAIN,adfstat.yandex.ru
@@ -142,6 +143,7 @@ DOMAIN,afs.googlesyndication.com
 DOMAIN,aiseet.aa.atianqi.com
 DOMAIN,ali-ad.a.yximgs.com
 DOMAIN,alog.umeng.com
+DOMAIN,alogus.umeng.com
 DOMAIN,als.baidu.com
 DOMAIN,amdcopen.m.taobao.com
 DOMAIN,amdcopen.m.umeng.com
@@ -183,14 +185,17 @@ DOMAIN,api.installer.xiaomi.com
 DOMAIN,api.jietuhb.com
 DOMAIN,api.kingdata.ksyun.com
 DOMAIN,api.statsig.com
+DOMAIN,api.touch-moblie.com
 DOMAIN,api5-normal-quic-lf.ixigua.com
 DOMAIN,apiyd.my91app.com
 DOMAIN,apks.webxiaobai.top
 DOMAIN,app-measurement.com
+DOMAIN,appcfg.v.qq.com
 DOMAIN,appcloud2.in.zhihu.com
 DOMAIN,applog.lc.quark.cn
 DOMAIN,applog.uc.cn
 DOMAIN,applog.zijieapi.com
+DOMAIN,aspect-upush.umeng.com
 DOMAIN,ata-sdk-uuid-report.dreport.meituan.net
 DOMAIN,auction.unityads.unity3d.com
 DOMAIN,audid-api.taobao.com
@@ -227,6 +232,7 @@ DOMAIN,c2.gdt.qq.com
 DOMAIN,canvas-cdn.gdt.qq.com
 DOMAIN,catalog.fjwhcbsh.com
 DOMAIN,cbjs.baidu.com
+DOMAIN,ccc-x.jd.com
 DOMAIN,ccs.umeng.com
 DOMAIN,cctv.adsunion.com
 DOMAIN,cdn-ad.wtzw.com
@@ -285,8 +291,12 @@ DOMAIN,event.tradplusad.com
 DOMAIN,events-drcn.op.dbankcloud.cn
 DOMAIN,events.reddit.com
 DOMAIN,events.redditmedia.com
+DOMAIN,fclog.baidu.com
+DOMAIN,feed-image.baidu.com
 DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,flurry.com
+DOMAIN,frontend-perf-service.e.kuaishou.com
+DOMAIN,fxgate.baidu.com
 DOMAIN,g-adnet.hiaiabc.com
 DOMAIN,g-staic.ganjingworld.com
 DOMAIN,g2.ganjing.world
@@ -347,6 +357,7 @@ DOMAIN,imageplus.baidu.com
 DOMAIN,images.outbrainimg.com
 DOMAIN,images.pinduoduo.com
 DOMAIN,img-c.heytapimage.com
+DOMAIN,img-x.jd.com
 DOMAIN,img.adnyg.com
 DOMAIN,img.adnyg.com.w.kunlungr.com
 DOMAIN,imtmp.net
@@ -363,8 +374,10 @@ DOMAIN,jpush.cn
 DOMAIN,jpush.html5.qq.com
 DOMAIN,jpush.io
 DOMAIN,jswebcollects.kugou.com
+DOMAIN,kde.qq.com
 DOMAIN,kepler.jd.com
 DOMAIN,kl.67it.com
+DOMAIN,klink.volceapplog.com
 DOMAIN,knicks.jd.com
 DOMAIN,ks.pull.yximgs.com
 DOMAIN,launcher.smart-tv.cn
@@ -384,8 +397,11 @@ DOMAIN,log-api.pangolin-sdk-toutiao-b.com
 DOMAIN,log-api.pangolin-sdk-toutiao.com
 DOMAIN,log-report.com
 DOMAIN,log-sdk.gifshow.com
+DOMAIN,log-sdk.ksapisrv.com
 DOMAIN,log-upload-os.hoyoverse.com
 DOMAIN,log-upload.mihoyo.com
+DOMAIN,log-verify.dutils.com
+DOMAIN,log-verify.hiaiabc.com
 DOMAIN,log.ad.xiaomi.com
 DOMAIN,log.aispeech.com
 DOMAIN,log.amemv.com
@@ -410,6 +426,7 @@ DOMAIN,logservice.hicloud.com
 DOMAIN,logservice1.hicloud.com
 DOMAIN,logtj.kugou.com
 DOMAIN,logupdate.avlyun.sec.miui.com
+DOMAIN,luimg.baidu.com
 DOMAIN,m-adnet.hiaiabc.com
 DOMAIN,m.ad.zhangyue.com
 DOMAIN,m.atm.youku.com
@@ -447,6 +464,7 @@ DOMAIN,monsetting.toutiao.com
 DOMAIN,mssdk.volces.com
 DOMAIN,mssdk.zijieapi.com
 DOMAIN,mtj.baidu.com
+DOMAIN,nadvideo2.baidu.com
 DOMAIN,newvoice.chiq5.smart-tv.cn
 DOMAIN,nmetrics.samsung.com
 DOMAIN,notes-analytics-events.apple.com
@@ -458,8 +476,8 @@ DOMAIN,omgmta.play.aiseet.atianqi.com
 DOMAIN,open.e.kuaishou.cn
 DOMAIN,open.e.kuaishou.com
 DOMAIN,open.kuaishouzt.com
-DOMAIN,open.kwaishouzt.com
 DOMAIN,open.kwaizt.com
+DOMAIN,open.snssdk.com
 DOMAIN,optimus-ads.amap.com
 DOMAIN,orbit.jd.com
 DOMAIN,oth.eve.mdt.qq.com
@@ -635,6 +653,7 @@ DOMAIN,union.baidu.com
 DOMAIN,update.avlyun.sec.miui.com
 DOMAIN,update.lejiao.tv
 DOMAIN,upgrade-update.hismarttv.com
+DOMAIN,uranus.jd.com
 DOMAIN,us.l.qq.com
 DOMAIN,v.adintl.cn
 DOMAIN,v.adx.hubcloud.com.cn
@@ -681,6 +700,7 @@ DOMAIN,w1.yskwai.com
 DOMAIN,w1.zskwai.com
 DOMAIN,watson.microsoft.com
 DOMAIN,watson.telemetry.microsoft.com
+DOMAIN,wcp.taobao.com
 DOMAIN,weather-analytics-events.apple.com
 DOMAIN,weather-community-drcn.weather.dbankcloud.cn
 DOMAIN,webstat.qiumibao.com
@@ -688,6 +708,7 @@ DOMAIN,webview.unityads.unity3d.com
 DOMAIN,widgets.outbrain.com
 DOMAIN,widgets.pinterest.com
 DOMAIN,win.gdt.qq.com
+DOMAIN,wl.jd.com
 DOMAIN,wn.x.jd.com
 DOMAIN,ws-keyboard.shouji.sogou.com
 DOMAIN,ws.sj.qq.com
@@ -696,6 +717,7 @@ DOMAIN,wxa.wxs.qq.com
 DOMAIN,wximg.wxs.qq.com
 DOMAIN,wxsmw.wxs.qq.com
 DOMAIN,wxsnsad.tc.qq.com
+DOMAIN,wxsnsdy.tc.qq.com
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
 DOMAIN,xc.gdt.qq.com
@@ -714,7 +736,6 @@ DOMAIN,youxi.kugou.com
 DOMAIN,zeus.ad.xiaomi.com
 DOMAIN,zhihu-web-analytics.zhihu.com
 DOMAIN-KEYWORD,.*\.*\.shouji\.sogou\.com
-DOMAIN-KEYWORD,.*\.[a-zA-Z0-9.-]skwai\.com
 DOMAIN-KEYWORD,.*\.a\.market\.xiaomi\.com
 DOMAIN-KEYWORD,.*\.data\.hicloud\.com
 DOMAIN-KEYWORD,.*\.log\.aliyuncs\.com
@@ -723,7 +744,6 @@ DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.sm\.cn
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.wtzw\.com
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-lm\.adkwai\.com
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal\.zijieapi\.com
 DOMAIN-KEYWORD,cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com
