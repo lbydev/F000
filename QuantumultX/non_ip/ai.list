@@ -30,6 +30,6 @@ HOST-SUFFIX,generativelanguage.googleapis.com,ai
 HOST-SUFFIX,proactivebackend-pa.googleapis.com,ai
 HOST,ai.google.dev,ai
 HOST,alkalicore-pa.clients6.google.com,ai
-HOST,alkalimakersuite-pa.clients6.google.com,ai
 HOST,gateway.ai.cloudflare.com,ai
 HOST-KEYWORD,openai,ai
+HOST-KEYWORD,alkalimakersuite-pa.clients6.google.com,ai
