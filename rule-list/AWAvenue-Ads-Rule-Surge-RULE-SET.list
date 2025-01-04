@@ -3,8 +3,6 @@ IP-CIDR,123.56.23.22/32
 IP-CIDR,182.254.116.116/32
 IP-CIDR,203.205.137.89/32
 DOMAIN,1010pic.com
-DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
-DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
 DOMAIN,8le8le.com
 DOMAIN,a0.app.xiaomi.com
 DOMAIN,aaid.umeng.com
@@ -383,6 +381,7 @@ DOMAIN,kepler.jd.com
 DOMAIN,kl.67it.com
 DOMAIN,klink.volceapplog.com
 DOMAIN,knicks.jd.com
+DOMAIN,ks.ferlytc.com
 DOMAIN,ks.pull.yximgs.com
 DOMAIN,launcher.smart-tv.cn
 DOMAIN,launcherimg.smart-tv.cn
