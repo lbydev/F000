@@ -16,6 +16,7 @@ HOST-SUFFIX,makersuite.google.com,ai
 HOST,alkalicore-pa.clients6.google.com,ai
 HOST-SUFFIX,aistudio.google.com,ai
 HOST-SUFFIX,gemini.google.com,ai
+HOST,jules.google.com,ai
 HOST-SUFFIX,bard.google.com,ai
 HOST,api.github.com,ai
 HOST-SUFFIX,sora.com,ai
