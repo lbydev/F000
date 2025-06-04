@@ -21,6 +21,7 @@ HOST-SUFFIX,bard.google.com,ai
 HOST,api.github.com,ai
 HOST-SUFFIX,sora.com,ai
 HOST-SUFFIX,groq.com,ai
+HOST-SUFFIX,grok.com,ai
 HOST-SUFFIX,chat.com,ai
 HOST-SUFFIX,poe.com,ai
 HOST-SUFFIX,ai.com,ai
