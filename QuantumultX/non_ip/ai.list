@@ -27,6 +27,7 @@ HOST-SUFFIX,poe.com,ai
 HOST-SUFFIX,ai.com,ai
 HOST-SUFFIX,clipdrop.co,ai
 HOST-SUFFIX,perplexity.ai,ai
+HOST,api.jetbrains.ai,ai
 HOST-SUFFIX,openart.ai,ai
 HOST-SUFFIX,jasper.ai,ai
 HOST-SUFFIX,claude.ai,ai
