@@ -6,6 +6,8 @@ HOST-SUFFIX,gemini.google,ai
 HOST,ai.google.dev,ai
 HOST-SUFFIX,proactivebackend-pa.googleapis.com,ai
 HOST-SUFFIX,generativelanguage.googleapis.com,ai
+HOST,robinfrontend-pa.googleapis.com,ai
+HOST,aisandbox-pa.googleapis.com,ai
 HOST-SUFFIX,geller-pa.googleapis.com,ai
 HOST,gateway.ai.cloudflare.com,ai
 HOST-SUFFIX,oaistatic.com,ai
