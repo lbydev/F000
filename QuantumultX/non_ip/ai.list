@@ -14,7 +14,6 @@ HOST-SUFFIX,geller-pa.googleapis.com,ai
 HOST,aida.googleapis.com,ai
 HOST,apple-relay.cloudflare.com,ai
 HOST,cp4.cloudflare.com,ai
-HOST,cp2.cloudflare.com,ai
 HOST,gateway.ai.cloudflare.com,ai
 HOST-SUFFIX,oaistatic.com,ai
 HOST-SUFFIX,anthropic.com,ai
@@ -29,8 +28,6 @@ HOST,jules.google.com,ai
 HOST-SUFFIX,bard.google.com,ai
 HOST,api.github.com,ai
 HOST,apple-relay.apple.com,ai
-HOST,guzzoni.apple.com,ai
-HOST-SUFFIX,smoot.apple.com,ai
 HOST-SUFFIX,sora.com,ai
 HOST-SUFFIX,groq.com,ai
 HOST-SUFFIX,grok.com,ai
