@@ -25,6 +25,7 @@ HOST-SUFFIX,gemini.google.com,ai
 HOST,jules.google.com,ai
 HOST-SUFFIX,bard.google.com,ai
 HOST,api.github.com,ai
+HOST-SUFFIX,claude.com,ai
 HOST-SUFFIX,sora.com,ai
 HOST-SUFFIX,groq.com,ai
 HOST-SUFFIX,grok.com,ai
