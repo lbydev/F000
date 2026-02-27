@@ -11,12 +11,12 @@ jobs:
 
     steps:
     - name: Checkout Repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
-        python-version: '3.11.5'  # 使用你的Python版本
+        python-version: '3.11'  # 使用稳定的 Python 3.11
 
     - name: Install dependencies
       run: |
@@ -25,7 +25,8 @@ jobs:
 
     - name: Run Python script
       run: |
-        python Actions/quanx.py & python Actions/clash.py
+        python Actions/quanx.py
+        python Actions/clash.py
       
     - name: Commit and Push
       env:
@@ -34,6 +35,10 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        git commit -m "$(date "+%Y/%m/%d %H:%M:%S")"
-        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{github.repository}}.git
-        git push
+        if [ -n "$(git status --porcelain)" ]; then
+          git commit -m "Auto Update: $(date "+%Y/%m/%d %H:%M:%S")"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git push
+        else
+          echo "No changes to commit"
+        fi
