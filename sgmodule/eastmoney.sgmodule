@@ -11,11 +11,13 @@
 #!date=2025-07-08
 
 [Rule]
-DOMAIN, emdcadvertise.eastmoney.com, REJECT, extended-matching, pre-matching
+DOMAIN-SUFFIX, cp2.eastmoney.com, REJECT
+DOMAIN-SUFFIX, emdcadvertise.eastmoney.com, REJECT
+DOMAIN-SUFFIX, same.eastmoney.com, REJECT
 DOMAIN, emdcadvertisepj.eastmoney.com, REJECT, extended-matching, pre-matching
 
 [Map Local]
 ^https?:\/\/swdlcdn\.eastmoney\.com\/app\/adimg\/ data-type=text data="{}" status-code=200
 
 [MITM]
-hostname= %APPEND% swdlcdn.eastmoney.com
+hostname= %APPEND% swdlcdn.eastmoney.com, cp2.eastmoney.com, emdcadvertise.eastmoney.com, same.eastmoney.com
