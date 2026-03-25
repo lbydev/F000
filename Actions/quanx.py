@@ -1,80 +1,102 @@
 import requests
-from typing import List, Optional
 import os
+from typing import List, Optional, Tuple
 
 def process_file(url: str, rule_set_name: str) -> Optional[List[str]]:
     try:
-        response = requests.get(url)
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1'
+        }
+        response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
-        
+
         rule_type_map = {
-            'DOMAIN-SUFFIX': 'HOST-SUFFIX',
             'DOMAIN': 'HOST',
+            'DOMAIN-SUFFIX': 'HOST-SUFFIX',
             'DOMAIN-KEYWORD': 'HOST-KEYWORD',
+            'DOMAIN-WILDCARD': 'HOST-SUFFIX',
             'IP-CIDR': 'IP-CIDR',
             'IP-CIDR6': 'IP6-CIDR',
             'IP-ASN': 'IP-ASN',
-            'SRC-IP-CIDR': 'SRC-IP-CIDR',
             'GEOIP': 'GEOIP',
             'DST-PORT': 'DST-PORT',
-            'SRC-PORT': 'SRC-PORT'
+            'SRC-PORT': 'SRC-PORT',
+            'SRC-IP-CIDR': 'SRC-IP-CIDR'
         }
 
         processed_lines = []
         for line in response.text.splitlines():
-            line = line.strip()
-            if not line or line.startswith('#'):
+            line = line.split('#')[0].strip()
+            if not line:
                 continue
 
-            parts = line.split(',')
-            if len(parts) >= 2:
-                rule_type = parts[0]
-                if rule_type in rule_type_map:
-                    new_rule_type = rule_type_map[rule_type]
-                    if new_rule_type in ['IP-CIDR', 'IP-CIDR6']:
-                        # 如果最后一部分是 'no-resolve'，删除它
-                        if parts[-1] == 'no-resolve':
-                            parts = parts[:-1]
-                        # 对于 IP-CIDR 和 IP-CIDR6
-                        processed_line = f"{new_rule_type},{parts[1]},{rule_set_name}"
-                    else:
-                        processed_line = f"{new_rule_type},{parts[1]},{rule_set_name}"
-                    processed_lines.append(processed_line)
+            if ',' in line:
+                parts = [p.strip() for p in line.split(',')]
+                raw_type = parts[0].upper()
+                if raw_type in rule_type_map:
+                    new_type = rule_type_map[raw_type]
+                    value = parts[1]
+                    
+                    if raw_type == 'DOMAIN-WILDCARD':
+                        if value.startswith('*.'):
+                            value = value[2:]
+                        elif value.startswith('*'):
+                            value = value[1:]
+                    
+                    if ('?' in value or '*' in value) and new_type in ['HOST', 'HOST-SUFFIX']:
+                        new_type = 'HOST-KEYWORD'
+                        value = value.replace('?', '').replace('*', '')
+                        
+                    processed_lines.append(f"{new_type},{value},{rule_set_name}")
             else:
-                if line.startswith('+.'):
-                    processed_line = f"HOST-SUFFIX,{line[2:]},{rule_set_name}"
-                    processed_lines.append(processed_line)
-                elif ',' not in line:
-                    processed_line = f"HOST,{line},{rule_set_name}"
-                    processed_lines.append(processed_line)
-
-        return processed_lines
-    except requests.RequestException:
+                if line.startswith('+.') or line.startswith('*.'):
+                    domain = line[2:]
+                    processed_lines.append(f"HOST-SUFFIX,{domain},{rule_set_name}")
+                elif line.startswith('.'):
+                    domain = line[1:]
+                    processed_lines.append(f"HOST-SUFFIX,{domain},{rule_set_name}")
+                else:
+                    processed_lines.append(f"HOST-SUFFIX,{line},{rule_set_name}")
+                    
+        return list(dict.fromkeys(processed_lines))
+    except Exception as e:
+        print(f"Error processing {url}: {e}")
         return None
 
 def write_to_file(filename: str, processed_content: List[str]) -> None:
-    os.makedirs(os.path.dirname(filename), exist_ok=True)
+    dir_name = os.path.dirname(filename)
+    if dir_name:
+        os.makedirs(dir_name, exist_ok=True)
     with open(filename, 'w', encoding='utf-8') as file:
         file.writelines(f"{line}\n" for line in processed_content)
 
 def main():
-    urls = {
-        "ai": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/non_ip/ai.txt",
-                   "./QuantumultX/non_ip/ai.list"),
-        "telegram_non_ip": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/non_ip/telegram.txt",
-                   "./QuantumultX/non_ip/telegram.list"),
-        "telegram_asn": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/ip/telegram_asn.txt",
-                "./QuantumultX/ip/telegram_asn.list"),
-        "telegram": ("https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/ip/telegram.txt",
-                      "./QuantumultX/ip/telegram.list")
-    }
-
-    for rule_set_name, (url, output_file) in urls.items():
-        processed_content = process_file(url, rule_set_name)
-        if processed_content:
-            write_to_file(output_file, processed_content)
+    tasks = [
+        ("AI", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/non_ip/ai.txt", "./QuantumultX/non_ip/ai.list"),
+        ("AI", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/non_ip/apple_intelligence.txt", "./QuantumultX/non_ip/apple_intelligence.list"),
+        ("Telegram", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/non_ip/telegram.txt", "./QuantumultX/non_ip/telegram.list"),
+        ("Telegram", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/master/Clash/ip/telegram.txt", "./QuantumultX/ip/telegram.list"),
+        ("Apple_CDN", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/domainset/apple_cdn.txt", "./QuantumultX/non_ip/apple_cdn.list"),
+        ("Apple_Services", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/non_ip/apple_services.txt", "./QuantumultX/non_ip/apple_services.list"),
+        ("Apple_CN", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/non_ip/apple_cn.txt", "./QuantumultX/non_ip/apple_cn.list"),
+        ("Microsoft_CDN", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/non_ip/microsoft_cdn.txt", "./QuantumultX/non_ip/microsoft_cdn.list"),
+        ("Microsoft", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/non_ip/microsoft.txt", "./QuantumultX/non_ip/microsoft.list"),
+        ("LAN", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/non_ip/lan.txt", "./QuantumultX/non_ip/lan.list"),
+        ("LAN", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/ip/lan.txt", "./QuantumultX/ip/lan.list"),
+        ("CDN", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/domainset/cdn.txt", "./QuantumultX/non_ip/cdn_domainset.list"),
+        ("CDN", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/non_ip/cdn.txt", "./QuantumultX/non_ip/cdn_non_ip.list")
+    ]
+    
+    print("Starting processing tasks...")
+    for policy, url, path in tasks:
+        print(f"Fetching: {url}")
+        content = process_file(url, policy)
+        if content:
+            write_to_file(path, content)
+            print(f"Saved to: {path}")
         else:
-            print(f"Failed to process {rule_set_name} from {url}")
+            print(f"Failed to process: {url}")
+    print("Tasks completed.")
 
 if __name__ == "__main__":
     main()
