@@ -10,18 +10,17 @@ def process_file(url: str, rule_set_name: str) -> Optional[List[str]]:
         response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
 
+        # Clash to Quantumult X mapping
         rule_type_map = {
             'DOMAIN': 'HOST',
             'DOMAIN-SUFFIX': 'HOST-SUFFIX',
             'DOMAIN-KEYWORD': 'HOST-KEYWORD',
-            'DOMAIN-WILDCARD': 'HOST-SUFFIX',
+            'DOMAIN-WILDCARD': 'HOST-WILDCARD', # Correct mapping for QX
             'IP-CIDR': 'IP-CIDR',
             'IP-CIDR6': 'IP6-CIDR',
             'IP-ASN': 'IP-ASN',
-            'GEOIP': 'GEOIP',
-            'DST-PORT': 'DST-PORT',
-            'SRC-PORT': 'SRC-PORT',
-            'SRC-IP-CIDR': 'SRC-IP-CIDR'
+            'GEOIP': 'GEOIP'
+            # Removed DST-PORT, SRC-PORT, SRC-IP-CIDR as they are not natively supported as filter types in QX
         }
 
         processed_lines = []
@@ -37,18 +36,13 @@ def process_file(url: str, rule_set_name: str) -> Optional[List[str]]:
                     new_type = rule_type_map[raw_type]
                     value = parts[1]
                     
-                    if raw_type == 'DOMAIN-WILDCARD':
-                        if value.startswith('*.'):
-                            value = value[2:]
-                        elif value.startswith('*'):
-                            value = value[1:]
-                    
+                    # If somehow a standard HOST or HOST-SUFFIX contains wildcards, convert it to HOST-WILDCARD
                     if ('?' in value or '*' in value) and new_type in ['HOST', 'HOST-SUFFIX']:
-                        new_type = 'HOST-KEYWORD'
-                        value = value.replace('?', '').replace('*', '')
+                        new_type = 'HOST-WILDCARD'
                         
                     processed_lines.append(f"{new_type},{value},{rule_set_name}")
             else:
+                # Handle domain-set (plain domains)
                 if line.startswith('+.') or line.startswith('*.'):
                     domain = line[2:]
                     processed_lines.append(f"HOST-SUFFIX,{domain},{rule_set_name}")
@@ -56,6 +50,7 @@ def process_file(url: str, rule_set_name: str) -> Optional[List[str]]:
                     domain = line[1:]
                     processed_lines.append(f"HOST-SUFFIX,{domain},{rule_set_name}")
                 else:
+                    # Default plain domains to HOST-SUFFIX for better coverage (e.g. CDNs)
                     processed_lines.append(f"HOST-SUFFIX,{line},{rule_set_name}")
                     
         return list(dict.fromkeys(processed_lines))
