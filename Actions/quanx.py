@@ -79,7 +79,8 @@ def main():
         ("LAN", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/non_ip/lan.txt", "./QuantumultX/non_ip/lan.list"),
         ("LAN", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/ip/lan.txt", "./QuantumultX/ip/lan.list"),
         ("CDN", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/domainset/cdn.txt", "./QuantumultX/non_ip/cdn_domainset.list"),
-        ("CDN", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/non_ip/cdn.txt", "./QuantumultX/non_ip/cdn_non_ip.list")
+        ("CDN", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/non_ip/cdn.txt", "./QuantumultX/non_ip/cdn_non_ip.list"),
+        ("Global", "https://raw.githubusercontent.com/SukkaLab/ruleset.skk.moe/refs/heads/master/Clash/non_ip/global.txt", "./QuantumultX/non_ip/global.list")
     ]
     
     print("Starting processing tasks...")
