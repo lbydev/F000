@@ -2071,6 +2071,7 @@ HOST-SUFFIX,design-system.economist.com,CDN
 HOST-SUFFIX,marber-cdn.economist.com,CDN
 HOST-SUFFIX,cmp-cdn.p.aws.economist.com,CDN
 HOST-SUFFIX,dummyjson.com,CDN
+HOST-SUFFIX,dubassets.com,CDN
 HOST-SUFFIX,doppiocdn.com,CDN
 HOST-SUFFIX,cdn.doofinder.com,CDN
 HOST-SUFFIX,assets.dnsfilter.com,CDN
