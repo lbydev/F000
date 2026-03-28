@@ -3582,6 +3582,7 @@ HOST-SUFFIX,cdn.ecomm.ui.com,CDN
 HOST-SUFFIX,net-fe-static-assets.network-controller.svc.ui.com,CDN
 HOST-SUFFIX,uos-support-files.svc.ui.com,CDN
 HOST-SUFFIX,content-cdn.svc.ui.com,CDN
+HOST-SUFFIX,cdn.casestudies.svc.ui.com,CDN
 HOST-SUFFIX,account-cdn.svc.ui.com,CDN
 HOST-SUFFIX,cdn.academy.svc.ui.com,CDN
 HOST-SUFFIX,images.svc.ui.com,CDN
