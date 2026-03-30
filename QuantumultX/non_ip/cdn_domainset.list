@@ -819,6 +819,7 @@ HOST-SUFFIX,s3.arkjp.net,CDN
 HOST-SUFFIX,img3.acsta.net,CDN
 HOST-SUFFIX,img2.acsta.net,CDN
 HOST-SUFFIX,img1.acsta.net,CDN
+HOST-SUFFIX,zobj.net,CDN
 HOST-SUFFIX,cdn.ywxi.net,CDN
 HOST-SUFFIX,static.wwto.net,CDN
 HOST-SUFFIX,fonts.sony.net,CDN
@@ -1721,6 +1722,7 @@ HOST-SUFFIX,assets.hearstapps.com,CDN
 HOST-SUFFIX,hips.hearstapps.com,CDN
 HOST-SUFFIX,hanime-cdn.com,CDN
 HOST-SUFFIX,cdn.hackernoon.com,CDN
+HOST-SUFFIX,grouponcdn.com,CDN
 HOST-SUFFIX,assets.grooveapps.com,CDN
 HOST-SUFFIX,content-storage-upload.googleapis.com,CDN
 HOST-SUFFIX,firebaseinstallations.googleapis.com,CDN
@@ -3723,6 +3725,8 @@ HOST-SUFFIX,clips-media-assets2.twitch.tv,CDN
 HOST-SUFFIX,assets.twitch.tv,CDN
 HOST-SUFFIX,embed.twitch.tv,CDN
 HOST-SUFFIX,storry.tv,CDN
+HOST-SUFFIX,starlight.nebula.tv,CDN
+HOST-SUFFIX,images.nebula.tv,CDN
 HOST-SUFFIX,static.tella.tv,CDN
 HOST-SUFFIX,static-homepage-en.pluto.tv,CDN
 HOST-SUFFIX,images.pluto.tv,CDN
