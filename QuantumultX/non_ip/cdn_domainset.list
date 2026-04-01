@@ -1889,6 +1889,7 @@ HOST-SUFFIX,tokyvideo.com,CDN
 HOST-SUFFIX,tnastatic.com,CDN
 HOST-SUFFIX,tinifycdn.com,CDN
 HOST-SUFFIX,tiktokcdn.com,CDN
+HOST-SUFFIX,assets.tigerdata.com,CDN
 HOST-SUFFIX,thumbsnap.com,CDN
 HOST-SUFFIX,thisiscdn.com,CDN
 HOST-SUFFIX,static.test-beta.com,CDN
@@ -2043,6 +2044,7 @@ HOST-SUFFIX,media.glassdoor.com,CDN
 HOST-SUFFIX,gitmirror.com,CDN
 HOST-SUFFIX,assets.getpocket.com,CDN
 HOST-SUFFIX,i.geekflare.com,CDN
+HOST-SUFFIX,garmincdn.com,CDN
 HOST-SUFFIX,mosaic-blender.fxtwitter.com,CDN
 HOST-SUFFIX,mosaic.fxtwitter.com,CDN
 HOST-SUFFIX,webp.frostming.com,CDN
@@ -2400,6 +2402,7 @@ HOST-SUFFIX,dditsadn.com,CDN
 HOST-SUFFIX,cdn.datacamp.com,CDN
 HOST-SUFFIX,script.custobar.com,CDN
 HOST-SUFFIX,cdn.credible.com,CDN
+HOST-SUFFIX,cdn.cr-proxy.com,CDN
 HOST-SUFFIX,assets.controld.com,CDN
 HOST-SUFFIX,img.connatix.com,CDN
 HOST-SUFFIX,cds.connatix.com,CDN
@@ -3132,6 +3135,10 @@ HOST-SUFFIX,tuf-repo.github.com,CDN
 HOST-SUFFIX,raw.github.com,CDN
 HOST-SUFFIX,pkg.github.com,CDN
 HOST-SUFFIX,assets.genius.com,CDN
+HOST-SUFFIX,static.garmin.com,CDN
+HOST-SUFFIX,fonts.garmin.com,CDN
+HOST-SUFFIX,res.garmin.com,CDN
+HOST-SUFFIX,share-assets.fe.garmin.com,CDN
 HOST-SUFFIX,fw-cdn.com,CDN
 HOST-SUFFIX,fsvod1.com,CDN
 HOST-SUFFIX,assets.foxdcg.com,CDN
