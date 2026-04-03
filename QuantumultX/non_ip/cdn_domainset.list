@@ -9,6 +9,7 @@ HOST-SUFFIX,images.web3.storage,CDN
 HOST-SUFFIX,api.web3.storage,CDN
 HOST-SUFFIX,cdn.neustar,CDN
 HOST-SUFFIX,mangadex.network,CDN
+HOST-SUFFIX,assets.tangled.network,CDN
 HOST-SUFFIX,ipfs.eth.aragon.network,CDN
 HOST-SUFFIX,gateway.serph.network,CDN
 HOST-SUFFIX,cdnjs.network,CDN
@@ -3801,12 +3802,14 @@ HOST-SUFFIX,gitpage.si,CDN
 HOST-SUFFIX,gitapp.si,CDN
 HOST-SUFFIX,gcr.si,CDN
 HOST-SUFFIX,assets.vantage.sh,CDN
+HOST-SUFFIX,avatar.tangled.sh,CDN
 HOST-SUFFIX,cdn.cracked.sh,CDN
 HOST-SUFFIX,api-frameworks.vercel.sh,CDN
 HOST-SUFFIX,gitpkg-fork.vercel.sh,CDN
 HOST-SUFFIX,openapi.vercel.sh,CDN
 HOST-SUFFIX,s3.doujin.sh,CDN
 HOST-SUFFIX,surge.sh,CDN
+HOST-SUFFIX,gateway.scarf.sh,CDN
 HOST-SUFFIX,static.scarf.sh,CDN
 HOST-SUFFIX,proxy.cors.sh,CDN
 HOST-SUFFIX,brew.sh,CDN
