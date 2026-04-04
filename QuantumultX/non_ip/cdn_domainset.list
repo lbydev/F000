@@ -3362,6 +3362,7 @@ HOST-SUFFIX,s3-alpha-sig.figma.com,CDN
 HOST-SUFFIX,marketing.figma.com,CDN
 HOST-SUFFIX,s3-alpha.figma.com,CDN
 HOST-SUFFIX,static.figma.com,CDN
+HOST-SUFFIX,errors.figma.com,CDN
 HOST-SUFFIX,sprig.figma.com,CDN
 HOST-SUFFIX,static.fc2id.com,CDN
 HOST-SUFFIX,static.fc2cn.com,CDN
