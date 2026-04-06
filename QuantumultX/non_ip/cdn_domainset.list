@@ -772,6 +772,7 @@ HOST-SUFFIX,img.reimu.net,CDN
 HOST-SUFFIX,cdn.reimu.net,CDN
 HOST-SUFFIX,pximg.net,CDN
 HOST-SUFFIX,pixfs.net,CDN
+HOST-SUFFIX,origin.picgo.net,CDN
 HOST-SUFFIX,img.pawoo.net,CDN
 HOST-SUFFIX,nsimg.net,CDN
 HOST-SUFFIX,static.monei.net,CDN
@@ -1257,6 +1258,7 @@ HOST-SUFFIX,redditstatic.com,CDN
 HOST-SUFFIX,cdn.privacy-mgmt.com,CDN
 HOST-SUFFIX,pressablecdn.com,CDN
 HOST-SUFFIX,ui.powerreviews.com,CDN
+HOST-SUFFIX,cdna.pcpartpicker.com,CDN
 HOST-SUFFIX,js.partnerstack.com,CDN
 HOST-SUFFIX,sbl.onfastspring.com,CDN
 HOST-SUFFIX,cdn.onfastspring.com,CDN
