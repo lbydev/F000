@@ -2953,6 +2953,7 @@ HOST-SUFFIX,js.stripe.com,CDN
 HOST-SUFFIX,heatmap-external-a.strava.com,CDN
 HOST-SUFFIX,web-assets.strava.com,CDN
 HOST-SUFFIX,content-a.strava.com,CDN
+HOST-SUFFIX,wre-assets.prod.mapping.strava.com,CDN
 HOST-SUFFIX,cdn-1.strava.com,CDN
 HOST-SUFFIX,cdn.stonly.com,CDN
 HOST-SUFFIX,tile.stamen.com,CDN
@@ -3010,6 +3011,7 @@ HOST-SUFFIX,tiles0.planet.com,CDN
 HOST-SUFFIX,tiles.planet.com,CDN
 HOST-SUFFIX,assets.pixlee.com,CDN
 HOST-SUFFIX,pinimg.com,CDN
+HOST-SUFFIX,assets.pingie.com,CDN
 HOST-SUFFIX,phncdn.com,CDN
 HOST-SUFFIX,images.pexels.com,CDN
 HOST-SUFFIX,static.peatio.com,CDN
@@ -3278,9 +3280,7 @@ HOST-SUFFIX,cdn.plaid.com,CDN
 HOST-SUFFIX,i.pcmag.com,CDN
 HOST-SUFFIX,apps.paidy.com,CDN
 HOST-SUFFIX,cdn.paidy.com,CDN
-HOST-SUFFIX,package-assets.oomol.com,CDN
 HOST-SUFFIX,registry.oomol.com,CDN
-HOST-SUFFIX,static.oomol.com,CDN
 HOST-SUFFIX,static-production.npmjs.com,CDN
 HOST-SUFFIX,static.npmjs.com,CDN
 HOST-SUFFIX,npmfs.com,CDN
