@@ -51,6 +51,7 @@ HOST-WILDCARD,img??.porngo.com,CDN
 HOST-WILDCARD,th-*.pornone.com,CDN
 HOST-WILDCARD,s???.pornone.com,CDN
 HOST-WILDCARD,*-intake-*-datadoghq.com,CDN
+HOST-WILDCARD,*-intake.*.datadoghq.com,CDN
 HOST-WILDCARD,video-thumbnail2.fc2.com,CDN
 HOST-WILDCARD,video?-thumbnail?.fc2.com,CDN
 HOST-WILDCARD,video-thumbnail?.liaoningmovie.net,CDN

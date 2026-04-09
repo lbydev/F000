@@ -622,6 +622,7 @@ HOST-SUFFIX,img.javstore.net,CDN
 HOST-SUFFIX,hsstatic.net,CDN
 HOST-SUFFIX,img.highporn.net,CDN
 HOST-SUFFIX,cdn.highporn.net,CDN
+HOST-SUFFIX,embed.getwally.net,CDN
 HOST-SUFFIX,files.gempages.net,CDN
 HOST-SUFFIX,forgecdn.net,CDN
 HOST-SUFFIX,connect.facebook.net,CDN
@@ -2697,6 +2698,7 @@ HOST-SUFFIX,img3.javmost.com,CDN
 HOST-SUFFIX,img2.javmost.com,CDN
 HOST-SUFFIX,cdn.javmiku.com,CDN
 HOST-SUFFIX,img2.javdove.com,CDN
+HOST-SUFFIX,static.isitetv.com,CDN
 HOST-SUFFIX,assets.ipstack.com,CDN
 HOST-SUFFIX,i.insider.com,CDN
 HOST-SUFFIX,static.iris.informa.com,CDN
@@ -3625,6 +3627,7 @@ HOST-SUFFIX,tilemaps.icgc.cat,CDN
 HOST-SUFFIX,oss.moe.cat,CDN
 HOST-SUFFIX,tile.openstreetmap.bzh,CDN
 HOST-SUFFIX,ns-cdn.neustar.biz,CDN
+HOST-SUFFIX,media.currys.biz,CDN
 HOST-SUFFIX,pics.mf8.biz,CDN
 HOST-SUFFIX,static.sdkassets.chime.aws,CDN
 HOST-SUFFIX,ipfs.kaleido.art,CDN
@@ -4119,6 +4122,7 @@ HOST-SUFFIX,tiles.terria.io,CDN
 HOST-SUFFIX,scripts.tabler.io,CDN
 HOST-SUFFIX,static.status.io,CDN
 HOST-SUFFIX,image.status.io,CDN
+HOST-SUFFIX,cdn.socket.io,CDN
 HOST-SUFFIX,media.smooch.io,CDN
 HOST-SUFFIX,cdn.smooch.io,CDN
 HOST-SUFFIX,webfe.shopee.io,CDN
