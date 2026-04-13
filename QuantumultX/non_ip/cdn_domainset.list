@@ -1101,6 +1101,7 @@ HOST-SUFFIX,media.nbcconnecticut.com,CDN
 HOST-SUFFIX,image.email.microsoftemail.com,CDN
 HOST-SUFFIX,mediadecathlon.com,CDN
 HOST-SUFFIX,assets.media-platform.com,CDN
+HOST-SUFFIX,media.marshmallow-qa.com,CDN
 HOST-SUFFIX,na-library.klarnaservices.com,CDN
 HOST-SUFFIX,static.killedbygoogle.com,CDN
 HOST-SUFFIX,kc-usercontent.com,CDN
@@ -3712,6 +3713,7 @@ HOST-SUFFIX,cf.shopee.tw,CDN
 HOST-SUFFIX,socialpic.video.friday.tw,CDN
 HOST-SUFFIX,vbmspic.video.friday.tw,CDN
 HOST-SUFFIX,megapx-assets.dcard.tw,CDN
+HOST-SUFFIX,assets.clibo.tw,CDN
 HOST-SUFFIX,pimg.tw,CDN
 HOST-SUFFIX,news-data.pts.org.tw,CDN
 HOST-SUFFIX,img-fnc.ebc.net.tw,CDN
