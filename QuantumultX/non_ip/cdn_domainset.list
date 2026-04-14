@@ -1893,6 +1893,7 @@ HOST-SUFFIX,hawk.tomsguide.com,CDN
 HOST-SUFFIX,tokyvideo.com,CDN
 HOST-SUFFIX,tnastatic.com,CDN
 HOST-SUFFIX,tinifycdn.com,CDN
+HOST-SUFFIX,telemetry.timescale.com,CDN
 HOST-SUFFIX,tiktokcdn.com,CDN
 HOST-SUFFIX,assets.tigerdata.com,CDN
 HOST-SUFFIX,thumbsnap.com,CDN
