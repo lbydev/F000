@@ -1379,6 +1379,8 @@ HOST-SUFFIX,uber-assets.com,CDN
 HOST-SUFFIX,fastly-cloud.typenetwork.com,CDN
 HOST-SUFFIX,cloud.typenetwork.com,CDN
 HOST-SUFFIX,cms.typenetwork.com,CDN
+HOST-SUFFIX,static.tryprofound.com,CDN
+HOST-SUFFIX,ph.tryprofound.com,CDN
 HOST-SUFFIX,static-assets-1.truthsocial.com,CDN
 HOST-SUFFIX,cdn.trustedsite.com,CDN
 HOST-SUFFIX,widgets.tree-nation.com,CDN
@@ -2575,6 +2577,7 @@ HOST-SUFFIX,cdn.sheetjs.com,CDN
 HOST-SUFFIX,i.servimg.com,CDN
 HOST-SUFFIX,videos2-h.sendvid.com,CDN
 HOST-SUFFIX,thumbs2.sendvid.com,CDN
+HOST-SUFFIX,static.semrush.com,CDN
 HOST-SUFFIX,cdn.segment.com,CDN
 HOST-SUFFIX,ocsp.sectigo.com,CDN
 HOST-SUFFIX,crt.sectigo.com,CDN
@@ -2812,6 +2815,7 @@ HOST-SUFFIX,cdn.devdojo.com,CDN
 HOST-SUFFIX,denopkg.com,CDN
 HOST-SUFFIX,dellcdn.com,CDN
 HOST-SUFFIX,import-cdn.default.com,CDN
+HOST-SUFFIX,pixel-cdn.default.com,CDN
 HOST-SUFFIX,cdn.datdota.com,CDN
 HOST-SUFFIX,proxy.csidetm.com,CDN
 HOST-SUFFIX,static.comicbz.com,CDN
@@ -3210,6 +3214,7 @@ HOST-SUFFIX,i.anysex.com,CDN
 HOST-SUFFIX,code.buywithprime.amazon.com,CDN
 HOST-SUFFIX,d2c.aws.amazon.com,CDN
 HOST-SUFFIX,time.akamai.com,CDN
+HOST-SUFFIX,static-app.ahrefs.com,CDN
 HOST-SUFFIX,static.ahrefs.com,CDN
 HOST-SUFFIX,cdn1.affirm.com,CDN
 HOST-SUFFIX,assets.adidas.com,CDN
@@ -3305,6 +3310,7 @@ HOST-SUFFIX,static-exp2.licdn.com,CDN
 HOST-SUFFIX,static-exp1.licdn.com,CDN
 HOST-SUFFIX,static.licdn.com,CDN
 HOST-SUFFIX,media.licdn.com,CDN
+HOST-SUFFIX,ahrefscomscreenshot-3b70.kxcdn.com,CDN
 HOST-SUFFIX,wikiwandv2-19431.kxcdn.com,CDN
 HOST-SUFFIX,searchanise-ef84.kxcdn.com,CDN
 HOST-SUFFIX,wandi-6402.kxcdn.com,CDN
@@ -4429,6 +4435,7 @@ HOST-SUFFIX,s3.masto.ai,CDN
 HOST-SUFFIX,participants.evolv.ai,CDN
 HOST-SUFFIX,media.evolv.ai,CDN
 HOST-SUFFIX,cdn.candy.ai,CDN
+HOST-SUFFIX,cdn.candu.ai,CDN
 HOST-SUFFIX,telemetry.services.yofi.ai,CDN
 HOST-SUFFIX,cdn2.suno.ai,CDN
 HOST-SUFFIX,cdn1.suno.ai,CDN
