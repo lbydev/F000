@@ -1380,6 +1380,7 @@ HOST-SUFFIX,fastly-cloud.typenetwork.com,CDN
 HOST-SUFFIX,cloud.typenetwork.com,CDN
 HOST-SUFFIX,cms.typenetwork.com,CDN
 HOST-SUFFIX,static.tryprofound.com,CDN
+HOST-SUFFIX,img.api.tryprofound.com,CDN
 HOST-SUFFIX,ph.tryprofound.com,CDN
 HOST-SUFFIX,static-assets-1.truthsocial.com,CDN
 HOST-SUFFIX,cdn.trustedsite.com,CDN
