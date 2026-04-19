@@ -139,7 +139,6 @@ HOST-SUFFIX,init-p01st.push.apple.com,Apple_CDN
 HOST-SUFFIX,pba0.apple.com,Apple_CDN
 HOST-SUFFIX,ocsp.apple.com,Apple_CDN
 HOST-SUFFIX,mesu.apple.com,Apple_CDN
-HOST-SUFFIX,apps.apple.com,Apple_CDN
 HOST-SUFFIX,www.apple.com,Apple_CDN
 HOST-SUFFIX,init.ess.apple.com,Apple_CDN
 HOST-SUFFIX,crl.apple.com,Apple_CDN

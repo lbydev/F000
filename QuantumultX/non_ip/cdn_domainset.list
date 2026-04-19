@@ -2138,6 +2138,7 @@ HOST-SUFFIX,pm1.aninoapps.com,CDN
 HOST-SUFFIX,pa1.aninoapps.com,CDN
 HOST-SUFFIX,images.anandtech.com,CDN
 HOST-SUFFIX,ip-ranges.amazonaws.com,CDN
+HOST-SUFFIX,sdk.amazonaws.com,CDN
 HOST-SUFFIX,assets.as2.amazonaws.com,CDN
 HOST-SUFFIX,abcnewsfe.com,CDN
 HOST-SUFFIX,52netflix.com,CDN
