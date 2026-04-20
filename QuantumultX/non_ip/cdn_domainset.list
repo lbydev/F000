@@ -113,6 +113,7 @@ HOST-SUFFIX,placeholder.pics,CDN
 HOST-SUFFIX,am-cdn.pics,CDN
 HOST-SUFFIX,codeberg.page,CDN
 HOST-SUFFIX,instant.page,CDN
+HOST-SUFFIX,images.status.page,CDN
 HOST-SUFFIX,kinsta.page,CDN
 HOST-SUFFIX,statics-prod.mirrordaily.news,CDN
 HOST-SUFFIX,assets-next.matters.news,CDN
