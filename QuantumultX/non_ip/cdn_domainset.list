@@ -1614,6 +1614,7 @@ HOST-SUFFIX,cdn-cf-east.streamable.com,CDN
 HOST-SUFFIX,statics.streamable.com,CDN
 HOST-SUFFIX,sthlstatic.com,CDN
 HOST-SUFFIX,cdn.staticswin.com,CDN
+HOST-SUFFIX,tiles-eu.stadiamaps.com,CDN
 HOST-SUFFIX,tiles.stadiamaps.com,CDN
 HOST-SUFFIX,s3.stackabuse.com,CDN
 HOST-SUFFIX,img.sparknotes.com,CDN
