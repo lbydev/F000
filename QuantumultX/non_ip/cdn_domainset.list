@@ -3043,6 +3043,7 @@ HOST-SUFFIX,od-cdn.com,CDN
 HOST-SUFFIX,assets.nypost.com,CDN
 HOST-SUFFIX,pbc.nypost.com,CDN
 HOST-SUFFIX,images.nvidia.com,CDN
+HOST-SUFFIX,brand-assets.cne.ngc.nvidia.com,CDN
 HOST-SUFFIX,npmcdn.com,CDN
 HOST-SUFFIX,images.now-tv.com,CDN
 HOST-SUFFIX,i.niupic.com,CDN
