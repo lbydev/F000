@@ -348,6 +348,9 @@ HOST-SUFFIX,static.spigotmc.org,CDN
 HOST-SUFFIX,proxy.spigotmc.org,CDN
 HOST-SUFFIX,rollupjs.org,CDN
 HOST-SUFFIX,recharts.org,CDN
+HOST-SUFFIX,gis.pinkbike.org,CDN
+HOST-SUFFIX,ep1.pinkbike.org,CDN
+HOST-SUFFIX,es.pinkbike.org,CDN
 HOST-SUFFIX,parceljs.org,CDN
 HOST-SUFFIX,static.opensuse.org,CDN
 HOST-SUFFIX,open-vsx.org,CDN
@@ -2902,6 +2905,7 @@ HOST-SUFFIX,img.xbooru.com,CDN
 HOST-SUFFIX,website-prod.cache.wpscdn.com,CDN
 HOST-SUFFIX,frontend-apps.workos.com,CDN
 HOST-SUFFIX,cdn.workos.com,CDN
+HOST-SUFFIX,wklcdn.com,CDN
 HOST-SUFFIX,embed-cloudfront.wistia.com,CDN
 HOST-SUFFIX,embed-ssl.wistia.com,CDN
 HOST-SUFFIX,fast.wistia.com,CDN
