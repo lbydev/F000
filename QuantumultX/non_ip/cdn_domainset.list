@@ -327,6 +327,7 @@ HOST-SUFFIX,ampproject.org,CDN
 HOST-SUFFIX,creativajs.altervista.org,CDN
 HOST-SUFFIX,intake-logging.wikimedia.org,CDN
 HOST-SUFFIX,upload.wikimedia.org,CDN
+HOST-SUFFIX,maps.wikimedia.org,CDN
 HOST-SUFFIX,cdn.travis-ci.org,CDN
 HOST-SUFFIX,light.spicegems.org,CDN
 HOST-SUFFIX,user-uploads.perchance.org,CDN
