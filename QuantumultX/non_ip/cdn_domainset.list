@@ -364,6 +364,7 @@ HOST-SUFFIX,modules.kernelsu.org,CDN
 HOST-SUFFIX,api.indexnow.org,CDN
 HOST-SUFFIX,assets.exercism.org,CDN
 HOST-SUFFIX,david-dm.org,CDN
+HOST-SUFFIX,get-it-on.codeberg.org,CDN
 HOST-SUFFIX,design.codeberg.org,CDN
 HOST-SUFFIX,fonts.codeberg.org,CDN
 HOST-SUFFIX,static.aizanmei.org,CDN
@@ -904,6 +905,7 @@ HOST-SUFFIX,eu.orbitor.dev,CDN
 HOST-SUFFIX,biomejs.dev,CDN
 HOST-SUFFIX,angular.dev,CDN
 HOST-SUFFIX,vercel.dev,CDN
+HOST-SUFFIX,shields.rbtlog.dev,CDN
 HOST-SUFFIX,stats.setapp.macpaw.dev,CDN
 HOST-SUFFIX,lucide.dev,CDN
 HOST-SUFFIX,assets.github.dev,CDN
@@ -4423,6 +4425,7 @@ HOST-SUFFIX,i.snap.as,CDN
 HOST-SUFFIX,solve-widget.forethought.ai,CDN
 HOST-SUFFIX,shortpixel.ai,CDN
 HOST-SUFFIX,pplx-next-static-public.perplexity.ai,CDN
+HOST-SUFFIX,frontend-cdn.perplexity.ai,CDN
 HOST-SUFFIX,r2cdn.perplexity.ai,CDN
 HOST-SUFFIX,cdn.engagement.ai,CDN
 HOST-SUFFIX,assets.cloudpilot.ai,CDN
