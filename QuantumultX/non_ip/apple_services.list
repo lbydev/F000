@@ -15,3 +15,4 @@ HOST-SUFFIX,apple.com,Apple_Services
 HOST-SUFFIX,me.com,Apple_Services
 HOST-SUFFIX,appsto.re,Apple_Services
 HOST-SUFFIX,apple.co,Apple_Services
+IP-CIDR,17.0.0.0/8,Apple_Services
