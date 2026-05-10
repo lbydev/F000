@@ -5,6 +5,7 @@ HOST-SUFFIX,prod-support.apple-support.akadns.net,Apple_CDN
 HOST-SUFFIX,images.apple.com.edgekey.net.globalredir.akadns.net,Apple_CDN
 HOST-SUFFIX,store.apple.com.edgekey.net.globalredir.akadns.net,Apple_CDN
 HOST-SUFFIX,www.apple.com.edgekey.net.globalredir.akadns.net,Apple_CDN
+HOST-SUFFIX,cl2.apple.com.edgekey.net.globalredir.akadns.net,Apple_CDN
 HOST-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net,Apple_CDN
 HOST-SUFFIX,iphone-ld.origin-apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,cl5-cdn.origin-apple.com.akadns.net,Apple_CDN
@@ -19,10 +20,8 @@ HOST-SUFFIX,init-s01st-lb.push-apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,init-p01st-lb.push-apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,init-p01md-lb.push-apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,updates-http.cdn-apple.com.akadns.net,Apple_CDN
-HOST-SUFFIX,pancake.cdn-apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,gspe19-2-cn-ssl.ls-apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,gspe19-cn.ls-apple.com.akadns.net,Apple_CDN
-HOST-SUFFIX,icloud-cdn.icloud.com.akadns.net,Apple_CDN
 HOST-SUFFIX,stocks-sparkline-lb.apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,swcatalog-cdn.apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,configuration.apple.com.akadns.net,Apple_CDN
@@ -32,9 +31,7 @@ HOST-SUFFIX,adcdownload.apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,swscan-cdn.apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,mesu-china.apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,clientflow.apple.com.akadns.net,Apple_CDN
-HOST-SUFFIX,ocsp2-lb.apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,mesu-cdn.apple.com.akadns.net,Apple_CDN
-HOST-SUFFIX,ocsp-lb.apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,swdist.apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,cds.apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,cdn-cn4.apple-mapkit.com,Apple_CDN
@@ -53,7 +50,6 @@ HOST-SUFFIX,publicassets.cdn-apple.com,Apple_CDN
 HOST-SUFFIX,store.storeimages.cdn-apple.com,Apple_CDN
 HOST-SUFFIX,updates.cdn-apple.com,Apple_CDN
 HOST-SUFFIX,appleid.cdn-apple.com,Apple_CDN
-HOST-SUFFIX,icloud.cdn-apple.com,Apple_CDN
 HOST-SUFFIX,cstat.cdn-apple.com,Apple_CDN
 HOST-SUFFIX,ml.cdn-apple.com,Apple_CDN
 HOST-SUFFIX,is5-ssl.mzstatic.com,Apple_CDN
@@ -86,7 +82,6 @@ HOST-SUFFIX,smp-device-content.apple.com,Apple_CDN
 HOST-SUFFIX,sh-pod2-smp-device.apple.com,Apple_CDN
 HOST-SUFFIX,stocks-sparkline.apple.com,Apple_CDN
 HOST-SUFFIX,devstreaming-cdn.apple.com,Apple_CDN
-HOST-SUFFIX,reserve-prime.apple.com,Apple_CDN
 HOST-SUFFIX,itunesconnect.apple.com,Apple_CDN
 HOST-SUFFIX,devimages-cdn.apple.com,Apple_CDN
 HOST-SUFFIX,configuration.apple.com,Apple_CDN
@@ -134,8 +129,6 @@ HOST-SUFFIX,seed-swallow.siri.apple.com,Apple_CDN
 HOST-SUFFIX,seed-sequoia.siri.apple.com,Apple_CDN
 HOST-SUFFIX,probe.siri.apple.com,Apple_CDN
 HOST-SUFFIX,seed.siri.apple.com,Apple_CDN
-HOST-SUFFIX,init-s01st.push.apple.com,Apple_CDN
-HOST-SUFFIX,init-p01st.push.apple.com,Apple_CDN
 HOST-SUFFIX,pba0.apple.com,Apple_CDN
 HOST-SUFFIX,ocsp.apple.com,Apple_CDN
 HOST-SUFFIX,mesu.apple.com,Apple_CDN
@@ -159,6 +152,7 @@ HOST-SUFFIX,gspe21-ssl.ls.apple.com,Apple_CDN
 HOST-SUFFIX,gspe19-cn.ls.apple.com,Apple_CDN
 HOST-SUFFIX,gsp13-cn.ls.apple.com,Apple_CDN
 HOST-SUFFIX,gsp12-cn.ls.apple.com,Apple_CDN
+HOST-SUFFIX,gsp11-cn.ls.apple.com,Apple_CDN
 HOST-SUFFIX,gsp5-cn.ls.apple.com,Apple_CDN
 HOST-SUFFIX,gsp4-cn.ls.apple.com,Apple_CDN
 HOST-SUFFIX,static.gc.apple.com,Apple_CDN

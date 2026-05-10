@@ -38,11 +38,9 @@ HOST-SUFFIX,vlportal.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,software.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,cbdstest.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,surface.download.prss.microsoft.com,Microsoft_CDN
-HOST-SUFFIX,myvsuat.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,windbg.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,vscode.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,oemsoc.download.prss.microsoft.com,Microsoft_CDN
-HOST-SUFFIX,mbsuat.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,lexuat.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,volic.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,myvs.download.prss.microsoft.com,Microsoft_CDN
