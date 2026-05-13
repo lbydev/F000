@@ -2973,6 +2973,7 @@ HOST-SUFFIX,heatmap-external-a.strava.com,CDN
 HOST-SUFFIX,web-assets.strava.com,CDN
 HOST-SUFFIX,content-a.strava.com,CDN
 HOST-SUFFIX,wre-assets.prod.mapping.strava.com,CDN
+HOST-SUFFIX,tiles.strava.com,CDN
 HOST-SUFFIX,cdn-1.strava.com,CDN
 HOST-SUFFIX,cdn.stonly.com,CDN
 HOST-SUFFIX,tile.stamen.com,CDN
@@ -3823,6 +3824,7 @@ HOST-SUFFIX,assets.cello.so,CDN
 HOST-SUFFIX,cdn.mida.so,CDN
 HOST-SUFFIX,images.spr.so,CDN
 HOST-SUFFIX,cdn-zlib.sk,CDN
+HOST-SUFFIX,tiles.freemap.sk,CDN
 HOST-SUFFIX,registry.gitplac.si,CDN
 HOST-SUFFIX,gitpage.si,CDN
 HOST-SUFFIX,gitapp.si,CDN
@@ -4303,6 +4305,7 @@ HOST-SUFFIX,cdn.prod.www.spiegel.de,CDN
 HOST-SUFFIX,www.acgpix.de,CDN
 HOST-SUFFIX,cdn.ionos.de,CDN
 HOST-SUFFIX,tile.mtbmap.cz,CDN
+HOST-SUFFIX,mapserver.mapy.cz,CDN
 HOST-SUFFIX,ipfs.slang.cx,CDN
 HOST-SUFFIX,zpi.cx,CDN
 HOST-SUFFIX,assets.openalternative.co,CDN
@@ -4343,6 +4346,7 @@ HOST-SUFFIX,img.ifunny.co,CDN
 HOST-SUFFIX,erocdn.co,CDN
 HOST-SUFFIX,widget.clutch.co,CDN
 HOST-SUFFIX,us-js.zonka.co,CDN
+HOST-SUFFIX,cdn.videy.co,CDN
 HOST-SUFFIX,unpkg.co,CDN
 HOST-SUFFIX,app-static.turtl.co,CDN
 HOST-SUFFIX,prcdn.co,CDN

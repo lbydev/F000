@@ -48,7 +48,6 @@ HOST-SUFFIX,rsm.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,mbs.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,lex.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,vz.download.prss.microsoft.com,Microsoft_CDN
-HOST-SUFFIX,wscont2.apps.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,sdx.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,dl.delivery.mp.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,storeedgefd.dsx.mp.microsoft.com,Microsoft_CDN
