@@ -340,6 +340,7 @@ HOST-SUFFIX,cdn.fosstodon.org,CDN
 HOST-SUFFIX,doppiocdn.org,CDN
 HOST-SUFFIX,cdn.cookielaw.org,CDN
 HOST-SUFFIX,moderate.cleantalk.org,CDN
+HOST-SUFFIX,uploads.bikeindex.org,CDN
 HOST-SUFFIX,angularjs.org,CDN
 HOST-SUFFIX,images.videolan.org,CDN
 HOST-SUFFIX,static.tvtropes.org,CDN
@@ -2680,6 +2681,7 @@ HOST-SUFFIX,mintcdn.com,CDN
 HOST-SUFFIX,video3.mingpao.com,CDN
 HOST-SUFFIX,fs.mingpao.com,CDN
 HOST-SUFFIX,image.mgstage.com,CDN
+HOST-SUFFIX,cdn.app.metorik.com,CDN
 HOST-SUFFIX,acdn.mercury.com,CDN
 HOST-SUFFIX,cdn.mercury.com,CDN
 HOST-SUFFIX,static.maxmind.com,CDN
@@ -4158,6 +4160,7 @@ HOST-SUFFIX,cdn.readme.io,CDN
 HOST-SUFFIX,raygun.io,CDN
 HOST-SUFFIX,ipfs1.pixura.io,CDN
 HOST-SUFFIX,favicon.pirsch.io,CDN
+HOST-SUFFIX,cdn-static.okendo.io,CDN
 HOST-SUFFIX,nxedge.io,CDN
 HOST-SUFFIX,edge.marker.io,CDN
 HOST-SUFFIX,jbkcdn.io,CDN
@@ -4426,6 +4429,7 @@ HOST-SUFFIX,tags.news.com.au,CDN
 HOST-SUFFIX,ipfs.greyh.at,CDN
 HOST-SUFFIX,tiles.maps.eox.at,CDN
 HOST-SUFFIX,i.snap.as,CDN
+HOST-SUFFIX,cdn.tabarn.ap,CDN
 HOST-SUFFIX,solve-widget.forethought.ai,CDN
 HOST-SUFFIX,shortpixel.ai,CDN
 HOST-SUFFIX,pplx-next-static-public.perplexity.ai,CDN
