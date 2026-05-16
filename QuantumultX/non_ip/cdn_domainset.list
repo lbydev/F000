@@ -904,6 +904,7 @@ HOST-SUFFIX,ipfs.orbitor.dev,CDN
 HOST-SUFFIX,apac.orbitor.dev,CDN
 HOST-SUFFIX,eu.orbitor.dev,CDN
 HOST-SUFFIX,biomejs.dev,CDN
+HOST-SUFFIX,img.appledb.dev,CDN
 HOST-SUFFIX,angular.dev,CDN
 HOST-SUFFIX,vercel.dev,CDN
 HOST-SUFFIX,shields.rbtlog.dev,CDN
@@ -1642,6 +1643,7 @@ HOST-SUFFIX,pics.serviporno.com,CDN
 HOST-SUFFIX,cdn.serverable.com,CDN
 HOST-SUFFIX,sentry-cdn.com,CDN
 HOST-SUFFIX,static-www.sendsafely.com,CDN
+HOST-SUFFIX,app-static.sendsafely.com,CDN
 HOST-SUFFIX,assets.sendinblue.com,CDN
 HOST-SUFFIX,sbcdnvideo.com,CDN
 HOST-SUFFIX,resources.help.salesforce.com,CDN
@@ -2405,6 +2407,7 @@ HOST-SUFFIX,cdn3.edgedatg.com,CDN
 HOST-SUFFIX,cdn2.edgedatg.com,CDN
 HOST-SUFFIX,cdn1.edgedatg.com,CDN
 HOST-SUFFIX,ipfs.ecolatam.com,CDN
+HOST-SUFFIX,cdn.easyling.com,CDN
 HOST-SUFFIX,vip.dytt-img.com,CDN
 HOST-SUFFIX,drivecdn.com,CDN
 HOST-SUFFIX,cdn.dribbble.com,CDN
@@ -3634,6 +3637,9 @@ HOST-SUFFIX,resource.fs.com,CDN
 HOST-SUFFIX,img-en.fs.com,CDN
 HOST-SUFFIX,media.fs.com,CDN
 HOST-SUFFIX,genesis-cdn.ff.com,CDN
+HOST-SUFFIX,cdn.studio.f5.com,CDN
+HOST-SUFFIX,tags.f5.com,CDN
+HOST-SUFFIX,cdn.f5.com,CDN
 HOST-SUFFIX,media.contentapi.ea.com,CDN
 HOST-SUFFIX,cdn.mcr.ea.com,CDN
 HOST-SUFFIX,pl.ea.com,CDN
