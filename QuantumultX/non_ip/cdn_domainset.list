@@ -3398,6 +3398,7 @@ HOST-SUFFIX,static.fc2cn.com,CDN
 HOST-SUFFIX,fbsbx.com,CDN
 HOST-SUFFIX,fbcdn.com,CDN
 HOST-SUFFIX,cdn.faire.com,CDN
+HOST-SUFFIX,f-cdn.com,CDN
 HOST-SUFFIX,img.etimg.com,CDN
 HOST-SUFFIX,dz2cdn1.dzone.com,CDN
 HOST-SUFFIX,drtst.com,CDN
@@ -4449,6 +4450,7 @@ HOST-SUFFIX,sdk.customfit.ai,CDN
 HOST-SUFFIX,static.returngo.ai,CDN
 HOST-SUFFIX,prod-cdn.webtune.ai,CDN
 HOST-SUFFIX,cms.mistral.ai,CDN
+HOST-SUFFIX,widget.prod.equally.ai,CDN
 HOST-SUFFIX,widget.docsbot.ai,CDN
 HOST-SUFFIX,cdn.aimerce.ai,CDN
 HOST-SUFFIX,static.zanmei.ai,CDN
@@ -4468,6 +4470,7 @@ HOST-SUFFIX,cdn1.suno.ai,CDN
 HOST-SUFFIX,cdn.roof.ai,CDN
 HOST-SUFFIX,metrics.kapa.ai,CDN
 HOST-SUFFIX,widget.kapa.ai,CDN
+HOST-SUFFIX,cdn.gist.ai,CDN
 HOST-SUFFIX,cdn.fera.ai,CDN
 HOST-SUFFIX,assets-docs.dify.ai,CDN
 HOST-SUFFIX,assets.dify.ai,CDN
