@@ -416,6 +416,7 @@ HOST-SUFFIX,godoc.org,CDN
 HOST-SUFFIX,tileserver.gnome.org,CDN
 HOST-SUFFIX,static.gnome.org,CDN
 HOST-SUFFIX,eggjs.org,CDN
+HOST-SUFFIX,error.c.cdn77.org,CDN
 HOST-SUFFIX,hits.b3log.org,CDN
 HOST-SUFFIX,static.arxiv.org,CDN
 HOST-SUFFIX,91pic.org,CDN
@@ -4109,6 +4110,7 @@ HOST-SUFFIX,ipfs.filebase.io,CDN
 HOST-SUFFIX,ipfs.denarius.io,CDN
 HOST-SUFFIX,assets.customer.io,CDN
 HOST-SUFFIX,rum.cronitor.io,CDN
+HOST-SUFFIX,fonts.coollabs.io,CDN
 HOST-SUFFIX,cloudimg.io,CDN
 HOST-SUFFIX,static.assetlab.io,CDN
 HOST-SUFFIX,code.upscope.io,CDN
