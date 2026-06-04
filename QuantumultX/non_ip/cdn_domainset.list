@@ -356,6 +356,7 @@ HOST-SUFFIX,ep1.pinkbike.org,CDN
 HOST-SUFFIX,es.pinkbike.org,CDN
 HOST-SUFFIX,parceljs.org,CDN
 HOST-SUFFIX,static.opensuse.org,CDN
+HOST-SUFFIX,assets.openlogi.org,CDN
 HOST-SUFFIX,open-vsx.org,CDN
 HOST-SUFFIX,images.mobilism.org,CDN
 HOST-SUFFIX,demotiles.maplibre.org,CDN
