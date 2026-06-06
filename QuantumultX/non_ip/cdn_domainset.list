@@ -2257,6 +2257,7 @@ HOST-SUFFIX,assets.quillbot.com,CDN
 HOST-SUFFIX,libs.quillbot.com,CDN
 HOST-SUFFIX,js-s3.quickcep.com,CDN
 HOST-SUFFIX,api.qrserver.com,CDN
+HOST-SUFFIX,uploads.pullfrog.com,CDN
 HOST-SUFFIX,static.pornpics.com,CDN
 HOST-SUFFIX,cdni.pornpics.com,CDN
 HOST-SUFFIX,porn-cdn.com,CDN
@@ -2336,6 +2337,7 @@ HOST-SUFFIX,assets.leetcode.com,CDN
 HOST-SUFFIX,cdn.leandata.com,CDN
 HOST-SUFFIX,ldstatic.com,CDN
 HOST-SUFFIX,lbpicpic.com,CDN
+HOST-SUFFIX,ph.langfuse.com,CDN
 HOST-SUFFIX,kirafile.com,CDN
 HOST-SUFFIX,img.kbhgames.com,CDN
 HOST-SUFFIX,cdn.jwplayer.com,CDN
