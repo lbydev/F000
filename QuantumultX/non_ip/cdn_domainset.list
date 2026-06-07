@@ -1005,6 +1005,7 @@ HOST-SUFFIX,steamusercontent.com,CDN
 HOST-SUFFIX,spreadshirtmedia.com,CDN
 HOST-SUFFIX,static2.sharepointonline.com,CDN
 HOST-SUFFIX,cdn.seonintelligence.com,CDN
+HOST-SUFFIX,uploadcare.mwcglobalprofile.com,CDN
 HOST-SUFFIX,assets4.mist-train-girls.com,CDN
 HOST-SUFFIX,hubspotonwebflow.com,CDN
 HOST-SUFFIX,hsbrowserreports.com,CDN
@@ -2324,6 +2325,7 @@ HOST-SUFFIX,c.marsflag.com,CDN
 HOST-SUFFIX,media.maptiler.com,CDN
 HOST-SUFFIX,cdn.maptiler.com,CDN
 HOST-SUFFIX,tiles.mapilion.com,CDN
+HOST-SUFFIX,b.manufact.com,CDN
 HOST-SUFFIX,imag.malavida.com,CDN
 HOST-SUFFIX,img-api.mac4ever.com,CDN
 HOST-SUFFIX,lowescdn.com,CDN
@@ -3777,6 +3779,8 @@ HOST-SUFFIX,storry.tv,CDN
 HOST-SUFFIX,starlight.nebula.tv,CDN
 HOST-SUFFIX,images.nebula.tv,CDN
 HOST-SUFFIX,f.upanh.tv,CDN
+HOST-SUFFIX,walter-r2.trakt.tv,CDN
+HOST-SUFFIX,media.trakt.tv,CDN
 HOST-SUFFIX,static.tella.tv,CDN
 HOST-SUFFIX,static-homepage-en.pluto.tv,CDN
 HOST-SUFFIX,images.pluto.tv,CDN
