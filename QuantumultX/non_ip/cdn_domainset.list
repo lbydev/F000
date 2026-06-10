@@ -387,6 +387,7 @@ HOST-SUFFIX,lsposed.org,CDN
 HOST-SUFFIX,pcz.javidol.org,CDN
 HOST-SUFFIX,haproxy.org,CDN
 HOST-SUFFIX,graphql.org,CDN
+HOST-SUFFIX,imgproxy.flathub.org,CDN
 HOST-SUFFIX,web-static.archive.org,CDN
 HOST-SUFFIX,image.ap-mail.org,CDN
 HOST-SUFFIX,99avcdn.org,CDN
@@ -503,6 +504,7 @@ HOST-SUFFIX,storage.yandexcloud.net,CDN
 HOST-SUFFIX,images.wurstclient.net,CDN
 HOST-SUFFIX,images.wsjcommerce.net,CDN
 HOST-SUFFIX,static.underhentai.net,CDN
+HOST-SUFFIX,assets.transfernow.net,CDN
 HOST-SUFFIX,tapecontent.net,CDN
 HOST-SUFFIX,staticworld.net,CDN
 HOST-SUFFIX,staticstack.net,CDN
@@ -580,6 +582,7 @@ HOST-SUFFIX,edge-consumer-static.azureedge.net,CDN
 HOST-SUFFIX,edge-mobile-static.azureedge.net,CDN
 HOST-SUFFIX,edgeassetservice.azureedge.net,CDN
 HOST-SUFFIX,edgestorewebcdn.azureedge.net,CDN
+HOST-SUFFIX,catalogartifact.azureedge.net,CDN
 HOST-SUFFIX,xpaywalletcdn.azureedge.net,CDN
 HOST-SUFFIX,claritystatic.azureedge.net,CDN
 HOST-SUFFIX,mobilecenter.azureedge.net,CDN
@@ -612,6 +615,7 @@ HOST-SUFFIX,static.whatsapp.net,CDN
 HOST-SUFFIX,cdn.viafoura.net,CDN
 HOST-SUFFIX,turboimg.net,CDN
 HOST-SUFFIX,tildacdn.net,CDN
+HOST-SUFFIX,t-assets.net,CDN
 HOST-SUFFIX,cdn.pi.spectrum.net,CDN
 HOST-SUFFIX,smassets.net,CDN
 HOST-SUFFIX,sitescdn.net,CDN
@@ -1526,6 +1530,7 @@ HOST-SUFFIX,fontawesome.com,CDN
 HOST-SUFFIX,cdn.fluidplayer.com,CDN
 HOST-SUFFIX,firebaseapp.com,CDN
 HOST-SUFFIX,google-ohttp-relay-safebrowsing.fastly-edge.com,CDN
+HOST-SUFFIX,mozilla-ohttp.fastly-edge.com,CDN
 HOST-SUFFIX,ohttp-relay1.fastly-edge.com,CDN
 HOST-SUFFIX,live.fanmingming.com,CDN
 HOST-SUFFIX,assets.embeddables.com,CDN
@@ -2422,6 +2427,7 @@ HOST-SUFFIX,cdn.dnsimple.com,CDN
 HOST-SUFFIX,cdn-node.diskpart.com,CDN
 HOST-SUFFIX,cacerts.digicert.com,CDN
 HOST-SUFFIX,ocsp.digicert.com,CDN
+HOST-SUFFIX,crl3.digicert.com,CDN
 HOST-SUFFIX,avatars.dicebear.com,CDN
 HOST-SUFFIX,api.dicebear.com,CDN
 HOST-SUFFIX,dditscdn.com,CDN
@@ -3438,6 +3444,7 @@ HOST-SUFFIX,designsystem.brevo.com,CDN
 HOST-SUFFIX,corp-backend.brevo.com,CDN
 HOST-SUFFIX,assets.brevo.com,CDN
 HOST-SUFFIX,safebrowsing.brave.com,CDN
+HOST-SUFFIX,variations.brave.com,CDN
 HOST-SUFFIX,imgs.search.brave.com,CDN
 HOST-SUFFIX,cdn.search.brave.com,CDN
 HOST-SUFFIX,static.bodor.com,CDN
