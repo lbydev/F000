@@ -3175,6 +3175,7 @@ HOST-SUFFIX,s3.go2778.com,CDN
 HOST-SUFFIX,static.gmgard.com,CDN
 HOST-SUFFIX,glbimg.com,CDN
 HOST-SUFFIX,tuf-repo.github.com,CDN
+HOST-SUFFIX,cafe.github.com,CDN
 HOST-SUFFIX,raw.github.com,CDN
 HOST-SUFFIX,pkg.github.com,CDN
 HOST-SUFFIX,assets.genius.com,CDN
@@ -3230,6 +3231,7 @@ HOST-SUFFIX,media.beeper.com,CDN
 HOST-SUFFIX,static.beebom.com,CDN
 HOST-SUFFIX,www.bbthat.com,CDN
 HOST-SUFFIX,bblcdn.com,CDN
+HOST-SUFFIX,static.captcha.awswaf.com,CDN
 HOST-SUFFIX,avximg.com,CDN
 HOST-SUFFIX,tiledbasemaps.arcgis.com,CDN
 HOST-SUFFIX,tiles.arcgis.com,CDN
@@ -4014,6 +4016,7 @@ HOST-SUFFIX,resource.video.nimg.jp,CDN
 HOST-SUFFIX,cdn.nimg.jp,CDN
 HOST-SUFFIX,i.gzn.jp,CDN
 HOST-SUFFIX,tiles.gsj.jp,CDN
+HOST-SUFFIX,img.gmo.jp,CDN
 HOST-SUFFIX,nav.yumenosora.co.jp,CDN
 HOST-SUFFIX,web-assets.zendesk.co.jp,CDN
 HOST-SUFFIX,cdn.rex.contents.rakuten.co.jp,CDN
