@@ -1194,6 +1194,7 @@ HOST-SUFFIX,telemetry.individual.githubcopilot.com,CDN
 HOST-SUFFIX,telemetry.business.githubcopilot.com,CDN
 HOST-SUFFIX,gamesgamescdn.com,CDN
 HOST-SUFFIX,gadgets360cdn.com,CDN
+HOST-SUFFIX,fullstackopen.com,CDN
 HOST-SUFFIX,rts-static-prod.freshworksapi.com,CDN
 HOST-SUFFIX,cdn.freebiesupply.com,CDN
 HOST-SUFFIX,images.flightradar24.com,CDN
@@ -2754,6 +2755,7 @@ HOST-SUFFIX,perf.hsforms.com,CDN
 HOST-SUFFIX,static.hosting.com,CDN
 HOST-SUFFIX,hgimg01.com,CDN
 HOST-SUFFIX,hgimg00.com,CDN
+HOST-SUFFIX,hentai0.com,CDN
 HOST-SUFFIX,static.heavy-r.com,CDN
 HOST-SUFFIX,public.hare200.com,CDN
 HOST-SUFFIX,hardbin.com,CDN
