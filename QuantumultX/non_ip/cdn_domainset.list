@@ -1296,6 +1296,7 @@ HOST-SUFFIX,clientstream.launchdarkly.com,CDN
 HOST-SUFFIX,clientsdk.launchdarkly.com,CDN
 HOST-SUFFIX,static.launchdarkly.com,CDN
 HOST-SUFFIX,events.launchdarkly.com,CDN
+HOST-SUFFIX,larksuitepkg.com,CDN
 HOST-SUFFIX,lf16-larkversion.larksuitecdn.com,CDN
 HOST-SUFFIX,sf19-scmcdn.larksuitecdn.com,CDN
 HOST-SUFFIX,p16-hera-va.larksuitecdn.com,CDN
