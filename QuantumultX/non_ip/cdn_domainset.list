@@ -2853,6 +2853,7 @@ HOST-SUFFIX,image.comicbz.com,CDN
 HOST-SUFFIX,cover.comicbz.com,CDN
 HOST-SUFFIX,css.comicbz.com,CDN
 HOST-SUFFIX,player-frontend.cnevids.com,CDN
+HOST-SUFFIX,embed-audio.cnevids.com,CDN
 HOST-SUFFIX,player.cnevids.com,CDN
 HOST-SUFFIX,cmail20.com,CDN
 HOST-SUFFIX,cmail19.com,CDN
@@ -3094,6 +3095,7 @@ HOST-SUFFIX,img.mresou.com,CDN
 HOST-SUFFIX,static-main.moovit.com,CDN
 HOST-SUFFIX,static.moomoo.com,CDN
 HOST-SUFFIX,launchercontent.mojang.com,CDN
+HOST-SUFFIX,bytescale.mobbin.com,CDN
 HOST-SUFFIX,mngbcn.com,CDN
 HOST-SUFFIX,mmtcdn.com,CDN
 HOST-SUFFIX,img.ml0987.com,CDN
@@ -4368,6 +4370,7 @@ HOST-SUFFIX,smilecdn.co,CDN
 HOST-SUFFIX,ipfs.sloppyta.co,CDN
 HOST-SUFFIX,assets.jolipage.co,CDN
 HOST-SUFFIX,cdn.jolipage.co,CDN
+HOST-SUFFIX,assets.churnkey.co,CDN
 HOST-SUFFIX,cdn.inviter.co,CDN
 HOST-SUFFIX,doodcdn.co,CDN
 HOST-SUFFIX,img.decrypt.co,CDN

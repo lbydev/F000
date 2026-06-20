@@ -49,6 +49,7 @@ HOST-SUFFIX,updates-http.cdn-apple.com,Apple_CDN
 HOST-SUFFIX,publicassets.cdn-apple.com,Apple_CDN
 HOST-SUFFIX,store.storeimages.cdn-apple.com,Apple_CDN
 HOST-SUFFIX,updates.cdn-apple.com,Apple_CDN
+HOST-SUFFIX,mensura.cdn-apple.com,Apple_CDN
 HOST-SUFFIX,appleid.cdn-apple.com,Apple_CDN
 HOST-SUFFIX,cstat.cdn-apple.com,Apple_CDN
 HOST-SUFFIX,ml.cdn-apple.com,Apple_CDN
