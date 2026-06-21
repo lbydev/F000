@@ -12,7 +12,6 @@ HOST-SUFFIX,storeedge.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,officecdn.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,developer.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,download.microsoft.com,Microsoft_CDN
-HOST-SUFFIX,devblogs.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,storecorefulfillment.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,mpnbenefitsrtluat.download.prss.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,azurestackhubuat.download.prss.microsoft.com,Microsoft_CDN
