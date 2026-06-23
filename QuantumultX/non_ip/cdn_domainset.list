@@ -839,6 +839,7 @@ HOST-SUFFIX,static.plus.net,CDN
 HOST-SUFFIX,ipfs.mttk.net,CDN
 HOST-SUFFIX,loli.net,CDN
 HOST-SUFFIX,texture.laby.net,CDN
+HOST-SUFFIX,cdn1.espn.net,CDN
 HOST-SUFFIX,static1.e621.net,CDN
 HOST-SUFFIX,c-dn.net,CDN
 HOST-SUFFIX,static.blip.net,CDN
@@ -1075,6 +1076,8 @@ HOST-SUFFIX,img.washingtonpost.com,CDN
 HOST-SUFFIX,warnermediacdn.com,CDN
 HOST-SUFFIX,static.global.visioncritical.com,CDN
 HOST-SUFFIX,static.na1.visioncritical.com,CDN
+HOST-SUFFIX,stories.usestoryteller.com,CDN
+HOST-SUFFIX,cdn.usestoryteller.com,CDN
 HOST-SUFFIX,trafficdeposit.com,CDN
 HOST-SUFFIX,media.telanganatoday.com,CDN
 HOST-SUFFIX,image.telanganatoday.com,CDN
@@ -1806,6 +1809,7 @@ HOST-SUFFIX,assets.dictionary.com,CDN
 HOST-SUFFIX,descopecdn.com,CDN
 HOST-SUFFIX,cdn.delight-vr.com,CDN
 HOST-SUFFIX,static.websites.data-crypt.com,CDN
+HOST-SUFFIX,cursor-cdn.com,CDN
 HOST-SUFFIX,static-beta.curseforge.com,CDN
 HOST-SUFFIX,images.crunchbase.com,CDN
 HOST-SUFFIX,cdn.conveythis.com,CDN
@@ -2099,6 +2103,7 @@ HOST-SUFFIX,embedgram.com,CDN
 HOST-SUFFIX,static.assets-stash.eet-china.com,CDN
 HOST-SUFFIX,design-system.economist.com,CDN
 HOST-SUFFIX,marber-cdn.economist.com,CDN
+HOST-SUFFIX,wall-ui-cdn.p.aws.economist.com,CDN
 HOST-SUFFIX,cmp-cdn.p.aws.economist.com,CDN
 HOST-SUFFIX,dummyjson.com,CDN
 HOST-SUFFIX,dubassets.com,CDN
@@ -2652,6 +2657,7 @@ HOST-SUFFIX,www.pngmart.com,CDN
 HOST-SUFFIX,cdn-main.plus500.com,CDN
 HOST-SUFFIX,cdn.plus500.com,CDN
 HOST-SUFFIX,cdn.pixabay.com,CDN
+HOST-SUFFIX,assets.pingone.com,CDN
 HOST-SUFFIX,static.pingcap.com,CDN
 HOST-SUFFIX,phprcdn.com,CDN
 HOST-SUFFIX,hawky.pcgamer.com,CDN
@@ -2852,6 +2858,7 @@ HOST-SUFFIX,static.comicbz.com,CDN
 HOST-SUFFIX,image.comicbz.com,CDN
 HOST-SUFFIX,cover.comicbz.com,CDN
 HOST-SUFFIX,css.comicbz.com,CDN
+HOST-SUFFIX,unleash.codeium.com,CDN
 HOST-SUFFIX,player-frontend.cnevids.com,CDN
 HOST-SUFFIX,embed-audio.cnevids.com,CDN
 HOST-SUFFIX,player.cnevids.com,CDN
@@ -3551,6 +3558,7 @@ HOST-SUFFIX,cms-cdn.goat.com,CDN
 HOST-SUFFIX,assets.goat.com,CDN
 HOST-SUFFIX,image.goat.com,CDN
 HOST-SUFFIX,fsdn.com,CDN
+HOST-SUFFIX,digitalhub.fifa.com,CDN
 HOST-SUFFIX,img04.en25.com,CDN
 HOST-SUFFIX,images.dmca.com,CDN
 HOST-SUFFIX,website-media.deel.com,CDN
@@ -4345,6 +4353,7 @@ HOST-SUFFIX,tile.mtbmap.cz,CDN
 HOST-SUFFIX,mapserver.mapy.cz,CDN
 HOST-SUFFIX,ipfs.slang.cx,CDN
 HOST-SUFFIX,zpi.cx,CDN
+HOST-SUFFIX,img.kemono.cr,CDN
 HOST-SUFFIX,assets.openalternative.co,CDN
 HOST-SUFFIX,cdn.stackoverflow.co,CDN
 HOST-SUFFIX,cdn-lfs-us-1.huggingface.co,CDN
