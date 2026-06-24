@@ -302,6 +302,7 @@ HOST-SUFFIX,play.publicradio.org,CDN
 HOST-SUFFIX,tile.opentopomap.org,CDN
 HOST-SUFFIX,covers.openlibrary.org,CDN
 HOST-SUFFIX,tiles.openfreemap.org,CDN
+HOST-SUFFIX,dlstats.izzyondroid.org,CDN
 HOST-SUFFIX,media.hentaifreak.org,CDN
 HOST-SUFFIX,ipfs.genenetwork.org,CDN
 HOST-SUFFIX,ximage.c-spanvideo.org,CDN
@@ -1527,6 +1528,8 @@ HOST-SUFFIX,media.gettyimages.com,CDN
 HOST-SUFFIX,cdn.getfeedback.com,CDN
 HOST-SUFFIX,assets.gemcommerce.com,CDN
 HOST-SUFFIX,gauthstatic.com,CDN
+HOST-SUFFIX,static.fundraiseup.com,CDN
+HOST-SUFFIX,cdn.fundraiseup.com,CDN
 HOST-SUFFIX,stories.freepiklabs.com,CDN
 HOST-SUFFIX,static.foxbusiness.com,CDN
 HOST-SUFFIX,use.fortawesome.com,CDN
@@ -1891,6 +1894,7 @@ HOST-SUFFIX,xhpingcdn.com,CDN
 HOST-SUFFIX,xdaimages.com,CDN
 HOST-SUFFIX,cdn.scripts.wtwhmedia.com,CDN
 HOST-SUFFIX,wowmodels.com,CDN
+HOST-SUFFIX,workoscdn.com,CDN
 HOST-SUFFIX,hhhhhhome86227170.wordpress.com,CDN
 HOST-SUFFIX,jetpack.wordpress.com,CDN
 HOST-SUFFIX,files.wordpress.com,CDN
@@ -2631,7 +2635,9 @@ HOST-SUFFIX,cdn.readmoo.com,CDN
 HOST-SUFFIX,cdn-rdstaticassets.readdle.com,CDN
 HOST-SUFFIX,ravenjs.com,CDN
 HOST-SUFFIX,static.rakuten.com,CDN
+HOST-SUFFIX,luminaire.railway.com,CDN
 HOST-SUFFIX,devicons.railway.com,CDN
+HOST-SUFFIX,cms.railway.com,CDN
 HOST-SUFFIX,rackcdn.com,CDN
 HOST-SUFFIX,cdn.quadpay.com,CDN
 HOST-SUFFIX,pxlecdn.com,CDN
@@ -2640,8 +2646,7 @@ HOST-SUFFIX,st.prntscr.com,CDN
 HOST-SUFFIX,cdn.privacy.com,CDN
 HOST-SUFFIX,app-static-prod.posthog.com,CDN
 HOST-SUFFIX,app-static.eu.posthog.com,CDN
-HOST-SUFFIX,us-assets.i.posthog.com,CDN
-HOST-SUFFIX,eu-assets.i.posthog.com,CDN
+HOST-SUFFIX,i.posthog.com,CDN
 HOST-SUFFIX,cdn77-t.pornoxo.com,CDN
 HOST-SUFFIX,cdn77.pornoxo.com,CDN
 HOST-SUFFIX,pics.pornfhd.com,CDN
@@ -2936,6 +2941,7 @@ HOST-SUFFIX,cdn.xvidzz.com,CDN
 HOST-SUFFIX,img.xhacgn.com,CDN
 HOST-SUFFIX,img.xbooru.com,CDN
 HOST-SUFFIX,website-prod.cache.wpscdn.com,CDN
+HOST-SUFFIX,frontend-apps-multi-region.workos.com,CDN
 HOST-SUFFIX,frontend-apps.workos.com,CDN
 HOST-SUFFIX,cdn.workos.com,CDN
 HOST-SUFFIX,wklcdn.com,CDN
@@ -4162,6 +4168,7 @@ HOST-SUFFIX,pagecdn.io,CDN
 HOST-SUFFIX,favicons.nextdns.io,CDN
 HOST-SUFFIX,cdn.logbase.io,CDN
 HOST-SUFFIX,media.lantern.io,CDN
+HOST-SUFFIX,embed.lantern.io,CDN
 HOST-SUFFIX,cdn.ipwhois.io,CDN
 HOST-SUFFIX,ipfscdn.io,CDN
 HOST-SUFFIX,cdn.icomoon.io,CDN
