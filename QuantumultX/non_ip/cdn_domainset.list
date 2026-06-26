@@ -3313,6 +3313,7 @@ HOST-SUFFIX,cdn.cloud.unity.com,CDN
 HOST-SUFFIX,twimg.com,CDN
 HOST-SUFFIX,media1.tenor.com,CDN
 HOST-SUFFIX,media.tenor.com,CDN
+HOST-SUFFIX,c.tenor.com,CDN
 HOST-SUFFIX,c.tadst.com,CDN
 HOST-SUFFIX,tacdn.com,CDN
 HOST-SUFFIX,t8cdn.com,CDN
