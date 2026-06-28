@@ -5,8 +5,8 @@
 [MITM]
 hostname = %APPEND% owa.shenzhentong.com
 [Script]
-szt_ads = type=http-response, pattern=^https?:\/\/owa\.shenzhentong\.com\/pubwxweb\/bwxppub1\/AdvertListQuery\.do, requires-body=1, script-content="let body =
-      JSON.parse($response.body); if (body.advlist && body.advlist.length > 0) { body.advlist = []; body.totalnum = '0'; } $done({ body: JSON.stringify(body) });"
+
+szt_ads = type=http-response, pattern=^https?:\/\/owa\.shenzhentong\.com\/pubwxweb\/bwxppub1\/AdvertListQuery\.do, requires-body=1, script-path=https://raw.githubusercontent.com/lbydev/F000/refs/heads/master/scripts/szt_ads.js
 [URL Rewrite]
 # 对于第一个没有广告内容的请求，可以直接拒绝，避免不必要的请求
 ^https?:\/\/owa\.shenzhentong\.com\/pubwxweb\/bwxppub1\/GetIszAdvertList\.do - reject
