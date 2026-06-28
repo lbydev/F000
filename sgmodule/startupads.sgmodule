@@ -48,11 +48,22 @@
 ^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get url reject-200
 
 # > xueqiu
+^https?:\/\/qmas\.xueqiu\.com\/domains\.json url reject-200
+^https?:\/\/api\.xueqiu\.com\/recommend-proxy\/card\/zj_card\.json url jsonjq-response-body '.data.card_list=[]'
+^https?:\/\/api\.xueqiu\.com\/lightsnow\/launch\/plan\/bee\/query\.json url reject-dict
+^https?:\/\/api\.xueqiu\.com\/query/search\/ai\/v\d\/recommend_search\.json url jsonjq-response-body '.data.list=[]'
+^https?:\/\/api\.xueqiu\.com\/promotion\/display_ad_batch\.json url reject
+^https?:\/\/api\.xueqiu\.com\/analysis\/status\/v\d\/underlying_product.json url reject-dict
+^https?:\/\/api\.xueqiu\.com\/query\/v\d\/hot_event\/tag\.json url jsonjq-response-body '.data=[]'
 ^https?:\/\/api\.xueqiu\.com\/snowpard\/launch_strategy\/query\.json url reject-200
+^https?:\/\/open\.xueqiu\.com\/mpaas\/config\/content url jsonjq-response-body 'del(.data.fund_account_open_set, .data.property_fund_account_open_set)'
+^https?:\/\/api\.xueqiu\.com\/lightsnow\/optional\/banner\/query\.json url reject-200
+^https?:\/\/fund\.xueqiu\.com\/fundx\/activity\/x\/web\/djUser\/getBeeMaterial url reject-200
+^https?:\/\/api\.xueqiu\.com\/snowpard\/bomb_box\/show\.json url reject-200
 
 # > yitao
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.etao\.noah\.query.*etao_splash url reject-200
 
 [MITM]
 # 需要 HTTPS 解密的域名
-hostname = %APPEND% ad.12306.cn, gg.caixin.com, maicai.api.ddxq.mobi, api.m.jd.com
+hostname = %APPEND% ad.12306.cn, gg.caixin.com, maicai.api.ddxq.mobi, api.m.jd.com,qmas.xueqiu.com, api.xueqiu.com, open.xueqiu.com, fund.xueqiu.com, 101.201.62.26, 101.201.175.228, 182.92.251.113,47.75.231.220
