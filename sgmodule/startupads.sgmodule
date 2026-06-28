@@ -55,4 +55,4 @@
 
 [MITM]
 # 需要 HTTPS 解密的域名
-hostname = ad.12306.cn, gg.caixin.com, maicai.api.ddxq.mobi, api.m.jd.com
+hostname = %APPEND% ad.12306.cn, gg.caixin.com, maicai.api.ddxq.mobi, api.m.jd.com
