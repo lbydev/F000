@@ -1,21 +1,19 @@
 #!name=深圳通去广告
-    2 #!desc=移除深圳通App的开屏及首页广告
-    3 #!author=Gemini
-    4
-    5 [MITM]
-    6 hostname = %APPEND% owa.shenzhentong.com
-    7
-    8 [Script]
-    9 # 使用 script-content 将脚本内容直接内联到模块中
-   10 szt_ads = type=http-response, pattern=^https?:\/\/owa\.shenzhentong\.com\/pubwxweb\/bwxppub1\/AdvertListQuery\.do, requires-body=1, script-content='''
-   11   let body = JSON.parse($response.body);
-   12   if (body.advlist && body.advlist.length > 0) {
-   13     body.advlist = [];
-   14     body.totalnum = "0";
-   15   }
-   16   $done({ body: JSON.stringify(body) });
-   17 '''
-   18
-   19 [URL Rewrite]
-   20 # 对于第一个没有广告内容的请求，可以直接拒绝，避免不必要的请求
-   21 ^https?:\/\/owa\.shenzhentong\.com\/pubwxweb\/bwxppub1\/GetIszAdvertList\.do - reject
+#!desc=移除深圳通App的开屏及首页广告
+#!author=Gemini
+
+[MITM]
+hostname = %APPEND% owa.shenzhentong.com
+[Script]
+ # 使用 script-content 将脚本内容直接内联到模块中
+szt_ads = type=http-response, pattern=^https?:\/\/owa\.shenzhentong\.com\/pubwxweb\/bwxppub1\/AdvertListQuery\.do, requires-body=1, script-content='''
+let body = JSON.parse($response.body);
+if (body.advlist && body.advlist.length > 0) {
+  body.advlist = [];
+  body.totalnum = "0";
+ }
+ $done({ body: JSON.stringify(body) });
+ '''
+[URL Rewrite]
+# 对于第一个没有广告内容的请求，可以直接拒绝，避免不必要的请求
+^https?:\/\/owa\.shenzhentong\.com\/pubwxweb\/bwxppub1\/GetIszAdvertList\.do - reject
