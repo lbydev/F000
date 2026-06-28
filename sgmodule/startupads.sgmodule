@@ -3,6 +3,14 @@
 #!tags=ads,custom,ddgksf2013,startup
 #!author=gemini
 
+[Host]
+# 您自定义的 Host 规则
+host, ad.12306.cn, direct
+
+[rewrite_local]
+
+^https?:\/\/ad\.12306\.cn\/ad\/ser\/getAdList url script-analyze-echo-response https://github.com/ddgksf2013/Scripts/raw/master/12306.js
+
 [URL Rewrite]
 # 您挑选的 URL Rewrite 规则
 # > 12306
