@@ -3734,6 +3734,7 @@ HOST-SUFFIX,web-cdn.bsky.app,CDN
 HOST-SUFFIX,video.bsky.app,CDN
 HOST-SUFFIX,cdn.bsky.app,CDN
 HOST-SUFFIX,web.app,CDN
+HOST-SUFFIX,widget.rss.app,CDN
 HOST-SUFFIX,images.rss.app,CDN
 HOST-SUFFIX,csb.app,CDN
 HOST-SUFFIX,cdn.7tv.app,CDN
@@ -4260,6 +4261,7 @@ HOST-SUFFIX,statics.goorm.io,CDN
 HOST-SUFFIX,sdk.gleap.io,CDN
 HOST-SUFFIX,cdn.filen.io,CDN
 HOST-SUFFIX,ipfs.decoo.io,CDN
+HOST-SUFFIX,changelog-widget.canny.io,CDN
 HOST-SUFFIX,assets2.canny.io,CDN
 HOST-SUFFIX,assets.canny.io,CDN
 HOST-SUFFIX,cdn.bogos.io,CDN
