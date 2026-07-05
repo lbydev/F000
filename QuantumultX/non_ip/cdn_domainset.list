@@ -758,6 +758,7 @@ HOST-SUFFIX,s3.doujin.sh,CDN
 HOST-SUFFIX,sdk.gleap.io,CDN
 HOST-SUFFIX,sdk.split.io,CDN
 HOST-SUFFIX,sitescdn.net,CDN
+HOST-SUFFIX,sm.pcmag.com,CDN
 HOST-SUFFIX,smassets.net,CDN
 HOST-SUFFIX,smushcdn.com,CDN
 HOST-SUFFIX,stapecdn.com,CDN
@@ -1083,6 +1084,7 @@ HOST-SUFFIX,assets.garr.it,CDN
 HOST-SUFFIX,assets.ibm.com,CDN
 HOST-SUFFIX,assets.msn.com,CDN
 HOST-SUFFIX,assets.orz.uno,CDN
+HOST-SUFFIX,assets.pscp.tv,CDN
 HOST-SUFFIX,b.manufact.com,CDN
 HOST-SUFFIX,bestjavcdn.com,CDN
 HOST-SUFFIX,boomio-cdn.com,CDN
@@ -2424,6 +2426,7 @@ HOST-SUFFIX,assets.zendesk.com,CDN
 HOST-SUFFIX,assetscdn.jable.tv,CDN
 HOST-SUFFIX,avatar.freepik.com,CDN
 HOST-SUFFIX,avatars.micro.blog,CDN
+HOST-SUFFIX,b2b-contenthub.com,CDN
 HOST-SUFFIX,b2c-contenthub.com,CDN
 HOST-SUFFIX,badges.crowdin.net,CDN
 HOST-SUFFIX,betterstackcdn.com,CDN
@@ -4383,6 +4386,7 @@ HOST-SUFFIX,firebasestorage.googleapis.com,CDN
 HOST-SUFFIX,identity-assets.getpostman.com,CDN
 HOST-SUFFIX,image.email.microsoftemail.com,CDN
 HOST-SUFFIX,learn-attachment.microsoft.com,CDN
+HOST-SUFFIX,legacy-us-images.foundryco.app,CDN
 HOST-SUFFIX,loader.mantis-intelligence.com,CDN
 HOST-SUFFIX,next-images.opencollective.com,CDN
 HOST-SUFFIX,nodebox-runtime.codesandbox.io,CDN
