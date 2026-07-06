@@ -1025,6 +1025,7 @@ HOST-SUFFIX,shortpixel.ai,CDN
 HOST-SUFFIX,skyearth8.xyz,CDN
 HOST-SUFFIX,smmallcdn.net,CDN
 HOST-SUFFIX,sp.replit.com,CDN
+HOST-SUFFIX,squarecdn.com,CDN
 HOST-SUFFIX,ss-domain.com,CDN
 HOST-SUFFIX,st6-20.vk.com,CDN
 HOST-SUFFIX,stackblitz.io,CDN
@@ -1099,11 +1100,13 @@ HOST-SUFFIX,c5.patreon.com,CDN
 HOST-SUFFIX,c6.patreon.com,CDN
 HOST-SUFFIX,c7.patreon.com,CDN
 HOST-SUFFIX,c8.patreon.com,CDN
+HOST-SUFFIX,cdn-o.suno.com,CDN
 HOST-SUFFIX,cdn-spurit.com,CDN
 HOST-SUFFIX,cdn.affine.pro,CDN
 HOST-SUFFIX,cdn.aimerce.ai,CDN
 HOST-SUFFIX,cdn.arduino.cc,CDN
 HOST-SUFFIX,cdn.builder.io,CDN
+HOST-SUFFIX,cdn.candid.org,CDN
 HOST-SUFFIX,cdn.channel.io,CDN
 HOST-SUFFIX,cdn.concert.io,CDN
 HOST-SUFFIX,cdn.cwinfo.net,CDN
@@ -1443,6 +1446,7 @@ HOST-SUFFIX,cdn.javmiku.com,CDN
 HOST-SUFFIX,cdn.jetboost.io,CDN
 HOST-SUFFIX,cdn.jolipage.co,CDN
 HOST-SUFFIX,cdn.mathjax.org,CDN
+HOST-SUFFIX,cdn.mcp-use.com,CDN
 HOST-SUFFIX,cdn.mercury.com,CDN
 HOST-SUFFIX,cdn.metadata.io,CDN
 HOST-SUFFIX,cdn.moeload.com,CDN
@@ -2420,6 +2424,7 @@ HOST-SUFFIX,assets.onestore.ms,CDN
 HOST-SUFFIX,assets.ontrack.com,CDN
 HOST-SUFFIX,assets.pingone.com,CDN
 HOST-SUFFIX,assets.porndig.com,CDN
+HOST-SUFFIX,assets.ryanair.com,CDN
 HOST-SUFFIX,assets.st-note.com,CDN
 HOST-SUFFIX,assets.vidyard.com,CDN
 HOST-SUFFIX,assets.zendesk.com,CDN
