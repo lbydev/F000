@@ -4054,6 +4054,7 @@ HOST-SUFFIX,form-assets.mailchimp.com,CDN
 HOST-SUFFIX,gibs-c.earthdata.nasa.gov,CDN
 HOST-SUFFIX,global-assets.fitch.group,CDN
 HOST-SUFFIX,gn-web-assets.api.bbc.com,CDN
+HOST-SUFFIX,hls-svod.itunes.apple.com,CDN
 HOST-SUFFIX,hub-assets.displaycal.net,CDN
 HOST-SUFFIX,hv-monsterdb-data.skk.moe,CDN
 HOST-SUFFIX,im.np-payment-gateway.com,CDN
