@@ -1008,6 +1008,7 @@ HOST-SUFFIX,r2.dejavu.moe,CDN
 HOST-SUFFIX,r2cdn.c7d.dev,CDN
 HOST-SUFFIX,randomuser.me,CDN
 HOST-SUFFIX,rawgithub.com,CDN
+HOST-SUFFIX,rdr.windy.com,CDN
 HOST-SUFFIX,runkitcdn.com,CDN
 HOST-SUFFIX,s-nbcnews.com,CDN
 HOST-SUFFIX,s.abcnews.com,CDN
@@ -1137,6 +1138,7 @@ HOST-SUFFIX,cdn.pubnub.com,CDN
 HOST-SUFFIX,cdn.redhat.com,CDN
 HOST-SUFFIX,cdn.redwap.xyz,CDN
 HOST-SUFFIX,cdn.replit.com,CDN
+HOST-SUFFIX,cdn.scalar.com,CDN
 HOST-SUFFIX,cdn.seondf.com,CDN
 HOST-SUFFIX,cdn.setapp.com,CDN
 HOST-SUFFIX,cdn.sketch.com,CDN
@@ -1923,6 +1925,7 @@ HOST-SUFFIX,kinja-static.com,CDN
 HOST-SUFFIX,larksuitepkg.com,CDN
 HOST-SUFFIX,launcher.spot.im,CDN
 HOST-SUFFIX,lm.visualon.info,CDN
+HOST-SUFFIX,magic.scalar.com,CDN
 HOST-SUFFIX,mangadex.network,CDN
 HOST-SUFFIX,maps.gstatic.com,CDN
 HOST-SUFFIX,maps.wplace.live,CDN
@@ -3766,6 +3769,7 @@ HOST-SUFFIX,ca2.onlyhentaistuff.com,CDN
 HOST-SUFFIX,cas-bridge.xethub.hf.co,CDN
 HOST-SUFFIX,cdn-app.pathfactory.com,CDN
 HOST-SUFFIX,cdn-assets.circleci.com,CDN
+HOST-SUFFIX,cdn-assets.hinative.com,CDN
 HOST-SUFFIX,cdn-eu.dynamicyield.com,CDN
 HOST-SUFFIX,cdn-images-1.medium.com,CDN
 HOST-SUFFIX,cdn-static-1.medium.com,CDN
@@ -3978,6 +3982,7 @@ HOST-SUFFIX,media.nbcconnecticut.com,CDN
 HOST-SUFFIX,media.telanganatoday.com,CDN
 HOST-SUFFIX,melonbooks.akamaized.net,CDN
 HOST-SUFFIX,micro.rubiconproject.com,CDN
+HOST-SUFFIX,pha-prx.ops.cloud.nx.app,CDN
 HOST-SUFFIX,photos5.appleinsider.com,CDN
 HOST-SUFFIX,platforms.makemytrip.com,CDN
 HOST-SUFFIX,prod-images.rippling.com,CDN
