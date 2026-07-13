@@ -241,6 +241,7 @@ HOST-SUFFIX,dwncdn.net,CDN
 HOST-SUFFIX,eroimg.net,CDN
 HOST-SUFFIX,eslint.org,CDN
 HOST-SUFFIX,evt.24.com,CDN
+HOST-SUFFIX,exbd.ex.co,CDN
 HOST-SUFFIX,ezocdn.com,CDN
 HOST-SUFFIX,f.start.me,CDN
 HOST-SUFFIX,f.upanh.tv,CDN
@@ -680,6 +681,7 @@ HOST-SUFFIX,img.lvv2.com,CDN
 HOST-SUFFIX,img.noy.asia,CDN
 HOST-SUFFIX,img.sflix.to,CDN
 HOST-SUFFIX,imgfile.shop,CDN
+HOST-SUFFIX,imgproxy.org,CDN
 HOST-SUFFIX,imhentai.xxx,CDN
 HOST-SUFFIX,instant.page,CDN
 HOST-SUFFIX,ipfs.1-2.dev,CDN
@@ -880,6 +882,7 @@ HOST-SUFFIX,code.piano.io,CDN
 HOST-SUFFIX,codeberg.page,CDN
 HOST-SUFFIX,ctfassets.net,CDN
 HOST-SUFFIX,data.pendo.io,CDN
+HOST-SUFFIX,dd-static.net,CDN
 HOST-SUFFIX,disconnect.me,CDN
 HOST-SUFFIX,disquscdn.com,CDN
 HOST-SUFFIX,doppiocdn.com,CDN
@@ -2893,6 +2896,7 @@ HOST-SUFFIX,img.news.ebc.net.tw,CDN
 HOST-SUFFIX,img.openshop.com.hk,CDN
 HOST-SUFFIX,img.shoplineapp.com,CDN
 HOST-SUFFIX,img.thingiverse.com,CDN
+HOST-SUFFIX,imgix.datadoghq.com,CDN
 HOST-SUFFIX,info.cloudflare.com,CDN
 HOST-SUFFIX,ingest.de.sentry.io,CDN
 HOST-SUFFIX,ingest.us.sentry.io,CDN
