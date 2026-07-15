@@ -4,11 +4,9 @@ HOST,res.cdn.office.net,Microsoft_CDN
 HOST-SUFFIX,cn.windowssearch.com,Microsoft_CDN
 HOST,res-1.cdn.office.net,Microsoft_CDN
 HOST,res-2.cdn.office.net,Microsoft_CDN
-HOST-SUFFIX,shell.cdn.office.net,Microsoft_CDN
 HOST-SUFFIX,download.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,b.c2r.ts.cdn.office.net,Microsoft_CDN
 HOST-SUFFIX,ctldl.windowsupdate.com,Microsoft_CDN
-HOST-SUFFIX,developer.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,f.c2r.ts.cdn.office.net,Microsoft_CDN
 HOST-SUFFIX,officecdn.microsoft.com,Microsoft_CDN
 HOST-SUFFIX,storeedge.microsoft.com,Microsoft_CDN
