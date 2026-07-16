@@ -63,7 +63,6 @@ HOST-SUFFIX,i.gzn.jp,CDN
 HOST-SUFFIX,i.ibb.co,CDN
 HOST-SUFFIX,i.vgy.me,CDN
 HOST-SUFFIX,icons.ly,CDN
-HOST-SUFFIX,img.m.mw,CDN
 HOST-SUFFIX,jspm.dev,CDN
 HOST-SUFFIX,jspm.org,CDN
 HOST-SUFFIX,loli.net,CDN
@@ -756,7 +755,6 @@ HOST-SUFFIX,s1.bycsi.com,CDN
 HOST-SUFFIX,s1.qwant.com,CDN
 HOST-SUFFIX,s2.qwant.com,CDN
 HOST-SUFFIX,s3.arkjp.net,CDN
-HOST-SUFFIX,s3.doujin.sh,CDN
 HOST-SUFFIX,sdk.gleap.io,CDN
 HOST-SUFFIX,sdk.split.io,CDN
 HOST-SUFFIX,sitescdn.net,CDN
@@ -1161,6 +1159,7 @@ HOST-SUFFIX,cdn.zapier.com,CDN
 HOST-SUFFIX,cdn.zeabur.com,CDN
 HOST-SUFFIX,cdn1.plesk.com,CDN
 HOST-SUFFIX,cdn2.auth0.com,CDN
+HOST-SUFFIX,cdn2.cameo.com,CDN
 HOST-SUFFIX,cdnclouder.com,CDN
 HOST-SUFFIX,cdns.gigya.com,CDN
 HOST-SUFFIX,cdp.sph.com.sg,CDN
@@ -1227,7 +1226,6 @@ HOST-SUFFIX,images.spot.im,CDN
 HOST-SUFFIX,images.wsj.net,CDN
 HOST-SUFFIX,imagetwist.com,CDN
 HOST-SUFFIX,img.321cdn.com,CDN
-HOST-SUFFIX,img.bttimg.com,CDN
 HOST-SUFFIX,img.decrypt.co,CDN
 HOST-SUFFIX,img.fzf404.art,CDN
 HOST-SUFFIX,img.icons8.com,CDN
@@ -1313,6 +1311,9 @@ HOST-SUFFIX,report-uri.com,CDN
 HOST-SUFFIX,res.abc.net.au,CDN
 HOST-SUFFIX,res.garmin.com,CDN
 HOST-SUFFIX,rt.rtoaster.jp,CDN
+HOST-SUFFIX,rt1.maphub.net,CDN
+HOST-SUFFIX,rt2.maphub.net,CDN
+HOST-SUFFIX,rt3.maphub.net,CDN
 HOST-SUFFIX,s.midishow.net,CDN
 HOST-SUFFIX,s1.divhunt.com,CDN
 HOST-SUFFIX,s3.2233778.xyz,CDN
@@ -1899,7 +1900,6 @@ HOST-SUFFIX,img.olympics.com,CDN
 HOST-SUFFIX,img.sooplive.com,CDN
 HOST-SUFFIX,img.sparemin.com,CDN
 HOST-SUFFIX,img.wikiwand.com,CDN
-HOST-SUFFIX,img2.javdove.com,CDN
 HOST-SUFFIX,img2.javmost.com,CDN
 HOST-SUFFIX,img2.tnaflix.com,CDN
 HOST-SUFFIX,img3.javmost.com,CDN
@@ -2161,7 +2161,6 @@ HOST-SUFFIX,cdn.travis-ci.org,CDN
 HOST-SUFFIX,cdn.ttgtmedia.com,CDN
 HOST-SUFFIX,cdn.up-timely.com,CDN
 HOST-SUFFIX,cdn.yinghuazy.xyz,CDN
-HOST-SUFFIX,cdn.zhujiwiki.com,CDN
 HOST-SUFFIX,cdn0.techbang.com,CDN
 HOST-SUFFIX,cdn1.airdroid.com,CDN
 HOST-SUFFIX,cdn1.edgedatg.com,CDN
@@ -2263,7 +2262,6 @@ HOST-SUFFIX,images.vexels.com,CDN
 HOST-SUFFIX,img.haiwaikan.com,CDN
 HOST-SUFFIX,img.imoutomoe.net,CDN
 HOST-SUFFIX,img.picacomic.com,CDN
-HOST-SUFFIX,img.represent.com,CDN
 HOST-SUFFIX,img.riskified.com,CDN
 HOST-SUFFIX,img2.gelbooru.com,CDN
 HOST-SUFFIX,img3.airdroid.com,CDN
@@ -2361,6 +2359,7 @@ HOST-SUFFIX,static.gmgard.com,CDN
 HOST-SUFFIX,static.guim.co.uk,CDN
 HOST-SUFFIX,static.hotjar.com,CDN
 HOST-SUFFIX,static.linear.app,CDN
+HOST-SUFFIX,static.maphub.net,CDN
 HOST-SUFFIX,static.mega.co.nz,CDN
 HOST-SUFFIX,static.meiguo.com,CDN
 HOST-SUFFIX,static.missav.com,CDN
@@ -3414,7 +3413,6 @@ HOST-SUFFIX,images.emojiterra.com,CDN
 HOST-SUFFIX,images.en.aptoide.com,CDN
 HOST-SUFFIX,images.everyplate.com,CDN
 HOST-SUFFIX,images.findagrave.com,CDN
-HOST-SUFFIX,images.freeimages.com,CDN
 HOST-SUFFIX,images.hentaicity.com,CDN
 HOST-SUFFIX,images.icon-icons.com,CDN
 HOST-SUFFIX,img.foresightnews.pro,CDN
@@ -3497,7 +3495,6 @@ HOST-SUFFIX,static.buydomains.com,CDN
 HOST-SUFFIX,static.chaosgroup.com,CDN
 HOST-SUFFIX,static.chessarena.com,CDN
 HOST-SUFFIX,static.clips4sale.com,CDN
-HOST-SUFFIX,static.freeimages.com,CDN
 HOST-SUFFIX,static.getpostman.com,CDN
 HOST-SUFFIX,static.mytonwallet.io,CDN
 HOST-SUFFIX,static.openreplay.com,CDN
@@ -3694,6 +3691,7 @@ HOST-SUFFIX,static.foxbusiness.com,CDN
 HOST-SUFFIX,static.fundraiseup.com,CDN
 HOST-SUFFIX,static.gettyimages.com,CDN
 HOST-SUFFIX,static.hugedomains.com,CDN
+HOST-SUFFIX,static.istockphoto.com,CDN
 HOST-SUFFIX,static.playstation.com,CDN
 HOST-SUFFIX,static.staff-start.com,CDN
 HOST-SUFFIX,static.telegraph.co.uk,CDN
@@ -3715,6 +3713,7 @@ HOST-SUFFIX,tile.openstreetmap.org,CDN
 HOST-SUFFIX,tile.thunderforest.com,CDN
 HOST-SUFFIX,tile2.opencyclemap.org,CDN
 HOST-SUFFIX,tiles.arcticconnect.ca,CDN
+HOST-SUFFIX,tiles.openstreetmap.us,CDN
 HOST-SUFFIX,tiles.virtualearth.net,CDN
 HOST-SUFFIX,tileserver.memomaps.de,CDN
 HOST-SUFFIX,tn.tubepornclassic.com,CDN
@@ -4044,7 +4043,6 @@ HOST-SUFFIX,cdn.accounts.autodesk.com,CDN
 HOST-SUFFIX,cdn.accounts.nintendo.com,CDN
 HOST-SUFFIX,cdn.privacy.paramount.com,CDN
 HOST-SUFFIX,cdn.registerdisney.go.com,CDN
-HOST-SUFFIX,cdn.scripts.wtwhmedia.com,CDN
 HOST-SUFFIX,changelog-widget.canny.io,CDN
 HOST-SUFFIX,chunk-composing.canva.com,CDN
 HOST-SUFFIX,components.justanswer.com,CDN
@@ -4097,7 +4095,6 @@ HOST-SUFFIX,smartscreen.microsoft.com,CDN
 HOST-SUFFIX,snyk-widget.herokuapp.com,CDN
 HOST-SUFFIX,socialpic.video.friday.tw,CDN
 HOST-SUFFIX,static-ca-cdn.eporner.com,CDN
-HOST-SUFFIX,static-cdn.bytegiftia.top,CDN
 HOST-SUFFIX,static-files.bitchute.com,CDN
 HOST-SUFFIX,static-images.aptoide.com,CDN
 HOST-SUFFIX,static-sg-cdn.eporner.com,CDN
@@ -4499,7 +4496,6 @@ HOST-SUFFIX,screenshots.downloadtorrentfile.com,CDN
 HOST-SUFFIX,static-assets-prod.unrealengine.com,CDN
 HOST-SUFFIX,stubdownloader.services.mozilla.com,CDN
 HOST-SUFFIX,cf-images.us-east-1.prod.boltdns.net,CDN
-HOST-SUFFIX,chatwidgetmetrics-proxy.usepylon.com,CDN
 HOST-SUFFIX,content-prod-live.cert.starbucks.com,CDN
 HOST-SUFFIX,crashlyticsreports-pa.googleapis.com,CDN
 HOST-SUFFIX,firebaseinstallations.googleapis.com,CDN
