@@ -275,6 +275,7 @@ HOST-SUFFIX,imaged.top,CDN
 HOST-SUFFIX,imagee.top,CDN
 HOST-SUFFIX,imagef.top,CDN
 HOST-SUFFIX,imageg.top,CDN
+HOST-SUFFIX,img.aso.fr,CDN
 HOST-SUFFIX,img.gmo.jp,CDN
 HOST-SUFFIX,img.reg.ru,CDN
 HOST-SUFFIX,img.xjh.me,CDN
@@ -1803,6 +1804,7 @@ HOST-SUFFIX,cdn.playwire.com,CDN
 HOST-SUFFIX,cdn.roboflow.com,CDN
 HOST-SUFFIX,cdn.roseperl.com,CDN
 HOST-SUFFIX,cdn.scaleflex.it,CDN
+HOST-SUFFIX,cdn.seedance2.ai,CDN
 HOST-SUFFIX,cdn.signalfx.com,CDN
 HOST-SUFFIX,cdn.simplesat.io,CDN
 HOST-SUFFIX,cdn.skymavis.com,CDN
