@@ -978,6 +978,7 @@ HOST-SUFFIX,js.prosopo.io,CDN
 HOST-SUFFIX,js.pusher.com,CDN
 HOST-SUFFIX,js.stripe.com,CDN
 HOST-SUFFIX,js.upscope.io,CDN
+HOST-SUFFIX,kh.google.com,CDN
 HOST-SUFFIX,kinja-img.com,CDN
 HOST-SUFFIX,klarnacdn.net,CDN
 HOST-SUFFIX,line-scdn.net,CDN
@@ -2044,6 +2045,7 @@ HOST-SUFFIX,tiles.freemap.sk,CDN
 HOST-SUFFIX,tiles.mapbox.com,CDN
 HOST-SUFFIX,tiles.planet.com,CDN
 HOST-SUFFIX,tiles.strava.com,CDN
+HOST-SUFFIX,tiles.zoom.earth,CDN
 HOST-SUFFIX,time.windows.com,CDN
 HOST-SUFFIX,townsquare.media,CDN
 HOST-SUFFIX,trackerslist.com,CDN
@@ -2506,6 +2508,7 @@ HOST-SUFFIX,cdnapi.kaltura.com,CDN
 HOST-SUFFIX,cdni.iconscout.com,CDN
 HOST-SUFFIX,cdnstatic.w1mp.com,CDN
 HOST-SUFFIX,cms-cdn.linear.app,CDN
+HOST-SUFFIX,code.trygravity.ai,CDN
 HOST-SUFFIX,colliderimages.com,CDN
 HOST-SUFFIX,content.arduino.cc,CDN
 HOST-SUFFIX,content.gapinc.com,CDN
