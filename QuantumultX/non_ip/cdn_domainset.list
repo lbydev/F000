@@ -1900,6 +1900,10 @@ HOST-SUFFIX,img.javstore.net,CDN
 HOST-SUFFIX,img.jsdelivr.com,CDN
 HOST-SUFFIX,img.kbhgames.com,CDN
 HOST-SUFFIX,img.moviefap.com,CDN
+HOST-SUFFIX,img.novipnoad.ca,CDN
+HOST-SUFFIX,img.novipnoad.cc,CDN
+HOST-SUFFIX,img.novipnoad.uk,CDN
+HOST-SUFFIX,img.novipnoad.us,CDN
 HOST-SUFFIX,img.olympics.com,CDN
 HOST-SUFFIX,img.sooplive.com,CDN
 HOST-SUFFIX,img.sparemin.com,CDN
@@ -2266,6 +2270,9 @@ HOST-SUFFIX,images.svc.ui.com,CDN
 HOST-SUFFIX,images.vexels.com,CDN
 HOST-SUFFIX,img.haiwaikan.com,CDN
 HOST-SUFFIX,img.imoutomoe.net,CDN
+HOST-SUFFIX,img.novipnoad.com,CDN
+HOST-SUFFIX,img.novipnoad.net,CDN
+HOST-SUFFIX,img.novipnoad.xyz,CDN
 HOST-SUFFIX,img.picacomic.com,CDN
 HOST-SUFFIX,img.riskified.com,CDN
 HOST-SUFFIX,img2.gelbooru.com,CDN
@@ -2978,6 +2985,7 @@ HOST-SUFFIX,static.esimplus.net,CDN
 HOST-SUFFIX,static.euronews.com,CDN
 HOST-SUFFIX,static.formula1.com,CDN
 HOST-SUFFIX,static.getbutton.io,CDN
+HOST-SUFFIX,static.giffgaff.com,CDN
 HOST-SUFFIX,static.gigabyte.com,CDN
 HOST-SUFFIX,static.goaffpro.com,CDN
 HOST-SUFFIX,static.mendeley.com,CDN
