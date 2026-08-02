@@ -2476,6 +2476,7 @@ HOST-SUFFIX,cdn.convertbox.com,CDN
 HOST-SUFFIX,cdn.conveythis.com,CDN
 HOST-SUFFIX,cdn.datatables.net,CDN
 HOST-SUFFIX,cdn.delight-vr.com,CDN
+HOST-SUFFIX,cdn.dictionary.com,CDN
 HOST-SUFFIX,cdn.discordapp.com,CDN
 HOST-SUFFIX,cdn.document360.io,CDN
 HOST-SUFFIX,cdn.fourthwall.com,CDN
@@ -2828,6 +2829,7 @@ HOST-SUFFIX,cdn.sso.mozilla.com,CDN
 HOST-SUFFIX,cdn.starapps.studio,CDN
 HOST-SUFFIX,cdn.tailwindcss.com,CDN
 HOST-SUFFIX,cdn.theatlantic.com,CDN
+HOST-SUFFIX,cdn.theregister.com,CDN
 HOST-SUFFIX,cdn.thingiverse.com,CDN
 HOST-SUFFIX,cdn.trustedsite.com,CDN
 HOST-SUFFIX,cdn.webclicks24.com,CDN
@@ -3419,6 +3421,7 @@ HOST-SUFFIX,i.creativecommons.org,CDN
 HOST-SUFFIX,icms-image.slatic.net,CDN
 HOST-SUFFIX,image-cdn.porndig.com,CDN
 HOST-SUFFIX,image.ship.vercel.com,CDN
+HOST-SUFFIX,image.theregister.com,CDN
 HOST-SUFFIX,image.worthepenny.com,CDN
 HOST-SUFFIX,images-sports.now.com,CDN
 HOST-SUFFIX,images.contentful.com,CDN
