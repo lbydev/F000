@@ -1939,6 +1939,7 @@ HOST-SUFFIX,lm.visualon.info,CDN
 HOST-SUFFIX,magic.scalar.com,CDN
 HOST-SUFFIX,mangadex.network,CDN
 HOST-SUFFIX,maps.gstatic.com,CDN
+HOST-SUFFIX,maps.hereapi.com,CDN
 HOST-SUFFIX,maps.wplace.live,CDN
 HOST-SUFFIX,mcdns.vrporn.com,CDN
 HOST-SUFFIX,media-amazon.com,CDN
@@ -4321,6 +4322,7 @@ HOST-SUFFIX,checkout-sdk.bigcommerce.com,CDN
 HOST-SUFFIX,cms-assets.webediamovies.pro,CDN
 HOST-SUFFIX,code.buywithprime.amazon.com,CDN
 HOST-SUFFIX,components.cyclingfactory.be,CDN
+HOST-SUFFIX,connectcache20.azureedge.net,CDN
 HOST-SUFFIX,csp-reporting.cloudflare.com,CDN
 HOST-SUFFIX,doppler-config.cbsivideo.com,CDN
 HOST-SUFFIX,fastly-cloud.typenetwork.com,CDN
