@@ -3748,6 +3748,7 @@ HOST-SUFFIX,w-corp-staticblitz.com,CDN
 HOST-SUFFIX,weather.istatmenus.app,CDN
 HOST-SUFFIX,web-assets.zendesk.com,CDN
 HOST-SUFFIX,web-static.archive.org,CDN
+HOST-SUFFIX,webdist.data.apnic.net,CDN
 HOST-SUFFIX,website-media.deel.com,CDN
 HOST-SUFFIX,widget.prod.equally.ai,CDN
 HOST-SUFFIX,widgets.automizely.com,CDN
@@ -3941,6 +3942,7 @@ HOST-SUFFIX,assets.geeksforgeeks.org,CDN
 HOST-SUFFIX,assets.nationbuilder.com,CDN
 HOST-SUFFIX,assets.prowritingaid.com,CDN
 HOST-SUFFIX,assets.static-upwork.com,CDN
+HOST-SUFFIX,assets.trainingpeaks.com,CDN
 HOST-SUFFIX,assets10.lottiefiles.com,CDN
 HOST-SUFFIX,atl-global.atlassian.com,CDN
 HOST-SUFFIX,axiecdn.axieinfinity.com,CDN
