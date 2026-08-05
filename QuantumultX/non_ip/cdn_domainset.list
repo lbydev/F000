@@ -3066,6 +3066,7 @@ HOST-SUFFIX,assets.zerohedge.com,CDN
 HOST-SUFFIX,attach2.mobile01.com,CDN
 HOST-SUFFIX,avatars.dicebear.com,CDN
 HOST-SUFFIX,avatars.dzeninfra.ru,CDN
+HOST-SUFFIX,basemap.beacondb.net,CDN
 HOST-SUFFIX,bcdn.starapps.studio,CDN
 HOST-SUFFIX,bcmedia.bitchute.com,CDN
 HOST-SUFFIX,boards.greenhouse.io,CDN
@@ -3295,6 +3296,7 @@ HOST-SUFFIX,thecontentserver.com,CDN
 HOST-SUFFIX,thumbnail.missav.com,CDN
 HOST-SUFFIX,thumbnails.cbsig.net,CDN
 HOST-SUFFIX,tile.opentopomap.org,CDN
+HOST-SUFFIX,tiles.locationiq.com,CDN
 HOST-SUFFIX,tiles.mapterhorn.com,CDN
 HOST-SUFFIX,tiles.openseamap.org,CDN
 HOST-SUFFIX,tiles.openskimap.org,CDN
@@ -3340,6 +3342,7 @@ HOST-SUFFIX,assets.northflank.com,CDN
 HOST-SUFFIX,assets.sendinblue.com,CDN
 HOST-SUFFIX,assets.tatlerasia.com,CDN
 HOST-SUFFIX,assets.unicorn.studio,CDN
+HOST-SUFFIX,assets.unredacted.org,CDN
 HOST-SUFFIX,assets.vodafone.co.uk,CDN
 HOST-SUFFIX,assets0.headwayapp.co,CDN
 HOST-SUFFIX,badges.greenkeeper.io,CDN
@@ -3548,6 +3551,7 @@ HOST-SUFFIX,www-cdn.anthropic.com,CDN
 HOST-SUFFIX,www-res.cablelabs.com,CDN
 HOST-SUFFIX,yammerusercontent.com,CDN
 HOST-SUFFIX,3dna.nationbuilder.com,CDN
+HOST-SUFFIX,a-tiles.locationiq.com,CDN
 HOST-SUFFIX,account-cdn.svc.ui.com,CDN
 HOST-SUFFIX,api.pwnedpasswords.com,CDN
 HOST-SUFFIX,assets-cdn.abcnews.com,CDN
@@ -3571,8 +3575,10 @@ HOST-SUFFIX,avatar.stefanjudis.com,CDN
 HOST-SUFFIX,avatar2.bahamut.com.tw,CDN
 HOST-SUFFIX,avatars.mds.yandex.net,CDN
 HOST-SUFFIX,az700632.vo.msecnd.net,CDN
+HOST-SUFFIX,b-tiles.locationiq.com,CDN
 HOST-SUFFIX,backinstock.useamp.com,CDN
 HOST-SUFFIX,brick.a.ssl.fastly.net,CDN
+HOST-SUFFIX,c-tiles.locationiq.com,CDN
 HOST-SUFFIX,cache-05.filehippo.net,CDN
 HOST-SUFFIX,cached.rebuyengine.com,CDN
 HOST-SUFFIX,cdn-c.leavemealone.com,CDN
