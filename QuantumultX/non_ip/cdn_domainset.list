@@ -208,6 +208,7 @@ HOST-SUFFIX,angular.io,CDN
 HOST-SUFFIX,ant.design,CDN
 HOST-SUFFIX,aolcdn.com,CDN
 HOST-SUFFIX,avximg.com,CDN
+HOST-SUFFIX,awxcdn.com,CDN
 HOST-SUFFIX,badgen.net,CDN
 HOST-SUFFIX,balley.top,CDN
 HOST-SUFFIX,bblcdn.com,CDN
@@ -650,6 +651,7 @@ HOST-SUFFIX,e.linear.app,CDN
 HOST-SUFFIX,e3.365dm.com,CDN
 HOST-SUFFIX,eightcha.com,CDN
 HOST-SUFFIX,eslint.style,CDN
+HOST-SUFFIX,fast-sfc.com,CDN
 HOST-SUFFIX,favicone.com,CDN
 HOST-SUFFIX,fembeqv2.xyz,CDN
 HOST-SUFFIX,file.ahu.moe,CDN
@@ -2792,6 +2794,7 @@ HOST-SUFFIX,badges.frapsoft.com,CDN
 HOST-SUFFIX,before.good-apps.co,CDN
 HOST-SUFFIX,bundle.trysavvy.com,CDN
 HOST-SUFFIX,cdn-blocks.karte.io,CDN
+HOST-SUFFIX,cdn-city.livere.com,CDN
 HOST-SUFFIX,cdn-fck.tnaflix.com,CDN
 HOST-SUFFIX,cdn.amgreatness.com,CDN
 HOST-SUFFIX,cdn.announcekit.app,CDN
@@ -3350,6 +3353,7 @@ HOST-SUFFIX,banners.chessbase.com,CDN
 HOST-SUFFIX,beta.eslint-react.xyz,CDN
 HOST-SUFFIX,bundler.nice-team.net,CDN
 HOST-SUFFIX,c.speedtestcustom.com,CDN
+HOST-SUFFIX,cache.mapcomplete.org,CDN
 HOST-SUFFIX,cdn-client.medium.com,CDN
 HOST-SUFFIX,cdn-front.freepik.com,CDN
 HOST-SUFFIX,cdn-longterm.mee6.xyz,CDN
@@ -3737,6 +3741,7 @@ HOST-SUFFIX,tile.openstreetmap.bzh,CDN
 HOST-SUFFIX,tile.openstreetmap.org,CDN
 HOST-SUFFIX,tile.thunderforest.com,CDN
 HOST-SUFFIX,tile2.opencyclemap.org,CDN
+HOST-SUFFIX,tile3.opencyclemap.org,CDN
 HOST-SUFFIX,tiles.arcticconnect.ca,CDN
 HOST-SUFFIX,tiles.openstreetmap.us,CDN
 HOST-SUFFIX,tiles.virtualearth.net,CDN
@@ -4241,6 +4246,7 @@ HOST-SUFFIX,antiqua-ux-cdn.monotype.com,CDN
 HOST-SUFFIX,app-static-prod.posthog.com,CDN
 HOST-SUFFIX,article-image-ix.nikkei.com,CDN
 HOST-SUFFIX,assets.braintreegateway.com,CDN
+HOST-SUFFIX,assets.weather-forecast.com,CDN
 HOST-SUFFIX,cdn-lfs-us-1.huggingface.co,CDN
 HOST-SUFFIX,cdn-live.foreignaffairs.com,CDN
 HOST-SUFFIX,cdn-static-push.porndig.com,CDN
