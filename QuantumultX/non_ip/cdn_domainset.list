@@ -386,6 +386,7 @@ HOST-SUFFIX,am-cdn.pics,CDN
 HOST-SUFFIX,amaicdn.com,CDN
 HOST-SUFFIX,angular.dev,CDN
 HOST-SUFFIX,app-spm.com,CDN
+HOST-SUFFIX,app.shop.pe,CDN
 HOST-SUFFIX,at.cbsi.com,CDN
 HOST-SUFFIX,bdzybf7.com,CDN
 HOST-SUFFIX,bftuvip.com,CDN
@@ -585,6 +586,7 @@ HOST-SUFFIX,4everland.io,CDN
 HOST-SUFFIX,aimg.fc2.com,CDN
 HOST-SUFFIX,ajax.cat.net,CDN
 HOST-SUFFIX,apperoni.top,CDN
+HOST-SUFFIX,axis-cdn.net,CDN
 HOST-SUFFIX,b.peatio.com,CDN
 HOST-SUFFIX,b.sf-syn.com,CDN
 HOST-SUFFIX,badoocdn.com,CDN
@@ -887,6 +889,7 @@ HOST-SUFFIX,data.pendo.io,CDN
 HOST-SUFFIX,dd-static.net,CDN
 HOST-SUFFIX,disconnect.me,CDN
 HOST-SUFFIX,disquscdn.com,CDN
+HOST-SUFFIX,dm-static.com,CDN
 HOST-SUFFIX,doppiocdn.com,CDN
 HOST-SUFFIX,doppiocdn.net,CDN
 HOST-SUFFIX,doppiocdn.org,CDN
@@ -1179,6 +1182,7 @@ HOST-SUFFIX,cms.mistral.ai,CDN
 HOST-SUFFIX,cms.replit.com,CDN
 HOST-SUFFIX,codeforces.org,CDN
 HOST-SUFFIX,consent.dw.com,CDN
+HOST-SUFFIX,consent.fmm.io,CDN
 HOST-SUFFIX,cursor-cdn.com,CDN
 HOST-SUFFIX,d.newsweek.com,CDN
 HOST-SUFFIX,dc-cdn.cdw.com,CDN
@@ -1225,6 +1229,7 @@ HOST-SUFFIX,image.goat.com,CDN
 HOST-SUFFIX,image.nmb.best,CDN
 HOST-SUFFIX,image.tmdb.org,CDN
 HOST-SUFFIX,images.991.com,CDN
+HOST-SUFFIX,images.gog.com,CDN
 HOST-SUFFIX,images.loox.io,CDN
 HOST-SUFFIX,images.rss.app,CDN
 HOST-SUFFIX,images.spot.im,CDN
@@ -1345,6 +1350,7 @@ HOST-SUFFIX,static.fc2.com,CDN
 HOST-SUFFIX,static.itch.io,CDN
 HOST-SUFFIX,static.j51.net,CDN
 HOST-SUFFIX,static.lwn.net,CDN
+HOST-SUFFIX,static.okx.cab,CDN
 HOST-SUFFIX,static.okx.com,CDN
 HOST-SUFFIX,static.reo.dev,CDN
 HOST-SUFFIX,static.snyk.io,CDN
@@ -1392,6 +1398,7 @@ HOST-SUFFIX,a.storyblok.com,CDN
 HOST-SUFFIX,a57.foxnews.com,CDN
 HOST-SUFFIX,abebookscdn.com,CDN
 HOST-SUFFIX,addons.business,CDN
+HOST-SUFFIX,aexp-static.com,CDN
 HOST-SUFFIX,ancestrycdn.com,CDN
 HOST-SUFFIX,api.bintray.com,CDN
 HOST-SUFFIX,api.weather.com,CDN
@@ -1402,6 +1409,7 @@ HOST-SUFFIX,assets.bbhub.io,CDN
 HOST-SUFFIX,assets.canny.io,CDN
 HOST-SUFFIX,assets.cello.so,CDN
 HOST-SUFFIX,assets.clibo.tw,CDN
+HOST-SUFFIX,assets.game8.co,CDN
 HOST-SUFFIX,assets.goat.com,CDN
 HOST-SUFFIX,assets.habr.com,CDN
 HOST-SUFFIX,assets.jable.tv,CDN
@@ -1546,6 +1554,7 @@ HOST-SUFFIX,fonts.upset.dev,CDN
 HOST-SUFFIX,gannett-cdn.com,CDN
 HOST-SUFFIX,gauthstatic.com,CDN
 HOST-SUFFIX,gdb.voanews.com,CDN
+HOST-SUFFIX,gog-statics.com,CDN
 HOST-SUFFIX,hello.zonos.com,CDN
 HOST-SUFFIX,himeko.iwara.tv,CDN
 HOST-SUFFIX,hsappstatic.net,CDN
@@ -1871,6 +1880,7 @@ HOST-SUFFIX,glyph.medium.com,CDN
 HOST-SUFFIX,gravatar.cat.net,CDN
 HOST-SUFFIX,htv-hydaelyn.com,CDN
 HOST-SUFFIX,hubspotlinks.com,CDN
+HOST-SUFFIX,i.skiplagged.com,CDN
 HOST-SUFFIX,i2.hentaifox.com,CDN
 HOST-SUFFIX,ichef.bbci.co.uk,CDN
 HOST-SUFFIX,icon.icepanel.io,CDN
@@ -2245,6 +2255,7 @@ HOST-SUFFIX,hawky.pcgamer.com,CDN
 HOST-SUFFIX,highwinds-cdn.com,CDN
 HOST-SUFFIX,i.dailymail.co.uk,CDN
 HOST-SUFFIX,i.kickstarter.com,CDN
+HOST-SUFFIX,i.macsecurity.net,CDN
 HOST-SUFFIX,i.mydramalist.com,CDN
 HOST-SUFFIX,i2.bahamut.com.tw,CDN
 HOST-SUFFIX,icdn.missav123.to,CDN
@@ -2379,6 +2390,7 @@ HOST-SUFFIX,static.mega.co.nz,CDN
 HOST-SUFFIX,static.meiguo.com,CDN
 HOST-SUFFIX,static.missav.com,CDN
 HOST-SUFFIX,static.moomoo.com,CDN
+HOST-SUFFIX,static.mul-pay.jp,CDN
 HOST-SUFFIX,static.oklink.com,CDN
 HOST-SUFFIX,static.oracle.com,CDN
 HOST-SUFFIX,static.peatio.com,CDN
@@ -2781,6 +2793,7 @@ HOST-SUFFIX,assets.queue-it.net,CDN
 HOST-SUFFIX,assets.quillbot.com,CDN
 HOST-SUFFIX,assets.scaleway.com,CDN
 HOST-SUFFIX,assets.stickpng.com,CDN
+HOST-SUFFIX,assets.swiftkey.com,CDN
 HOST-SUFFIX,assets.tvtropes.org,CDN
 HOST-SUFFIX,assets.unifi-ai.com,CDN
 HOST-SUFFIX,assets2.blubrry.com,CDN
@@ -2792,6 +2805,7 @@ HOST-SUFFIX,badbits.dwebops.pub,CDN
 HOST-SUFFIX,badge.buildkite.com,CDN
 HOST-SUFFIX,badges.frapsoft.com,CDN
 HOST-SUFFIX,before.good-apps.co,CDN
+HOST-SUFFIX,buildkiteassets.com,CDN
 HOST-SUFFIX,bundle.trysavvy.com,CDN
 HOST-SUFFIX,cdn-blocks.karte.io,CDN
 HOST-SUFFIX,cdn-city.livere.com,CDN
@@ -3348,6 +3362,11 @@ HOST-SUFFIX,assets.unicorn.studio,CDN
 HOST-SUFFIX,assets.unredacted.org,CDN
 HOST-SUFFIX,assets.vodafone.co.uk,CDN
 HOST-SUFFIX,assets0.headwayapp.co,CDN
+HOST-SUFFIX,assets2.freshdesk.com,CDN
+HOST-SUFFIX,assets3.freshdesk.com,CDN
+HOST-SUFFIX,assets5.freshdesk.com,CDN
+HOST-SUFFIX,assets7.freshdesk.com,CDN
+HOST-SUFFIX,assets9.freshdesk.com,CDN
 HOST-SUFFIX,badges.greenkeeper.io,CDN
 HOST-SUFFIX,banners.chessbase.com,CDN
 HOST-SUFFIX,beta.eslint-react.xyz,CDN
@@ -3574,6 +3593,7 @@ HOST-SUFFIX,assets.squarespace.com,CDN
 HOST-SUFFIX,assets.tangled.network,CDN
 HOST-SUFFIX,assets.transfernow.net,CDN
 HOST-SUFFIX,assets.video.yahoo.net,CDN
+HOST-SUFFIX,assets10.freshdesk.com,CDN
 HOST-SUFFIX,attachments.office.net,CDN
 HOST-SUFFIX,avatar.stefanjudis.com,CDN
 HOST-SUFFIX,avatar2.bahamut.com.tw,CDN
@@ -3947,6 +3967,7 @@ HOST-SUFFIX,appstatico.electronic.us,CDN
 HOST-SUFFIX,assets-docs.circleci.com,CDN
 HOST-SUFFIX,assets-next.matters.news,CDN
 HOST-SUFFIX,assets.as2.amazonaws.com,CDN
+HOST-SUFFIX,assets.create.roblox.com,CDN
 HOST-SUFFIX,assets.cyberghostvpn.com,CDN
 HOST-SUFFIX,assets.documentcloud.org,CDN
 HOST-SUFFIX,assets.geeksforgeeks.org,CDN
@@ -3958,6 +3979,7 @@ HOST-SUFFIX,assets10.lottiefiles.com,CDN
 HOST-SUFFIX,atl-global.atlassian.com,CDN
 HOST-SUFFIX,axiecdn.axieinfinity.com,CDN
 HOST-SUFFIX,brick.freetls.fastly.net,CDN
+HOST-SUFFIX,buildkiteusercontent.com,CDN
 HOST-SUFFIX,bundle.thimatic-apps.com,CDN
 HOST-SUFFIX,cache.omnicalculator.com,CDN
 HOST-SUFFIX,cdn-image01.casetify.com,CDN
@@ -4354,6 +4376,7 @@ HOST-SUFFIX,ohttp-relay1.fastly-edge.com,CDN
 HOST-SUFFIX,p16-hera-sg.larksuitecdn.com,CDN
 HOST-SUFFIX,p16-hera-va.larksuitecdn.com,CDN
 HOST-SUFFIX,pg2dhpc3p5ec22g3.jkforum.net,CDN
+HOST-SUFFIX,privacyguidesusercontent.com,CDN
 HOST-SUFFIX,renderer-assets.typeform.com,CDN
 HOST-SUFFIX,sf19-scmcdn.larksuitecdn.com,CDN
 HOST-SUFFIX,social-reaction-api.hk01.com,CDN
@@ -4401,6 +4424,7 @@ HOST-SUFFIX,mozilla-ohttp.fastly-edge.com,CDN
 HOST-SUFFIX,na-library.klarnaservices.com,CDN
 HOST-SUFFIX,oct8neproxy.azurewebsites.net,CDN
 HOST-SUFFIX,pic-bstarstatic.akamaized.net,CDN
+HOST-SUFFIX,prod.docsiteassets.roblox.com,CDN
 HOST-SUFFIX,public-assets.postmarkapp.com,CDN
 HOST-SUFFIX,resources.help.salesforce.com,CDN
 HOST-SUFFIX,s3.eu-central-2.wasabisys.com,CDN
@@ -4523,6 +4547,7 @@ HOST-SUFFIX,wre-assets.prod.mapping.strava.com,CDN
 HOST-SUFFIX,blade-public-static.blade-group.com,CDN
 HOST-SUFFIX,ecommplugins-scripts.trustpilot.com,CDN
 HOST-SUFFIX,firebaseremoteconfig.googleapis.com,CDN
+HOST-SUFFIX,gamesapps-assets.ghub.logitechg.com,CDN
 HOST-SUFFIX,ledger-wp-website-s3-prd.ledger.com,CDN
 HOST-SUFFIX,listing-thumbnail.live.nicovideo.jp,CDN
 HOST-SUFFIX,optimizationguide-pa.googleapis.com,CDN
@@ -4533,6 +4558,7 @@ HOST-SUFFIX,stubdownloader.services.mozilla.com,CDN
 HOST-SUFFIX,cf-images.us-east-1.prod.boltdns.net,CDN
 HOST-SUFFIX,content-prod-live.cert.starbucks.com,CDN
 HOST-SUFFIX,crashlyticsreports-pa.googleapis.com,CDN
+HOST-SUFFIX,crossborder-integration.global-e.com,CDN
 HOST-SUFFIX,firebaseinstallations.googleapis.com,CDN
 HOST-SUFFIX,interactive-examples.mdn.mozilla.net,CDN
 HOST-SUFFIX,pro2-ui-assets-s3-fy.myportfolio.com,CDN
