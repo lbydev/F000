@@ -11,6 +11,7 @@ HOST-KEYWORD,dsn.algolia.net,CDN
 HOST-KEYWORD,-thumbs.pornhost.com,CDN
 HOST-KEYWORD,-cdn.eporner.com,CDN
 HOST-KEYWORD,cdn.adultempire.com,CDN
+HOST-KEYWORD,-assets.dmm.co.jp,CDN
 HOST-KEYWORD,static.trustpilot.com,CDN
 HOST-KEYWORD,scripts.trustpilot.com,CDN
 HOST-KEYWORD,images.trustpilot.com,CDN
@@ -61,6 +62,7 @@ HOST-WILDCARD,blog-imgs-??.2nt.com,CDN
 HOST-WILDCARD,blog-imgs-??.fc2.com,CDN
 HOST-WILDCARD,rr?---??.ouo.si,CDN
 HOST-WILDCARD,s3-*.figma.com,CDN
+HOST-WILDCARD,cdn.*.dmm.co.jp,CDN
 HOST-WILDCARD,*.kuaikan-cdn?.com,CDN
 HOST-WILDCARD,*.fsvod?.com,CDN
 HOST-WILDCARD,image*.cloudokyo.cloud,CDN
