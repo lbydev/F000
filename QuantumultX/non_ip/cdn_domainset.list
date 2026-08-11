@@ -482,6 +482,7 @@ HOST-SUFFIX,imagehub.cc,CDN
 HOST-SUFFIX,img.agrd.eu,CDN
 HOST-SUFFIX,img.skk.moe,CDN
 HOST-SUFFIX,img.toto.im,CDN
+HOST-SUFFIX,imgcdn8.com,CDN
 HOST-SUFFIX,imgikzy.com,CDN
 HOST-SUFFIX,imglink.win,CDN
 HOST-SUFFIX,imgsmail.ru,CDN
@@ -1298,6 +1299,7 @@ HOST-SUFFIX,nelreports.net,CDN
 HOST-SUFFIX,newscdn.com.au,CDN
 HOST-SUFFIX,nincontent.com,CDN
 HOST-SUFFIX,ninjastream.to,CDN
+HOST-SUFFIX,node.windy.com,CDN
 HOST-SUFFIX,null.jsbin.com,CDN
 HOST-SUFFIX,optimizely.com,CDN
 HOST-SUFFIX,patientpop.com,CDN
@@ -1549,6 +1551,7 @@ HOST-SUFFIX,fontawesome.com,CDN
 HOST-SUFFIX,fonts.bunny.net,CDN
 HOST-SUFFIX,fonts.gishan.cc,CDN
 HOST-SUFFIX,fonts.upset.dev,CDN
+HOST-SUFFIX,fonts.wd40.info,CDN
 HOST-SUFFIX,gannett-cdn.com,CDN
 HOST-SUFFIX,gauthstatic.com,CDN
 HOST-SUFFIX,gdb.voanews.com,CDN
@@ -1607,6 +1610,7 @@ HOST-SUFFIX,media.giphy.com,CDN
 HOST-SUFFIX,media.licdn.com,CDN
 HOST-SUFFIX,media.smooch.io,CDN
 HOST-SUFFIX,media.tenor.com,CDN
+HOST-SUFFIX,media.wd40.asia,CDN
 HOST-SUFFIX,media.webtoo.ls,CDN
 HOST-SUFFIX,media.wired.com,CDN
 HOST-SUFFIX,metrics.kapa.ai,CDN
@@ -1766,6 +1770,7 @@ HOST-SUFFIX,bootstrapcdn.com,CDN
 HOST-SUFFIX,bugly.qcloud.com,CDN
 HOST-SUFFIX,bundlephobia.com,CDN
 HOST-SUFFIX,cache.ip-api.com,CDN
+HOST-SUFFIX,cache.sgvafs.com,CDN
 HOST-SUFFIX,capcutstatic.com,CDN
 HOST-SUFFIX,cdn-1.porn87.com,CDN
 HOST-SUFFIX,cdn-1.strava.com,CDN
@@ -1871,6 +1876,7 @@ HOST-SUFFIX,gateway.scarf.sh,CDN
 HOST-SUFFIX,getaroom-cdn.com,CDN
 HOST-SUFFIX,gis.pinkbike.org,CDN
 HOST-SUFFIX,githubassets.com,CDN
+HOST-SUFFIX,githubstatus.com,CDN
 HOST-SUFFIX,glass.adidas.com,CDN
 HOST-SUFFIX,glyph.medium.com,CDN
 HOST-SUFFIX,gravatar.cat.net,CDN
@@ -2401,6 +2407,8 @@ HOST-SUFFIX,static.tumblr.com,CDN
 HOST-SUFFIX,static.vinted.com,CDN
 HOST-SUFFIX,static.vocadb.net,CDN
 HOST-SUFFIX,static.zaobao.com,CDN
+HOST-SUFFIX,status.claude.com,CDN
+HOST-SUFFIX,status.openai.com,CDN
 HOST-SUFFIX,stbff.newfold.com,CDN
 HOST-SUFFIX,steemitimages.com,CDN
 HOST-SUFFIX,storage.ko-fi.com,CDN
@@ -2583,6 +2591,7 @@ HOST-SUFFIX,img.4gamers.com.tw,CDN
 HOST-SUFFIX,img.fastcybers.com,CDN
 HOST-SUFFIX,img.hellofresh.com,CDN
 HOST-SUFFIX,img.sparknotes.com,CDN
+HOST-SUFFIX,imgproxy.windy.com,CDN
 HOST-SUFFIX,imgrs.apkcombo.com,CDN
 HOST-SUFFIX,imgs3.hcaptcha.com,CDN
 HOST-SUFFIX,intercomassets.com,CDN
@@ -3144,6 +3153,7 @@ HOST-SUFFIX,cdn9.bigcommerce.com,CDN
 HOST-SUFFIX,cdnjs.cloudflare.com,CDN
 HOST-SUFFIX,chart.googleapis.com,CDN
 HOST-SUFFIX,cloud.influxdata.com,CDN
+HOST-SUFFIX,cloudflarestatus.com,CDN
 HOST-SUFFIX,cloudflarestream.com,CDN
 HOST-SUFFIX,cloudinary.vpsvc.com,CDN
 HOST-SUFFIX,cms.socialinsider.io,CDN
@@ -3360,6 +3370,7 @@ HOST-SUFFIX,assets.sendinblue.com,CDN
 HOST-SUFFIX,assets.tatlerasia.com,CDN
 HOST-SUFFIX,assets.unicorn.studio,CDN
 HOST-SUFFIX,assets.unredacted.org,CDN
+HOST-SUFFIX,assets.userstyles.org,CDN
 HOST-SUFFIX,assets.vodafone.co.uk,CDN
 HOST-SUFFIX,assets0.headwayapp.co,CDN
 HOST-SUFFIX,assets2.freshdesk.com,CDN
