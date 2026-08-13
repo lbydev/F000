@@ -409,6 +409,7 @@ HOST-SUFFIX,cdn.css.net,CDN
 HOST-SUFFIX,cdn.cuty.io,CDN
 HOST-SUFFIX,cdn.fera.ai,CDN
 HOST-SUFFIX,cdn.gist.ai,CDN
+HOST-SUFFIX,cdn.id.life,CDN
 HOST-SUFFIX,cdn.mer.run,CDN
 HOST-SUFFIX,cdn.mida.so,CDN
 HOST-SUFFIX,cdn.nba.com,CDN
@@ -1447,6 +1448,7 @@ HOST-SUFFIX,cdn.adguard.com,CDN
 HOST-SUFFIX,cdn.adsninja.ca,CDN
 HOST-SUFFIX,cdn.apponic.com,CDN
 HOST-SUFFIX,cdn.aptoide.com,CDN
+HOST-SUFFIX,cdn.bitrix24.eu,CDN
 HOST-SUFFIX,cdn.bsky.social,CDN
 HOST-SUFFIX,cdn.craft.cloud,CDN
 HOST-SUFFIX,cdn.daradara.me,CDN
@@ -2280,6 +2282,7 @@ HOST-SUFFIX,imagedelivery.net,CDN
 HOST-SUFFIX,images-amazon.com,CDN
 HOST-SUFFIX,images.carfax.com,CDN
 HOST-SUFFIX,images.mattel.net,CDN
+HOST-SUFFIX,images.motion.dev,CDN
 HOST-SUFFIX,images.now-tv.com,CDN
 HOST-SUFFIX,images.nvidia.com,CDN
 HOST-SUFFIX,images.pexels.com,CDN
@@ -2368,6 +2371,7 @@ HOST-SUFFIX,signal.cdnbye.com,CDN
 HOST-SUFFIX,simplecastcdn.com,CDN
 HOST-SUFFIX,slidesharecdn.com,CDN
 HOST-SUFFIX,sp.streamlabs.com,CDN
+HOST-SUFFIX,spaceship-cdn.com,CDN
 HOST-SUFFIX,st.codeforces.com,CDN
 HOST-SUFFIX,st.deviantart.net,CDN
 HOST-SUFFIX,static-id.fc2.com,CDN
@@ -3296,6 +3300,7 @@ HOST-SUFFIX,static.incapsula.com,CDN
 HOST-SUFFIX,static.infomaniak.ch,CDN
 HOST-SUFFIX,static.macupdate.com,CDN
 HOST-SUFFIX,static.mediafire.com,CDN
+HOST-SUFFIX,static.meteoblue.com,CDN
 HOST-SUFFIX,static.mocortech.com,CDN
 HOST-SUFFIX,static.newsbreak.com,CDN
 HOST-SUFFIX,static.parallels.com,CDN
@@ -4237,6 +4242,7 @@ HOST-SUFFIX,images3.cmp.optimizely.com,CDN
 HOST-SUFFIX,images4.cmp.optimizely.com,CDN
 HOST-SUFFIX,imgssl.constantcontact.com,CDN
 HOST-SUFFIX,launchercontent.mojang.com,CDN
+HOST-SUFFIX,maps-api-cdn.meteoblue.com,CDN
 HOST-SUFFIX,mgx-backend-cdn.metadl.com,CDN
 HOST-SUFFIX,mobilecenter.azureedge.net,CDN
 HOST-SUFFIX,myanalytics.cdn.office.net,CDN
