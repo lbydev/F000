@@ -1270,6 +1270,7 @@ HOST-SUFFIX,imgikuncdn.com,CDN
 HOST-SUFFIX,imgs.plurk.com,CDN
 HOST-SUFFIX,imgsrc.dmm.com,CDN
 HOST-SUFFIX,infura-ipfs.io,CDN
+HOST-SUFFIX,insightcdn.net,CDN
 HOST-SUFFIX,int.mwbbiz.com,CDN
 HOST-SUFFIX,intercomcdn.io,CDN
 HOST-SUFFIX,ipfs.infura.io,CDN
@@ -3281,6 +3282,7 @@ HOST-SUFFIX,shell.cdn.office.net,CDN
 HOST-SUFFIX,sigma9.scpwikicn.com,CDN
 HOST-SUFFIX,snippet.growsumo.com,CDN
 HOST-SUFFIX,spreadshirtmedia.com,CDN
+HOST-SUFFIX,sso-static.razer.com,CDN
 HOST-SUFFIX,static-act.imoim.net,CDN
 HOST-SUFFIX,static-cdn.123rf.com,CDN
 HOST-SUFFIX,static-cdn.jtvnw.net,CDN
