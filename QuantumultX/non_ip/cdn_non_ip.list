@@ -22,8 +22,6 @@ HOST-KEYWORD,-assets.worldsex.com,CDN
 HOST-KEYWORD,-thumbs.worldsex.com,CDN
 HOST-KEYWORD,99avcdn,CDN
 HOST-KEYWORD,-images.disco-api.com,CDN
-HOST-KEYWORD,vdownload.hanime1,CDN
-HOST-KEYWORD,fonts.hanime1,CDN
 HOST-KEYWORD,static.grammarly.com,CDN
 HOST-WILDCARD,cdn.*.office.net,CDN
 HOST-WILDCARD,cdn.*.microsoft.com,CDN
@@ -77,7 +75,6 @@ HOST-WILDCARD,*.skyearth?.xyz,CDN
 HOST-WILDCARD,*.img.*.sendibm?.com,CDN
 HOST-WILDCARD,cdn?.18girlssex.com,CDN
 HOST-WILDCARD,uploads-*.insided.com,CDN
-HOST-WILDCARD,s*.hanime1,CDN
 HOST-WILDCARD,img-*.now.com,CDN
 HOST-WILDCARD,assets.*.imaga.co,CDN
 HOST-WILDCARD,cdn*.pigav.com,CDN
