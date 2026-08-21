@@ -541,7 +541,6 @@ HOST-SUFFIX,reactjs.org,CDN
 HOST-SUFFIX,s.gishan.cc,CDN
 HOST-SUFFIX,s.imgur.com,CDN
 HOST-SUFFIX,s.plurk.com,CDN
-HOST-SUFFIX,s3.aaaaa.io,CDN
 HOST-SUFFIX,s3.masto.ai,CDN
 HOST-SUFFIX,skypack.dev,CDN
 HOST-SUFFIX,smilecdn.co,CDN
@@ -1468,6 +1467,7 @@ HOST-SUFFIX,cdn.iporntv.net,CDN
 HOST-SUFFIX,cdn.javmiku.com,CDN
 HOST-SUFFIX,cdn.jetboost.io,CDN
 HOST-SUFFIX,cdn.jolipage.co,CDN
+HOST-SUFFIX,cdn.leonardo.ai,CDN
 HOST-SUFFIX,cdn.mathjax.org,CDN
 HOST-SUFFIX,cdn.mcp-use.com,CDN
 HOST-SUFFIX,cdn.mercury.com,CDN
@@ -1554,6 +1554,7 @@ HOST-SUFFIX,firebaseapp.com,CDN
 HOST-SUFFIX,fontawesome.com,CDN
 HOST-SUFFIX,fonts.bunny.net,CDN
 HOST-SUFFIX,fonts.gishan.cc,CDN
+HOST-SUFFIX,fonts.reown.com,CDN
 HOST-SUFFIX,fonts.upset.dev,CDN
 HOST-SUFFIX,fonts.wd40.info,CDN
 HOST-SUFFIX,gannett-cdn.com,CDN
@@ -1664,7 +1665,6 @@ HOST-SUFFIX,sprig.figma.com,CDN
 HOST-SUFFIX,ssl.gstatic.com,CDN
 HOST-SUFFIX,stack.imgur.com,CDN
 HOST-SUFFIX,stackassets.com,CDN
-HOST-SUFFIX,static.bad.news,CDN
 HOST-SUFFIX,static.blip.net,CDN
 HOST-SUFFIX,static.fboom.me,CDN
 HOST-SUFFIX,static.ietf.org,CDN
@@ -1800,6 +1800,7 @@ HOST-SUFFIX,cdn.equalweb.com,CDN
 HOST-SUFFIX,cdn.firebase.com,CDN
 HOST-SUFFIX,cdn.foxycart.com,CDN
 HOST-SUFFIX,cdn.getkoala.com,CDN
+HOST-SUFFIX,cdn.getmerlin.in,CDN
 HOST-SUFFIX,cdn.ghostery.com,CDN
 HOST-SUFFIX,cdn.gofundme.com,CDN
 HOST-SUFFIX,cdn.hashnode.com,CDN
@@ -2466,7 +2467,6 @@ HOST-SUFFIX,assets.jolipage.co,CDN
 HOST-SUFFIX,assets.mailgun.com,CDN
 HOST-SUFFIX,assets.nflxext.com,CDN
 HOST-SUFFIX,assets.nxtrace.org,CDN
-HOST-SUFFIX,assets.onestore.ms,CDN
 HOST-SUFFIX,assets.ontrack.com,CDN
 HOST-SUFFIX,assets.pingone.com,CDN
 HOST-SUFFIX,assets.porndig.com,CDN
@@ -2498,7 +2498,6 @@ HOST-SUFFIX,cdn.boldmethod.com,CDN
 HOST-SUFFIX,cdn.britannica.com,CDN
 HOST-SUFFIX,cdn.bullwhip.cloud,CDN
 HOST-SUFFIX,cdn.cmcmarkets.com,CDN
-HOST-SUFFIX,cdn.commandbar.com,CDN
 HOST-SUFFIX,cdn.contentful.com,CDN
 HOST-SUFFIX,cdn.convertbox.com,CDN
 HOST-SUFFIX,cdn.conveythis.com,CDN
@@ -4160,6 +4159,7 @@ HOST-SUFFIX,push.services.mozilla.com,CDN
 HOST-SUFFIX,ravencoinipfs-gateway.com,CDN
 HOST-SUFFIX,report-uri.cloudflare.com,CDN
 HOST-SUFFIX,resource.tnlmediagene.com,CDN
+HOST-SUFFIX,s3.beta.coinmarketcap.com,CDN
 HOST-SUFFIX,scripts.scriptwrapper.com,CDN
 HOST-SUFFIX,simplicity.trustpilot.com,CDN
 HOST-SUFFIX,smartscreen.microsoft.com,CDN
@@ -4588,7 +4588,6 @@ HOST-SUFFIX,cdn-yotpo-images-production.yotpo.com,CDN
 HOST-SUFFIX,cdn.us-east-1.prod.moon.dubai.aws.dev,CDN
 HOST-SUFFIX,content-storage-upload.googleapis.com,CDN
 HOST-SUFFIX,firefox.settings.services.mozilla.com,CDN
-HOST-SUFFIX,frames-commandbar-prod.commandbar.com,CDN
 HOST-SUFFIX,frontend-apps-multi-region.workos.com,CDN
 HOST-SUFFIX,pplx-next-static-public.perplexity.ai,CDN
 HOST-SUFFIX,prod-packager-packages.codesandbox.io,CDN
