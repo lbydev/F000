@@ -904,6 +904,7 @@ HOST-SUFFIX,emotivecdn.io,CDN
 HOST-SUFFIX,ensighten.com,CDN
 HOST-SUFFIX,eu.cdnbye.com,CDN
 HOST-SUFFIX,fastlycdn.com,CDN
+HOST-SUFFIX,fe.indazn.com,CDN
 HOST-SUFFIX,feedercdn.com,CDN
 HOST-SUFFIX,fiverrcdn.com,CDN
 HOST-SUFFIX,flagpedia.net,CDN
@@ -2391,6 +2392,7 @@ HOST-SUFFIX,static.codepen.io,CDN
 HOST-SUFFIX,static.cracked.ax,CDN
 HOST-SUFFIX,static.cracked.sh,CDN
 HOST-SUFFIX,static.crypto.com,CDN
+HOST-SUFFIX,static.dazndn.com,CDN
 HOST-SUFFIX,static.flickr.com,CDN
 HOST-SUFFIX,static.frame.work,CDN
 HOST-SUFFIX,static.garmin.com,CDN
@@ -4235,6 +4237,7 @@ HOST-SUFFIX,hackerone-user-content.com,CDN
 HOST-SUFFIX,hubspotusercontent-eu1.net,CDN
 HOST-SUFFIX,hubspotusercontent-na1.net,CDN
 HOST-SUFFIX,idportal-cdn-prd.unity.com,CDN
+HOST-SUFFIX,image.discovery.indazn.com,CDN
 HOST-SUFFIX,images.applegamingwiki.com,CDN
 HOST-SUFFIX,images.ecomm.microsoft.com,CDN
 HOST-SUFFIX,images.financemagnates.com,CDN
@@ -4525,6 +4528,7 @@ HOST-SUFFIX,b5x-sentry.1passwordservices.com,CDN
 HOST-SUFFIX,cmtycdn.powerpages.microsoft.com,CDN
 HOST-SUFFIX,commondatastorage.googleapis.com,CDN
 HOST-SUFFIX,crash-reports.browser.yandex.net,CDN
+HOST-SUFFIX,dazn-content-proxy.sd.indazn.com,CDN
 HOST-SUFFIX,detectportal.brave-http-only.com,CDN
 HOST-SUFFIX,edge-mobile-static.azureedge.net,CDN
 HOST-SUFFIX,nbcnewsdigital-static.nbcuni.com,CDN
@@ -4576,6 +4580,7 @@ HOST-SUFFIX,static-assets-prod.unrealengine.com,CDN
 HOST-SUFFIX,stubdownloader.services.mozilla.com,CDN
 HOST-SUFFIX,cf-images.us-east-1.prod.boltdns.net,CDN
 HOST-SUFFIX,content-prod-live.cert.starbucks.com,CDN
+HOST-SUFFIX,contentful-asset-proxy.sd.indazn.com,CDN
 HOST-SUFFIX,crashlyticsreports-pa.googleapis.com,CDN
 HOST-SUFFIX,crossborder-integration.global-e.com,CDN
 HOST-SUFFIX,firebaseinstallations.googleapis.com,CDN
