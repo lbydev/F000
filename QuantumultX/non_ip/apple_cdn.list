@@ -114,6 +114,7 @@ HOST-SUFFIX,seed-swallow.siri.apple.com,Apple_CDN
 HOST-SUFFIX,store.apple.com.edgekey.net,Apple_CDN
 HOST-SUFFIX,swdist.apple.com.akadns.net,Apple_CDN
 HOST-SUFFIX,download.developer.apple.com,Apple_CDN
+HOST-SUFFIX,gspe11-2-cn-ssl.ls.apple.com,Apple_CDN
 HOST-SUFFIX,gspe19-2-cn-ssl.ls.apple.com,Apple_CDN
 HOST-SUFFIX,iosapps.itunes.g.aaplimg.com,Apple_CDN
 HOST-SUFFIX,osxapps.itunes.g.aaplimg.com,Apple_CDN
