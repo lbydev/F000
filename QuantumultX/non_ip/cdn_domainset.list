@@ -4574,6 +4574,7 @@ HOST-SUFFIX,assets.brightspot.abebooks.a2z.com,CDN
 HOST-SUFFIX,categoriespages-cdn.trustpilot.net,CDN
 HOST-SUFFIX,cdn-a.sonyentertainmentnetwork.com,CDN
 HOST-SUFFIX,cdn.prod.ext.web.purview.azure.com,CDN
+HOST-SUFFIX,client-log-forwarder.1password.com,CDN
 HOST-SUFFIX,consumersite-assets.trustpilot.net,CDN
 HOST-SUFFIX,content-management-files.canva.com,CDN
 HOST-SUFFIX,disco-static.productessentials.app,CDN
