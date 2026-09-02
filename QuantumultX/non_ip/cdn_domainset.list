@@ -153,6 +153,7 @@ HOST-SUFFIX,lencr.org,CDN
 HOST-SUFFIX,m.wsj.net,CDN
 HOST-SUFFIX,missuo.ru,CDN
 HOST-SUFFIX,mlcdn.com,CDN
+HOST-SUFFIX,mqcdn.com,CDN
 HOST-SUFFIX,nest.land,CDN
 HOST-SUFFIX,npmfs.com,CDN
 HOST-SUFFIX,nsimg.net,CDN
@@ -1004,6 +1005,7 @@ HOST-SUFFIX,media.orz.uno,CDN
 HOST-SUFFIX,media2.dev.to,CDN
 HOST-SUFFIX,myvideos.info,CDN
 HOST-SUFFIX,nhentaimg.com,CDN
+HOST-SUFFIX,nodeimage.com,CDN
 HOST-SUFFIX,npm.antfu.dev,CDN
 HOST-SUFFIX,oaistatic.com,CDN
 HOST-SUFFIX,oculuscdn.com,CDN
@@ -1283,6 +1285,7 @@ HOST-SUFFIX,js.jotform.com,CDN
 HOST-SUFFIX,js.pngtree.com,CDN
 HOST-SUFFIX,js.recurly.com,CDN
 HOST-SUFFIX,js.rtoaster.jp,CDN
+HOST-SUFFIX,layers.mapq.st,CDN
 HOST-SUFFIX,lc.nssurge.com,CDN
 HOST-SUFFIX,liangzipic.com,CDN
 HOST-SUFFIX,live-video.net,CDN
@@ -1495,6 +1498,7 @@ HOST-SUFFIX,cdn.sphlabs.com,CDN
 HOST-SUFFIX,cdn.st-note.com,CDN
 HOST-SUFFIX,cdn.svgator.com,CDN
 HOST-SUFFIX,cdn.svgporn.com,CDN
+HOST-SUFFIX,cdn.system1.com,CDN
 HOST-SUFFIX,cdn.termius.com,CDN
 HOST-SUFFIX,cdn.uptimia.com,CDN
 HOST-SUFFIX,cdn.userway.org,CDN
@@ -2182,7 +2186,6 @@ HOST-SUFFIX,cdn.joypixels.com,CDN
 HOST-SUFFIX,cdn.lgrckt-in.com,CDN
 HOST-SUFFIX,cdn.lineicons.com,CDN
 HOST-SUFFIX,cdn.miohentai.com,CDN
-HOST-SUFFIX,cdn.nodeimage.com,CDN
 HOST-SUFFIX,cdn.onesignal.com,CDN
 HOST-SUFFIX,cdn.pagerduty.com,CDN
 HOST-SUFFIX,cdn.permutive.com,CDN
@@ -2749,6 +2752,7 @@ HOST-SUFFIX,upload.teftera.com,CDN
 HOST-SUFFIX,uploads.guim.co.uk,CDN
 HOST-SUFFIX,uploads.linear.app,CDN
 HOST-SUFFIX,v2uploads.zopim.io,CDN
+HOST-SUFFIX,vector.hereapi.com,CDN
 HOST-SUFFIX,video3.mingpao.com,CDN
 HOST-SUFFIX,videos.elephas.app,CDN
 HOST-SUFFIX,videos.ohentai.org,CDN
