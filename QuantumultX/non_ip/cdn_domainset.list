@@ -317,6 +317,7 @@ HOST-SUFFIX,od-cdn.com,CDN
 HOST-SUFFIX,odycdn.com,CDN
 HOST-SUFFIX,p.sda1.dev,CDN
 HOST-SUFFIX,pagecdn.io,CDN
+HOST-SUFFIX,pgimgs.com,CDN
 HOST-SUFFIX,phncdn.com,CDN
 HOST-SUFFIX,pinimg.com,CDN
 HOST-SUFFIX,pixhost.to,CDN
@@ -3576,6 +3577,7 @@ HOST-SUFFIX,static.chaosgroup.com,CDN
 HOST-SUFFIX,static.chessarena.com,CDN
 HOST-SUFFIX,static.clips4sale.com,CDN
 HOST-SUFFIX,static.getpostman.com,CDN
+HOST-SUFFIX,static.idp.sph.com.sg,CDN
 HOST-SUFFIX,static.mytonwallet.io,CDN
 HOST-SUFFIX,static.openreplay.com,CDN
 HOST-SUFFIX,static.pfrt.yna.co.kr,CDN
