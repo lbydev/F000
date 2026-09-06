@@ -2390,6 +2390,7 @@ HOST-SUFFIX,st.codeforces.com,CDN
 HOST-SUFFIX,st.deviantart.net,CDN
 HOST-SUFFIX,static-id.fc2.com,CDN
 HOST-SUFFIX,static-sv.fc2.com,CDN
+HOST-SUFFIX,static-upwork.com,CDN
 HOST-SUFFIX,static.ahrefs.com,CDN
 HOST-SUFFIX,static.anysex.com,CDN
 HOST-SUFFIX,static.bbci.co.uk,CDN
@@ -4013,7 +4014,6 @@ HOST-SUFFIX,assets.documentcloud.org,CDN
 HOST-SUFFIX,assets.geeksforgeeks.org,CDN
 HOST-SUFFIX,assets.nationbuilder.com,CDN
 HOST-SUFFIX,assets.prowritingaid.com,CDN
-HOST-SUFFIX,assets.static-upwork.com,CDN
 HOST-SUFFIX,assets.trainingpeaks.com,CDN
 HOST-SUFFIX,assets10.lottiefiles.com,CDN
 HOST-SUFFIX,atl-global.atlassian.com,CDN
