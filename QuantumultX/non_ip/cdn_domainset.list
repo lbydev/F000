@@ -589,6 +589,7 @@ HOST-SUFFIX,4everland.io,CDN
 HOST-SUFFIX,aimg.fc2.com,CDN
 HOST-SUFFIX,ajax.cat.net,CDN
 HOST-SUFFIX,apperoni.top,CDN
+HOST-SUFFIX,axiom-cdn.io,CDN
 HOST-SUFFIX,axis-cdn.net,CDN
 HOST-SUFFIX,b.peatio.com,CDN
 HOST-SUFFIX,b.sf-syn.com,CDN
@@ -1049,6 +1050,7 @@ HOST-SUFFIX,stackblitz.io,CDN
 HOST-SUFFIX,static.dw.com,CDN
 HOST-SUFFIX,static.ffx.io,CDN
 HOST-SUFFIX,static.iyf.tv,CDN
+HOST-SUFFIX,static.jup.ag,CDN
 HOST-SUFFIX,static.k2s.cc,CDN
 HOST-SUFFIX,static.nrk.no,CDN
 HOST-SUFFIX,static.ui.com,CDN
@@ -3067,6 +3069,8 @@ HOST-SUFFIX,storageapi.fleek.co,CDN
 HOST-SUFFIX,sync.getpublica.com,CDN
 HOST-SUFFIX,tag.unifyintent.com,CDN
 HOST-SUFFIX,tags.nationwide.com,CDN
+HOST-SUFFIX,thumb.wikimedia.org,CDN
+HOST-SUFFIX,thumbnails.padre.gg,CDN
 HOST-SUFFIX,thumbs.onlyfans.com,CDN
 HOST-SUFFIX,thumbs2.sendvid.com,CDN
 HOST-SUFFIX,tile2.intervals.icu,CDN
@@ -3281,6 +3285,7 @@ HOST-SUFFIX,r2cdn.myshopline.com,CDN
 HOST-SUFFIX,rapid-cdn.yottaa.com,CDN
 HOST-SUFFIX,reload.getsentry.net,CDN
 HOST-SUFFIX,res-3.cdn.office.net,CDN
+HOST-SUFFIX,resources.redbull.tv,CDN
 HOST-SUFFIX,resources.whatwg.org,CDN
 HOST-SUFFIX,rs-cdn.splashtop.com,CDN
 HOST-SUFFIX,rules1.clearurls.xyz,CDN
@@ -4116,6 +4121,7 @@ HOST-SUFFIX,tiles.openrailwaymap.org,CDN
 HOST-SUFFIX,tools-static.wmflabs.org,CDN
 HOST-SUFFIX,typescript.azureedge.net,CDN
 HOST-SUFFIX,ubistatic2-a.ubisoft.com,CDN
+HOST-SUFFIX,ugc.production.linktr.ee,CDN
 HOST-SUFFIX,viu-static.akamaized.net,CDN
 HOST-SUFFIX,web-assets.zendesk.co.jp,CDN
 HOST-SUFFIX,wl-apps.yourwebsite.life,CDN
@@ -4139,6 +4145,7 @@ HOST-SUFFIX,cdn.privacy.paramount.com,CDN
 HOST-SUFFIX,cdn.registerdisney.go.com,CDN
 HOST-SUFFIX,changelog-widget.canny.io,CDN
 HOST-SUFFIX,chunk-composing.canva.com,CDN
+HOST-SUFFIX,coin-images.coingecko.com,CDN
 HOST-SUFFIX,components.justanswer.com,CDN
 HOST-SUFFIX,cors-proxy.htmldriven.com,CDN
 HOST-SUFFIX,crashlytics2.l.google.com,CDN
@@ -4311,6 +4318,7 @@ HOST-SUFFIX,antiqua-ux-cdn.monotype.com,CDN
 HOST-SUFFIX,app-static-prod.posthog.com,CDN
 HOST-SUFFIX,article-image-ix.nikkei.com,CDN
 HOST-SUFFIX,assets.braintreegateway.com,CDN
+HOST-SUFFIX,assets.production.linktr.ee,CDN
 HOST-SUFFIX,assets.weather-forecast.com,CDN
 HOST-SUFFIX,cdn-lfs-us-1.huggingface.co,CDN
 HOST-SUFFIX,cdn-live.foreignaffairs.com,CDN
