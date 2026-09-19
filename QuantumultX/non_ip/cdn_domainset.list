@@ -344,6 +344,7 @@ HOST-SUFFIX,sascdn.com,CDN
 HOST-SUFFIX,sc-cdn.com,CDN
 HOST-SUFFIX,scene7.com,CDN
 HOST-SUFFIX,seecdn.com,CDN
+HOST-SUFFIX,seecdn.net,CDN
 HOST-SUFFIX,sftcdn.net,CDN
 HOST-SUFFIX,shgcdn.com,CDN
 HOST-SUFFIX,shields.io,CDN
@@ -561,7 +562,6 @@ HOST-SUFFIX,th.bing.com,CDN
 HOST-SUFFIX,tile.osm.be,CDN
 HOST-SUFFIX,tile.osm.ch,CDN
 HOST-SUFFIX,tn.vjav.com,CDN
-HOST-SUFFIX,tripcdn.com,CDN
 HOST-SUFFIX,ttcache.com,CDN
 HOST-SUFFIX,turbo.build,CDN
 HOST-SUFFIX,tutu1.space,CDN
@@ -983,6 +983,7 @@ HOST-SUFFIX,ipfs.slang.cx,CDN
 HOST-SUFFIX,itvstatic.com,CDN
 HOST-SUFFIX,jdbstatic.com,CDN
 HOST-SUFFIX,jisuimage.com,CDN
+HOST-SUFFIX,js.arcgis.com,CDN
 HOST-SUFFIX,js.klarna.com,CDN
 HOST-SUFFIX,js.prosopo.io,CDN
 HOST-SUFFIX,js.pusher.com,CDN
@@ -1361,6 +1362,7 @@ HOST-SUFFIX,static.fc2.com,CDN
 HOST-SUFFIX,static.itch.io,CDN
 HOST-SUFFIX,static.j51.net,CDN
 HOST-SUFFIX,static.lwn.net,CDN
+HOST-SUFFIX,static.okou.io,CDN
 HOST-SUFFIX,static.okx.cab,CDN
 HOST-SUFFIX,static.okx.com,CDN
 HOST-SUFFIX,static.reo.dev,CDN
@@ -1808,6 +1810,7 @@ HOST-SUFFIX,cdn.dribbble.com,CDN
 HOST-SUFFIX,cdn.easyling.com,CDN
 HOST-SUFFIX,cdn.ecomm.ui.com,CDN
 HOST-SUFFIX,cdn.equalweb.com,CDN
+HOST-SUFFIX,cdn.eye-able.com,CDN
 HOST-SUFFIX,cdn.firebase.com,CDN
 HOST-SUFFIX,cdn.foxycart.com,CDN
 HOST-SUFFIX,cdn.getkoala.com,CDN
@@ -3707,6 +3710,7 @@ HOST-SUFFIX,images-assets.nasa.gov,CDN
 HOST-SUFFIX,images.contentstack.io,CDN
 HOST-SUFFIX,images.hothardware.com,CDN
 HOST-SUFFIX,images.newrepublic.com,CDN
+HOST-SUFFIX,images.radio-canada.ca,CDN
 HOST-SUFFIX,images.socialblade.com,CDN
 HOST-SUFFIX,images.wsjcommerce.net,CDN
 HOST-SUFFIX,images.wurstclient.net,CDN
