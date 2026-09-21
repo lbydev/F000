@@ -1917,6 +1917,7 @@ HOST-SUFFIX,images-iherb.com,CDN
 HOST-SUFFIX,images.axios.com,CDN
 HOST-SUFFIX,images.bfmtv.com,CDN
 HOST-SUFFIX,images.drata.com,CDN
+HOST-SUFFIX,images.hibob.com,CDN
 HOST-SUFFIX,images.nebula.tv,CDN
 HOST-SUFFIX,images.pling.com,CDN
 HOST-SUFFIX,images.plurk.com,CDN
@@ -3938,6 +3939,7 @@ HOST-SUFFIX,mangaz-static.j-comi.jp,CDN
 HOST-SUFFIX,media-cdn.atlassian.com,CDN
 HOST-SUFFIX,media-cdn.epicgames.com,CDN
 HOST-SUFFIX,media-cms.onesignal.com,CDN
+HOST-SUFFIX,media-process.hibob.com,CDN
 HOST-SUFFIX,media.contentapi.ea.com,CDN
 HOST-SUFFIX,media.geeksforgeeks.org,CDN
 HOST-SUFFIX,media.nbclosangeles.com,CDN
