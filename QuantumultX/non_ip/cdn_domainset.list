@@ -117,6 +117,7 @@ HOST-SUFFIX,epimg.net,CDN
 HOST-SUFFIX,erocdn.co,CDN
 HOST-SUFFIX,eth.sucks,CDN
 HOST-SUFFIX,f-cdn.com,CDN
+HOST-SUFFIX,fal.media,CDN
 HOST-SUFFIX,fbcdn.com,CDN
 HOST-SUFFIX,fbcdn.net,CDN
 HOST-SUFFIX,fbsbx.com,CDN
@@ -3863,6 +3864,7 @@ HOST-SUFFIX,assets.digitalocean.com,CDN
 HOST-SUFFIX,assets.lemonsqueezy.com,CDN
 HOST-SUFFIX,assets.mcp.corespeed.io,CDN
 HOST-SUFFIX,assets.science.nasa.gov,CDN
+HOST-SUFFIX,assets.singaporeair.com,CDN
 HOST-SUFFIX,assets.streamlinehq.com,CDN
 HOST-SUFFIX,assets.xboxservices.com,CDN
 HOST-SUFFIX,assets1.lottiefiles.com,CDN
