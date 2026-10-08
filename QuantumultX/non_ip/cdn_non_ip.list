@@ -82,3 +82,4 @@ HOST-WILDCARD,fastly-*.allmovie.com,CDN
 HOST-WILDCARD,cdn*.porn87.com,CDN
 HOST-WILDCARD,cdn*.pornhost.com,CDN
 HOST-WILDCARD,cdn*.boysfood.com,CDN
+HOST-WILDCARD,rum-ingest.*.signalfx.com,CDN

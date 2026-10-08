@@ -1777,6 +1777,7 @@ HOST-SUFFIX,assets.stash.com,CDN
 HOST-SUFFIX,assets.toot.cafe,CDN
 HOST-SUFFIX,assets.twitch.tv,CDN
 HOST-SUFFIX,assets.upload.io,CDN
+HOST-SUFFIX,assets.vanta.com,CDN
 HOST-SUFFIX,assets.vogue.com,CDN
 HOST-SUFFIX,assets.volvo.com,CDN
 HOST-SUFFIX,assets.xmind.net,CDN
@@ -2348,6 +2349,7 @@ HOST-SUFFIX,media.nownews.com,CDN
 HOST-SUFFIX,media.zestyio.com,CDN
 HOST-SUFFIX,mediadelivery.net,CDN
 HOST-SUFFIX,monitor.azure.com,CDN
+HOST-SUFFIX,n.approveit.today,CDN
 HOST-SUFFIX,netlify.apollo.io,CDN
 HOST-SUFFIX,notion-static.com,CDN
 HOST-SUFFIX,ocsp.comodoca.com,CDN
@@ -4388,6 +4390,7 @@ HOST-SUFFIX,player-frontend.cnevids.com,CDN
 HOST-SUFFIX,prego-cache.prod.sketch.com,CDN
 HOST-SUFFIX,public-pages.cbinsights.com,CDN
 HOST-SUFFIX,resources-live.sketch.cloud,CDN
+HOST-SUFFIX,rum-ingest.us1.signalfx.com,CDN
 HOST-SUFFIX,safebrowsing.googleapis.com,CDN
 HOST-SUFFIX,sessions-bugsnag.docker.com,CDN
 HOST-SUFFIX,siteintercept.qualtrics.com,CDN
@@ -4397,6 +4400,7 @@ HOST-SUFFIX,static-homepage-en.pluto.tv,CDN
 HOST-SUFFIX,static-mh.content.disney.io,CDN
 HOST-SUFFIX,static-production.npmjs.com,CDN
 HOST-SUFFIX,static-webfonts.myfonts.com,CDN
+HOST-SUFFIX,static.acm.account.sony.com,CDN
 HOST-SUFFIX,static.captcha-delivery.com,CDN
 HOST-SUFFIX,sts.online.visualstudio.com,CDN
 HOST-SUFFIX,tvdownloaddw-a.akamaihd.net,CDN
