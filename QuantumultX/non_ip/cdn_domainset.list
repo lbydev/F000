@@ -1492,6 +1492,7 @@ HOST-SUFFIX,cdn.parsely.com,CDN
 HOST-SUFFIX,cdn.perfops.net,CDN
 HOST-SUFFIX,cdn.pixabay.com,CDN
 HOST-SUFFIX,cdn.plus500.com,CDN
+HOST-SUFFIX,cdn.priv.center,CDN
 HOST-SUFFIX,cdn.privacy.com,CDN
 HOST-SUFFIX,cdn.quadpay.com,CDN
 HOST-SUFFIX,cdn.readmoo.com,CDN
@@ -1587,6 +1588,7 @@ HOST-SUFFIX,icons.llamao.fi,CDN
 HOST-SUFFIX,image.gyutto.jp,CDN
 HOST-SUFFIX,image.status.io,CDN
 HOST-SUFFIX,images.dmca.com,CDN
+HOST-SUFFIX,images.higgs.ai,CDN
 HOST-SUFFIX,images.kick.com,CDN
 HOST-SUFFIX,images.pluto.tv,CDN
 HOST-SUFFIX,images.vudu.com,CDN
@@ -4524,6 +4526,7 @@ HOST-SUFFIX,cdn.designerapp.osi.office.net,CDN
 HOST-SUFFIX,cdn.quickemailverification.com,CDN
 HOST-SUFFIX,cdn.rex.contents.rakuten.co.jp,CDN
 HOST-SUFFIX,config.extension.grammarly.com,CDN
+HOST-SUFFIX,customer-first-focus.b-cdn.net,CDN
 HOST-SUFFIX,dev.visualwebsiteoptimizer.com,CDN
 HOST-SUFFIX,edgeassetservice.azureedge.net,CDN
 HOST-SUFFIX,explorer-api.walletconnect.com,CDN
