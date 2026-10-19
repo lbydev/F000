@@ -2770,6 +2770,7 @@ HOST-SUFFIX,upload.teftera.com,CDN
 HOST-SUFFIX,uploads.guim.co.uk,CDN
 HOST-SUFFIX,uploads.linear.app,CDN
 HOST-SUFFIX,v2uploads.zopim.io,CDN
+HOST-SUFFIX,vcc-assets.8x8.com,CDN
 HOST-SUFFIX,vector.hereapi.com,CDN
 HOST-SUFFIX,video3.mingpao.com,CDN
 HOST-SUFFIX,videos.elephas.app,CDN
@@ -2997,6 +2998,7 @@ HOST-SUFFIX,media.karousell.com,CDN
 HOST-SUFFIX,media.newyorker.com,CDN
 HOST-SUFFIX,media.shopimind.com,CDN
 HOST-SUFFIX,media.strapiapp.com,CDN
+HOST-SUFFIX,media.trekbikes.com,CDN
 HOST-SUFFIX,medium-media.vgm.io,CDN
 HOST-SUFFIX,motherlessmedia.com,CDN
 HOST-SUFFIX,msftconnecttest.com,CDN
@@ -3498,6 +3500,7 @@ HOST-SUFFIX,fimfiction-static.net,CDN
 HOST-SUFFIX,font-public.canva.com,CDN
 HOST-SUFFIX,framerusercontent.com,CDN
 HOST-SUFFIX,front-resource.fs.com,CDN
+HOST-SUFFIX,frontend2.locally.com,CDN
 HOST-SUFFIX,gateway.serph.network,CDN
 HOST-SUFFIX,githubusercontent.com,CDN
 HOST-SUFFIX,gitpkg-fork.vercel.sh,CDN
