@@ -2001,6 +2001,7 @@ HOST-SUFFIX,media3.giphy.com,CDN
 HOST-SUFFIX,media4.giphy.com,CDN
 HOST-SUFFIX,meetupstatic.com,CDN
 HOST-SUFFIX,meteorclient.com,CDN
+HOST-SUFFIX,metrics.manus.im,CDN
 HOST-SUFFIX,mirror-media.xyz,CDN
 HOST-SUFFIX,neweggimages.com,CDN
 HOST-SUFFIX,ocsp.godaddy.com,CDN
@@ -3980,6 +3981,7 @@ HOST-SUFFIX,scripts.dailymail.co.uk,CDN
 HOST-SUFFIX,server.arcgisonline.com,CDN
 HOST-SUFFIX,static-assets.juksy.com,CDN
 HOST-SUFFIX,static-images.remax.com,CDN
+HOST-SUFFIX,static-page.tp-link.com,CDN
 HOST-SUFFIX,static.chrome-stats.com,CDN
 HOST-SUFFIX,static.fastboostcdn.com,CDN
 HOST-SUFFIX,static.filestackapi.com,CDN
