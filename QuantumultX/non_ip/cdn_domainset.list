@@ -1389,6 +1389,7 @@ HOST-SUFFIX,tile.ourmap.us,CDN
 HOST-SUFFIX,time.apple.com,CDN
 HOST-SUFFIX,tn.upornia.com,CDN
 HOST-SUFFIX,torproject.org,CDN
+HOST-SUFFIX,trvl-media.com,CDN
 HOST-SUFFIX,typography.com,CDN
 HOST-SUFFIX,ungrounded.net,CDN
 HOST-SUFFIX,us-js.zonka.co,CDN
@@ -2458,6 +2459,7 @@ HOST-SUFFIX,tiles3.planet.com,CDN
 HOST-SUFFIX,todoist.b-cdn.net,CDN
 HOST-SUFFIX,tools.refokus.com,CDN
 HOST-SUFFIX,transcend-cdn.com,CDN
+HOST-SUFFIX,travel-assets.com,CDN
 HOST-SUFFIX,uhf.microsoft.com,CDN
 HOST-SUFFIX,v2.listenloop.com,CDN
 HOST-SUFFIX,videodelivery.net,CDN
