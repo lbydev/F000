@@ -320,6 +320,7 @@ HOST-SUFFIX,p.sda1.dev,CDN
 HOST-SUFFIX,pagecdn.io,CDN
 HOST-SUFFIX,pgimgs.com,CDN
 HOST-SUFFIX,phncdn.com,CDN
+HOST-SUFFIX,pic2.99.co,CDN
 HOST-SUFFIX,pinimg.com,CDN
 HOST-SUFFIX,pixhost.to,CDN
 HOST-SUFFIX,pixoraa.cc,CDN
@@ -1420,6 +1421,7 @@ HOST-SUFFIX,api.bintray.com,CDN
 HOST-SUFFIX,api.weather.com,CDN
 HOST-SUFFIX,app.gitbook.com,CDN
 HOST-SUFFIX,asset.chase.com,CDN
+HOST-SUFFIX,assets-v2.99.co,CDN
 HOST-SUFFIX,assets.about.me,CDN
 HOST-SUFFIX,assets.bbhub.io,CDN
 HOST-SUFFIX,assets.canny.io,CDN
@@ -1427,6 +1429,7 @@ HOST-SUFFIX,assets.cello.so,CDN
 HOST-SUFFIX,assets.clibo.tw,CDN
 HOST-SUFFIX,assets.game8.co,CDN
 HOST-SUFFIX,assets.goat.com,CDN
+HOST-SUFFIX,assets.grab.com,CDN
 HOST-SUFFIX,assets.habr.com,CDN
 HOST-SUFFIX,assets.jable.tv,CDN
 HOST-SUFFIX,assets.kagi.com,CDN
@@ -2810,6 +2813,7 @@ HOST-SUFFIX,archive.mozilla.org,CDN
 HOST-SUFFIX,assets-cdn.jable.tv,CDN
 HOST-SUFFIX,assets-cdn.porn.com,CDN
 HOST-SUFFIX,assets-docs.dify.ai,CDN
+HOST-SUFFIX,assets-static.99.co,CDN
 HOST-SUFFIX,assets-www.xbox.com,CDN
 HOST-SUFFIX,assets.adobedtm.com,CDN
 HOST-SUFFIX,assets.airbuddy.app,CDN
@@ -3979,6 +3983,7 @@ HOST-SUFFIX,s3media.squarespace.com,CDN
 HOST-SUFFIX,safebrowsing.google.com,CDN
 HOST-SUFFIX,sciencedirectassets.com,CDN
 HOST-SUFFIX,screenshots.webflow.com,CDN
+HOST-SUFFIX,scribe-web-sdk.grab.com,CDN
 HOST-SUFFIX,scripts.dailymail.co.uk,CDN
 HOST-SUFFIX,server.arcgisonline.com,CDN
 HOST-SUFFIX,static-assets.juksy.com,CDN
@@ -4415,6 +4420,7 @@ HOST-SUFFIX,static-production.npmjs.com,CDN
 HOST-SUFFIX,static-webfonts.myfonts.com,CDN
 HOST-SUFFIX,static.acm.account.sony.com,CDN
 HOST-SUFFIX,static.captcha-delivery.com,CDN
+HOST-SUFFIX,static1.straitstimes.com.sg,CDN
 HOST-SUFFIX,sts.online.visualstudio.com,CDN
 HOST-SUFFIX,tvdownloaddw-a.akamaihd.net,CDN
 HOST-SUFFIX,typescript.visualstudio.com,CDN
@@ -4680,6 +4686,7 @@ HOST-SUFFIX,edge-cloud-resource-static.azureedge.net,CDN
 HOST-SUFFIX,edgecdn-embza6g8cacagcbn.z01.azurefd.net,CDN
 HOST-SUFFIX,cdn.mcauto-images-production.sendgrid.net,CDN
 HOST-SUFFIX,cf-images.ap-northeast-1.prod.boltdns.net,CDN
+HOST-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net,CDN
 HOST-SUFFIX,marfeelexperimentsexperienceengine.mrf.io,CDN
 HOST-SUFFIX,prod-streaming-video-msn-com.akamaized.net,CDN
 HOST-SUFFIX,talon-website-prod.ecosec.on.epicgames.com,CDN
