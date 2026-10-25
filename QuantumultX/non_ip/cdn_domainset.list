@@ -2307,6 +2307,7 @@ HOST-SUFFIX,image.ap-mail.org,CDN
 HOST-SUFFIX,image.civitai.com,CDN
 HOST-SUFFIX,image.comicbz.com,CDN
 HOST-SUFFIX,image.freepik.com,CDN
+HOST-SUFFIX,image.gameapps.hk,CDN
 HOST-SUFFIX,image.mgstage.com,CDN
 HOST-SUFFIX,image.prntscr.com,CDN
 HOST-SUFFIX,image.xmanhua.net,CDN
@@ -2415,6 +2416,7 @@ HOST-SUFFIX,static.anysex.com,CDN
 HOST-SUFFIX,static.bbci.co.uk,CDN
 HOST-SUFFIX,static.beebom.com,CDN
 HOST-SUFFIX,static.buffer.com,CDN
+HOST-SUFFIX,static.capcom.com,CDN
 HOST-SUFFIX,static.carfax.com,CDN
 HOST-SUFFIX,static.chaika.moe,CDN
 HOST-SUFFIX,static.change.org,CDN
@@ -2750,6 +2752,7 @@ HOST-SUFFIX,static.snaptube.in,CDN
 HOST-SUFFIX,static.srcspot.com,CDN
 HOST-SUFFIX,static.svc.litv.tv,CDN
 HOST-SUFFIX,static.tp-link.com,CDN
+HOST-SUFFIX,static.truemed.com,CDN
 HOST-SUFFIX,static.uptimia.com,CDN
 HOST-SUFFIX,static.workday.com,CDN
 HOST-SUFFIX,static.xgroovy.com,CDN
@@ -3171,6 +3174,7 @@ HOST-SUFFIX,cdn.boostcommerce.io,CDN
 HOST-SUFFIX,cdn.botframework.com,CDN
 HOST-SUFFIX,cdn.buymeacoffee.com,CDN
 HOST-SUFFIX,cdn.c1.amplience.net,CDN
+HOST-SUFFIX,cdn.capcom-unity.com,CDN
 HOST-SUFFIX,cdn.clever-cloud.com,CDN
 HOST-SUFFIX,cdn.cnx-software.com,CDN
 HOST-SUFFIX,cdn.downdetector.com,CDN
@@ -3909,6 +3913,7 @@ HOST-SUFFIX,cdn-static-1.medium.com,CDN
 HOST-SUFFIX,cdn-uicons.flaticon.com,CDN
 HOST-SUFFIX,cdn.northropgrumman.com,CDN
 HOST-SUFFIX,cdn.prod.www.spiegel.de,CDN
+HOST-SUFFIX,cdn.promo.capcomusa.com,CDN
 HOST-SUFFIX,cdn.ready-market.com.tw,CDN
 HOST-SUFFIX,cdn.survey.medallia.com,CDN
 HOST-SUFFIX,cdn.worldvectorlogo.com,CDN
