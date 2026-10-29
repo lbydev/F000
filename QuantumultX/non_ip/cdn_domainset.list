@@ -63,6 +63,7 @@ HOST-SUFFIX,i.gzn.jp,CDN
 HOST-SUFFIX,i.ibb.co,CDN
 HOST-SUFFIX,i.vgy.me,CDN
 HOST-SUFFIX,icons.ly,CDN
+HOST-SUFFIX,imgur.la,CDN
 HOST-SUFFIX,jspm.dev,CDN
 HOST-SUFFIX,jspm.org,CDN
 HOST-SUFFIX,loli.net,CDN
@@ -358,6 +359,7 @@ HOST-SUFFIX,sndimg.com,CDN
 HOST-SUFFIX,sp.nba.com,CDN
 HOST-SUFFIX,ss-cdn.com,CDN
 HOST-SUFFIX,st.agrd.eu,CDN
+HOST-SUFFIX,static.pub,CDN
 HOST-SUFFIX,strpst.com,CDN
 HOST-SUFFIX,surrit.com,CDN
 HOST-SUFFIX,sxccdn.com,CDN
