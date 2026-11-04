@@ -4604,6 +4604,7 @@ HOST-SUFFIX,static.institution.grammarly.com,CDN
 HOST-SUFFIX,static.registration.bluehost.com,CDN
 HOST-SUFFIX,w-credentialless-staticblitz.com,CDN
 HOST-SUFFIX,assets-growth-common.circleci.com,CDN
+HOST-SUFFIX,assets.temporary-phone-number.com,CDN
 HOST-SUFFIX,consumersiteimages.trustpilot.net,CDN
 HOST-SUFFIX,firebase-settings.crashlytics.com,CDN
 HOST-SUFFIX,firebaselogging-pa.googleapis.com,CDN
