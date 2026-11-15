@@ -2650,6 +2650,7 @@ HOST-SUFFIX,maps.wikimedia.org,CDN
 HOST-SUFFIX,maptile.osmand.net,CDN
 HOST-SUFFIX,media-cms.ayoba.me,CDN
 HOST-SUFFIX,media.cgtrader.com,CDN
+HOST-SUFFIX,media.datacamp.com,CDN
 HOST-SUFFIX,media.flaticon.com,CDN
 HOST-SUFFIX,media.formula1.com,CDN
 HOST-SUFFIX,media.gamestop.com,CDN
@@ -3344,6 +3345,7 @@ HOST-SUFFIX,static.grammarly.com,CDN
 HOST-SUFFIX,static.helpjuice.com,CDN
 HOST-SUFFIX,static.incapsula.com,CDN
 HOST-SUFFIX,static.infomaniak.ch,CDN
+HOST-SUFFIX,static.karousell.com,CDN
 HOST-SUFFIX,static.macupdate.com,CDN
 HOST-SUFFIX,static.mediafire.com,CDN
 HOST-SUFFIX,static.meteoblue.com,CDN
