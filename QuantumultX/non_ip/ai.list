@@ -21,6 +21,7 @@ HOST-SUFFIX,chatgpt.site,AI
 HOST-SUFFIX,deepmind.com,AI
 HOST,ai.google.dev,AI
 HOST-SUFFIX,anthropic.com,AI
+HOST,cloud.zed.dev,AI
 HOST-SUFFIX,gemini.google,AI
 HOST-SUFFIX,oaistatic.com,AI
 HOST,openrouter.ai,AI
