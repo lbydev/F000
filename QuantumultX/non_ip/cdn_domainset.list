@@ -3474,7 +3474,6 @@ HOST-SUFFIX,cdne-pics.youjizz.com,CDN
 HOST-SUFFIX,cdnjs.betterstack.com,CDN
 HOST-SUFFIX,chargebeestaticv2.com,CDN
 HOST-SUFFIX,chat-assets.front.app,CDN
-HOST-SUFFIX,claudeusercontent.com,CDN
 HOST-SUFFIX,cloud.typenetwork.com,CDN
 HOST-SUFFIX,cloud1.influxdata.com,CDN
 HOST-SUFFIX,cloud2.influxdata.com,CDN
@@ -4378,6 +4377,7 @@ HOST-SUFFIX,encrypted-vtbn0.gstatic.com,CDN
 HOST-SUFFIX,encrypted-vtbn1.gstatic.com,CDN
 HOST-SUFFIX,encrypted-vtbn2.gstatic.com,CDN
 HOST-SUFFIX,encrypted-vtbn3.gstatic.com,CDN
+HOST-SUFFIX,frame.claudeusercontent.com,CDN
 HOST-SUFFIX,images-eds-ssl.xboxlive.com,CDN
 HOST-SUFFIX,images-ext-1.discordapp.net,CDN
 HOST-SUFFIX,images-ext-2.discordapp.net,CDN
@@ -4431,6 +4431,7 @@ HOST-SUFFIX,agechecker-northern-apps.com,CDN
 HOST-SUFFIX,agechecker.northern-apps.com,CDN
 HOST-SUFFIX,applicationinsights.azure.cn,CDN
 HOST-SUFFIX,assets-cdn.watchdisneyfe.com,CDN
+HOST-SUFFIX,assets.claudeusercontent.com,CDN
 HOST-SUFFIX,assets.positional-bucket.com,CDN
 HOST-SUFFIX,assets4.mist-train-girls.com,CDN
 HOST-SUFFIX,cdn-dynmedia-1.microsoft.com,CDN
@@ -4477,6 +4478,7 @@ HOST-SUFFIX,static-oforms.onlyoffice.com,CDN
 HOST-SUFFIX,static-prod-web.miniclip.com,CDN
 HOST-SUFFIX,static-r.kamihimeproject.net,CDN
 HOST-SUFFIX,static-secure-uploads.ui.com,CDN
+HOST-SUFFIX,static.claudeusercontent.com,CDN
 HOST-SUFFIX,static.community.workday.com,CDN
 HOST-SUFFIX,static.edge.microsoftapp.net,CDN
 HOST-SUFFIX,static2.sharepointonline.com,CDN
@@ -4485,6 +4487,7 @@ HOST-SUFFIX,store-images.s-microsoft.com,CDN
 HOST-SUFFIX,tunnels.api.visualstudio.com,CDN
 HOST-SUFFIX,ui-statics-cf.streamable.com,CDN
 HOST-SUFFIX,uos-support-files.svc.ui.com,CDN
+HOST-SUFFIX,upload.claudeusercontent.com,CDN
 HOST-SUFFIX,vsmarketplacebadge.apphb.com,CDN
 HOST-SUFFIX,wctour-images.worldchess.com,CDN
 HOST-SUFFIX,akamai-assets.squarespace.com,CDN

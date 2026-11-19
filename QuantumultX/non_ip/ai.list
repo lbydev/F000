@@ -16,6 +16,7 @@ HOST-SUFFIX,jasper.ai,AI
 HOST-SUFFIX,claude.com,AI
 HOST-SUFFIX,openart.ai,AI
 HOST-SUFFIX,chatgpt.com,AI
+HOST,claude.site,AI
 HOST-SUFFIX,clipdrop.co,AI
 HOST-SUFFIX,chatgpt.site,AI
 HOST-SUFFIX,deepmind.com,AI
@@ -47,6 +48,7 @@ HOST-SUFFIX,geller-pa.googleapis.com,AI
 HOST,gateway.ai.cloudflare.com,AI
 HOST,aisandbox-pa.googleapis.com,AI
 HOST-SUFFIX,cloudcode-pa.googleapis.com,AI
+HOST,bridge.claudeusercontent.com,AI
 HOST,server.self-serve.windsurf.com,AI
 HOST,robinfrontend-pa.googleapis.com,AI
 HOST,alkalicore-pa.clients6.google.com,AI
