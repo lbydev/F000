@@ -4060,6 +4060,7 @@ HOST-SUFFIX,axiecdn.axieinfinity.com,CDN
 HOST-SUFFIX,brick.freetls.fastly.net,CDN
 HOST-SUFFIX,buildkiteusercontent.com,CDN
 HOST-SUFFIX,bundle.thimatic-apps.com,CDN
+HOST-SUFFIX,butterfly-effect-cdn.dev,CDN
 HOST-SUFFIX,cache.omnicalculator.com,CDN
 HOST-SUFFIX,cdn-image01.casetify.com,CDN
 HOST-SUFFIX,cdn-image02.casetify.com,CDN
@@ -4166,6 +4167,7 @@ HOST-SUFFIX,app-static.sendsafely.com,CDN
 HOST-SUFFIX,asset-cdn.uscardforum.com,CDN
 HOST-SUFFIX,assets.map.brightcove.com,CDN
 HOST-SUFFIX,assets.media-platform.com,CDN
+HOST-SUFFIX,assets.monetizationos.com,CDN
 HOST-SUFFIX,assets.openalternative.co,CDN
 HOST-SUFFIX,assets.shortbread.aws.dev,CDN
 HOST-SUFFIX,assets.squarewebsites.org,CDN
